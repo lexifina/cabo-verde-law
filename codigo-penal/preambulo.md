@@ -1,0 +1,15 @@
+# Preâmbulo
+É hoje indiscutível a afirmação de que o Código Penal, mais do que qualquer outro conjunto de normas, corporiza as regras básicas de convivência de uma comunidade alicerçadas naquele mínimo ético aceite por uma sociedade, não só pelo tipo e natureza das sanções que contém mas igualmente pela selecção dos bens jurídicos que faz, enfim, pelo ideário político - criminal que atravessa e dá consistência a todo o seu tecido normativo.
+O Código Penal vigente em Cabo Verde é basicamente o Código Penal português de 1886, e, em boa parte, o de 1852, com as alterações constantes de algumas reformas parcelares levadas a cabo em Portugal, e tornadas extensivas ao então Ultramar, e muito localizadas e pequenas alterações impostas pelo legislador cabo-verdiano, após a independência do país.
+De mais a mais, sempre se considera ser o Código Penal um verdadeiro "termómetro" da evolução política, para realçar o estreito vínculo entre as mudanças de regime político e o Código Penal.
+Ora, no nosso caso, mantém-se, no essencial, um Código do século XIX, que não é, nem podia ser um Código que reflectisse, de algum modo, os valores próprios de um Estado de direito moderno, sabendo-se, como se sabe, que o direito penal é a parcela do ordenamento jurídico que mais atinência tem com a matéria de direitos, liberdades e garantias individuais, e que um Estado de Direito Democrático não pode manejar os instrumentos punitivos com os mesmos critérios com que o faz um sistema de poder autoritário.
+Se pensarmos que nos últimos vinte e sete anos sucedeu a independência do país e ocorreu uma mudança de regime, que desde 1992 temos uma nova Constituição, a qual institui um Estado de Direito Democrático e que define um conjunto de normas e princípios a observar pelo legislador ordinário, nomeadamente no domínio penal, ficará clara a necessidade de uma reforma urgente e global do velho código que ainda vigora entre nós.
+Essa reforma justifica-se, pois, porque:
+a) As normas relativas àquilo a que se chama doutrina geral do crime mostram-se completamente desactualizadas, face à evolução da dogmática jurídico-penal;
+b) As condições sociais, económicas, culturais e políticas de Cabo Verde nada têm já a ver com o século XIX;
+c) O próprio pensamento jurídico-penal, nas intenções político-criminais fundamentais que contendem directamente com as partes especiais dos códigos penais, modificou-se profunda e radicalmente;
+d) A Parte Especial, nem de perto, nem de longe eleva à categoria de bens jurídico-penais os valores que a comunidade politicamente organizada hoje exige como essenciais à sua afirmação e subsistência.
+Assim,
+Convindo aprovar um novo Código Penal e, consequentemente, proceder à revogação do Decreto de 16 de Setembro de 1886 e as suas alterações bem como todas as disposições legais contidas em leis avulsas que prevêem e punem factos incriminados pelo novo diploma.
+Ao abrigo da autorização legislativa concedida pela Lei n.º 24/VI/2003, de 21 de Julho;
+No uso da faculdade conferida pela alínea b) do n.º 2 do artigo 203º da Constituição, o Governo decreta o seguinte:
