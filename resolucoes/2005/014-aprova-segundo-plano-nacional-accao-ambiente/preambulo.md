@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 25 de Abril Norteada pelas Grandes Opr;oes do Plano que define a imagem futura de Cabo Verde como um pais aberto ao mundo, com um sistema produtivo forte e dinamico, assente na valorizai;ao do seu capital humano, capacitai;ao tecnol6gica e na sua cultura. Uma sociedade solidaria, de paz e justir;a social, democratica, aberta e tolerante. Um pais dotado de um desenvolvimento humano <luravel, com um desenvoivimento regional equilibrado, sentido estetico e ambiental, baseado nmna consciencia eco16gica desenvolvida, Considerando a vulnerabilidade ambiental que caracteriza o pais e a horizontalidade da politica do ambiente, No uso <la faculdade conferida pelo n° 2 do artigo 260° da Constituir;ao, o Governo aprova a seguinte resolur;ao:
