@@ -1,0 +1,27 @@
+# Preâmbulo
+
+560 I SERlE -1f' 23 «B. 0.» DA REPUBLICA ---o§o--- CONSELHO DE MINISTROS Decreto-Lei n" 4112006 de 81 de Julho A energia electrica e urn bern essencial ao desenvolvimento e ao bem-estardas sociedades modernas, pelo que a garantia do seu regular abastecimento, ou a minoraeao dos efeitos de eventuais perturbaeoes, constitui uma prcocupacao fundamental de qualquer ac~ao governativa.
+
+A previsibilidade, de ocorrencia de uma bastante e accntuada diminuiedo do fornecimento de energia electrica as populacoes, empresas e servicos, em diferentes concelhos, publicamente manifestada pelos responsaveis maximos da (mica empresa, a urn tempo, licenciada e concessionaria do transporte e distribuicao de energia DE CABO VERDE - 31 DE JULHO DE 2006 electrica no Pais, justifica plenamente que 0 Governo actue, sem mais perda de tempo, no sentido deprevenir ou minorar os danos que isso causa a economia e ao desenvolvimento e de evitar a sua prolongada continuidade.
+
+De resto as frequentes interrupcoes no fornecimento de energia electrica na cidade da Praia e eventual extensao da situacao a outros concelhos do pais, por motivo de ill§.J.lficiente producao, colocam em manifesta evidencia a necessidade de adopcao de medidas deemergencia (inclusiiJe,e ao limite, de indQk legishitiva) que permitam enfrentar a situacao de criseja instalada.
+
+A situacao na cidadeda Praia, agudizou-se a partir do passado dia 27 de Junho, data em que acouteceu uma grave avaria num dos grupos geradores de maior potencia da Central do Palmarejo.
+
+A agravar mais a situacao, a Concessionaria do service publico de transporte e distribuicao de energia electrica em todo 0 territorio, sem anuencia da Entidade Concedente (0 Govprno), por carta de 28 de Junho ultimo comunicou a Agencia de Regulacao Economica a suadecisao de proceder ao deslastre da producao, com limitaeao e consequentemente maiores restricoes na distribuicao da energia electrica a que por contrato se acha vinculada a efectuar. Com isso ficando comprovado, asaciedade, que a empresa em questao nao esta com capacidade para garantir 0 cabal cumprimanto do contrato de concp.s;s;ao rip. exploraeao da rede de distribuicao que subscreveu e do qual resulta em sua conjugacao com 0 de licenciamento a obrigacao de producao de energia electrica suficiente para satisfazer as demandas no estadio de desenvolvimento em que nos encontramos. E isso sucede num momento em que os sucessivos cortes do fornecimento de energia cl6ctrica sao originados, nao g6 uas frequentes avarias e/ ou pela insuficiente potencia instalada mas tambern, 0 que emais grave,pela incapacidade da mesma concessionaria em fazer 0 adequado aprovisionamento de combustivel, para as situacoes, ainda que conjunturais, de maior procura, de ruptura de fornecimento ou outras, imprevistas, designadamente, de caso fortuito ou de forca maior.
+
+Dentre as medidas passiveis de serem adoptadas em ordem a produzir, de pronto, urn efeito neutralizador dos perversos resultados que a situacao de crise de energia electrica instalada propiciou, apresenta-se como sendo a mais viavel de se concretizar em curto espaco de tempo e sem gerar desnecessarias confrontaeoes, contendas e demandas, por alegados interesses antag6nicos entre 0 da Concessionaria na preservacao da sua margem de satisfacao economica e a do Estado na satisfacao de urn iuteresse publico . a doFicenciamento de produtores independentes, com suspensao das regras legais que disciplinam 0 regime juridico dessa actividade, particularrnente das contidas no Decreto-Lei n? 30/2006 de 12 de Junho.
+
+Preconiza-se em vista disso a revisao do regime jurtdico vigente em ordem a permitir a atribuicao de licencas, a titulo excepcional, para 0 exercicio de actividades de producao de energia electrica, sem passar pela via concursal; dispensando-se mais em tal licenciamento a apncacao dos preceitos normativos actualmente em vigor, I SERlE - N° 23 (<E. 0.» DA REPUBLICA DE referentes ao papel da A.genciade Regulaeao Economica, bern comosabre a exigencta de pareeeres dOB mumctpios e da Direc,>-ao-Geraldo Ambiente no processo de licenciamento e da dependeneia da atribui~aoda lieenca para 0 exercicio das actividades de producao de energia electrica, das Iicencas e autoriza¢es de outras entidades.
+
+Assim, 0 presentediploma tern por finalidade estabelecer o normativo integrador do conceito de crise de energia electrica,dosrequisitesdarespectiva deelaraeao, hemcomo da aplicacao demedidas excepcionais.
+
+Foram ouvidas a Agencia de Regulaeao Econ6l:nica, a Associaeao Nacional dos Municipios de Cabo Verde, a Direceao-Geral do Ambiente e as Associacoes de Defesa dos Consumidores.
+
+Asstm:
+
+No uso da faculdade conferida pela altnea a) do n," 2 do artigo 203" da Constitui¢o, 0 Governo decreta 0 seguinte:
+
+Artigol" Objecto opresente diploma estabelece as disposieoes relativas adefinieao de crise de energia electrica easua declaracao e as medidas interventivas de caracter excepcional que devem ser tomadas pelo Estado, em funcao da sua ocorrencia, com vista a por-lhe termo.
+
+Artigo Z' Situa~io de crise de energia electrica A sttuacao de cnse de energta electrica caracterfza-se pela ocorrencia de dificuldades na producao ou na distribuicao de energia electrica que tornem necessaria a aplicacao de medidas exeepcionais destinadas a Ital'antir 0 regular abastecimento de energia electrica essencial aos sectores prioritarios da economia, it seguranca publica e 8 satisfaeao das necessidades fundamentais da populaeao,
