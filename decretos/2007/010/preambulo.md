@@ -1,0 +1,17 @@
+# Preâmbulo
+
+SERIE - Nu 33 «B. 0.>> DA REPLJBLICA DE CA.BO VERDE- 3 DE SETEMRRO DE 2007 615 Decreto-Regularmentar 11° 10/2007 de 3 de Setembro 0 Decreto-Lei u" 3/2003 de 24 de Fevereiru que e:slabelece o regime juridico dos espa9os naturais. paisagens. monumentos e lugares que pela, sua relevancia pan1 a Biodiversidade, pelos seus recursos naturais. furn;i'w ecol6gica, interesse socio-econ6mico. cultural. tudst ico ou estrategico merecem uma prot.ec;;ao especial e integrn-se> na rede nacional das areas prot.egidas. estabelece seis categorias de areas protegidas. reservas natul'ais. parqu0s naturais, monumento naturaL paisagem protegida e sitio de interesse cientifico.
+
+Ao abrigo do Decreto-Lei n°3/2003 de 24 de Feven•iru que preve o regime juridico <las Areas Protegiclas. estabelece que a declara9i'io das areas protegidas e feita por Decreto-Regulamentar. definindo a categoria ea modalidade aplicada. a delimita<;ao geografica da area. os limitt's de maneira univoca em descri9ao literal e opcionalment0, incluir um croqui cart.ografico da sua localiza<;i'io. que ten1 apcnas um valor orientador. 0 parque natural de Monte Gordo integra da RedP Nacional <las Areas Protegidas. declarada ])elo RegimE· ,Juridico das Areas Prot.egidas. - 0 programa do Governo de 2006-201 L visiona uma l\'Ie- 1horia da qualidade de vida dos cabo-verdiRnos, com nrnis e melhor qualidade ambiental assente nos seguintes eixos estrntegicos: Gestao sustentavel dos recursos naturais;
+
+Conservacao e a valorizacao da nat.ureza e do territ6rio, a protec9ao da biodiversidade e da paisagem; Refor90 da integra9ao do ambiente nas politicas sectoriais e de desenvolvimento regional e local; refor90 cla informa9ao e forma9ao ambient.ale valoriza9ao dos recursos humanos. 0 estabelecimento operacional e funcionamento dos espac;os naturais protegidas cleclaradas no quadro do Regime Juridico clas Areas Prot.egidas constituem uma componente de interven<;ao do governo prioritaria da presente legislatura.
+
+Monte Gordo. declaraclo Parque Natural pelo Decreto- Lei 11° 3/2003 de 24 de Fevereiro ea amostra mais representativa de ecossistemas 111.'imidos de montanha na ilha de S. Nicolau e um dos mais importantes ecossistemas ctgrfoolas de Cabu Verde.
+
+Das especies inventariadas na area, 28 sao endemicas, e represent.am 34% das especies encontradas na regiao, 44~'o das especies endemicas estao na list.a vermelha de S. Nicolau e 30% na lista vermelha do Arquipelago.
+
+Das varias especies de plantas existentes na area, muitas delas e em especial as endemicas sao usadas na medicina fradicional. 0 Parque Natural de Monte Gordo aprescnta uma localizac;ao estrategica e privilegiada nao s6 para o desenvolvimento de actividades econ6micas como o turismo (eco-turismo) mas tambem para a ecluca9ao ambient.ale investigai;ao cientifica.
+
+A delimitac;ao do parque natural de Monte Gordo e fundamental para assegurnr, a lt1z cla experiencia e dos conhecimentos cientificos adquiridos sobre o patrim6nio natural desta area, uma correct.a estrategia de conservac;ao e gestao que permita a concretiza9ao dos objecLivus que pre:,;idiraw it :,;ua da:,;:,;ificw;ao como parque natural.
+
+Assim, Nos termos do 11° 2 do artigo 10°, conjugado com o n" 2 do artigo 34°, ambos do Decreto-Lei 11° 3/200:3 de 24 de Fevereiro: e, No uso da faculdade conferida pela alinea b) do artigo 204° da Constitui9ao, o Gover110 decreta o seguinte:
