@@ -1,0 +1,5 @@
+# Artigo 2 (Ambito de aplicação)
+1. O Código Laboral é aplicável a todas as relações de trabalho subordinado estabelecidas no quadro de empresas privadas, cooperativas e mistas.
+2. O Código Laboral é igualmente aplicável a todas as situações em que uma pessoa se obriga, mediante contrato de trabalho, a prestar a sua actividade profissional a uma pessoa colectiva de direito público ou equiparada, sob as ordens e direcção dos respectivos órgãos, mas sem submissão ao estatuto legal da função pública.
+3. O Código Laboral é ainda aplicável ao contrato de trabalho celebrado entre as Missões Diplomáticas e Consulares cabo-verdianas e bem assim às Missões Diplomáticas e Consulares estrangeiras, residentes em Cabo Verde, observando-se o que nele se estabelece quanto à aplicação da lei no espaço.
+4. O trabalho rural e o trabalho nas Frentes de Alta Intensidade de Mão-de-Obra regem-se por legislação especial, sem prejuízo da aplicação subsidiária dos preceitos deste Código em tudo o que não estiver regulado nessa legislação.

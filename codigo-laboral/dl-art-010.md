@@ -1,0 +1,3 @@
+# Artigo 10 (Trabalhadores portuários actualmente inscritos)
+1. Aos actuais trabalhadores inscritos nos serviços portuários competentes, à data da entrada em vigor do presente Código, é reconhecido o direito à carteira profissional correspondente à categoria profissional em que se encontrem inscritos, independentemente da observância de outros procedimentos.
+2. A emissão da carteira profissional a que se reporta o número anterior tem lugar no prazo de 30 dias a contar da data da publicação do presente Código e não poderá, em caso algum, obstar ao exercício da actividade profissional do trabalhador portuário, a não ser que o atraso na emissão seja, comprovadamente, devido a culpa do trabalhador.

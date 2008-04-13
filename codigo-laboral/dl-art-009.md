@@ -1,0 +1,3 @@
+# Artigo 9 (Modificação dos contratos existentes)
+1. Sem prejuízo da observância das regras de aplicação da lei no tempo, todos os contratos de trabalho vigentes à data da entrada em vigor do Código Laboral, qualquer que seja a forma, natureza e conteúdo, devem ser alterados nos 30 dias posteriores àquela data, por forma a observarem o que nele está estabelecido.
+2. A alteração prevista no número anterior em caso algum, pode ter como consequência privar o trabalhador de direitos adquiridos à luz da legislação anterior nem reduzir as expectativas legitimamente criadas no quadro dessa legislação.
