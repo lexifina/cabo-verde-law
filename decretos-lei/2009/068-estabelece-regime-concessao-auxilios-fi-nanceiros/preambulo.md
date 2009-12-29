@@ -1,0 +1,13 @@
+# Preâmbulo
+
+de 28 de Dezembro A Lei n.º 79/VI/2005, de 5 de Setembro, que estabelece o regime ﬁ nanceiro das autarquias locais, instituiu, no nº 3 do seu artigo 15º, um princípio de excepcionalidade inerente à concessão de auxílios ﬁ nanceiros às autarquias locais, ao ﬁ xar uma regra geral de proibição de concessão de quaisquer formas de subsídio ou comparticipação ﬁ nanceira aos Municípios por parte do Estado, dos serviços e fundos autónomos, das empresas públicas ou das empresas concessionárias de serviços públicos, salvo as devidas excepções, previstas no referido diploma.
+
+No âmbito das referidas excepções, preceitua a citada Lei, na alínea a) do nº 5 do mesmo artigo, a possibilidade de concessão de auxílios ﬁ nanceiros às autarquias locais em situação de calamidade pública, a qual se encontra actualmente deﬁ nida pelo diploma que regula a declaração de calamidade pública.
+
+Nesta conformidade, cabe agora ao presente diploma a deﬁ nição do regime de concessão de auxílios ﬁ nanceiros acima referido, bem como o tratamento associado à criação do Fundo Nacional de Emergência, designadamente no que respeita à composição do mesmo.
+
+Foi ouvida a Associação Nacional de Municípios Caboverdianos;
+
+No uso da faculdade conferida pela alínea a) do nº 2 do artigo 203º da Constituição, o Governo decreta o seguinte :
+
+CAPÍTULO I Disposições Gerais
