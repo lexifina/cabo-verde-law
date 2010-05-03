@@ -4,67 +4,67 @@ TÍTULO II – RELAÇÕES INTERNACIONAIS E DIREITO INTERNACIONAL [Artigo 11º]
 PARTE II – DIREITOS E DEVERES FUNDAMENTAIS
 TÍTULO I – PRINCÍPIOS GERAIS [Artigo 15º]
 TÍTULO II – DIREITOS, LIBERDADES E GARANTIAS
-CAPÍTULO I – DOS DIREITOS, LIBERDADES E GARANTIAS INDIVIDUAIS [Artigo 27º]
-CAPÍTULO II – DIREITOS, LIBERDADES E GARANTIAS DE PARTICIPAÇÃO POLÍTICA E DE EXERCÍCIO DE CIDADANIA [Artigo 54º]
-CAPÍTULO III – DIREITOS, LIBERDADES E GARANTIAS DOSTRABALHADORES [Artigo 60º]
-TÍTULO III – DIREITOS E DEVERES ECONÓMICOS, SOCIAISECULTURAIS [Artigo 67º]
-TÍTULO IV – DEVERES FUNDAMENTAIS [Artigo 82º]
-TÍTULO V – DA FAMÍLIA [Artigo 86º]
-PARTE III – ORGANIZAÇÃO ECONÓMICA E FINANCEIRA [Artigo 90º]
-PARTE IV – DO EXERCÍCIO E DA ORGANIZAÇÃO DOPODERPOLÍTICO
+CAPÍTULO I – Dos direitos, liberdades e garantias individuais [Artigo 28º]
+CAPÍTULO II – Direitos, liberdades e garantias de participação política e de exercício de cidadania [Artigo 55º]
+CAPÍTULO III – Direitos, liberdades e garantias dos trabalhadores [Artigo 61º]
+TÍTULO III – DIREITOS E DEVERES ECONÓMICOS, SOCIAIS E CULTURAIS [Artigo 68º]
+TÍTULO IV – DEVERES FUNDAMENTAIS [Artigo 83º]
+TÍTULO V – DA FAMÍLIA [Artigo 87º]
+PARTE III – ORGANIZAÇÃO ECONÓMICA E FINANCEIRA [Artigo 91º]
+PARTE IV – DO EXERCÍCIO DO PODER POLÍTICO
 TÍTULO I – DAS FORMAS DE EXERCÍCIO DO PODER POLÍTICO
-CAPÍTULO I – PRINCÍPIOS GERAIS E COMUNS [Artigo 95º]
-CAPÍTULO II – DO REFERENDO [Artigo 102º]
-CAPÍTULO III – DO SUFRÁGIO
-SECÇÃO I – PRINCÍPIOS GERAIS [Artigo 103º]
-SECÇÃO II – DA ELEIÇÃO DO PRESIDENTE DA REPÚBLICA [Artigo 108º]
-SECÇÃO III – DA ELEIÇÃO DOS DEPUTADOS À ASSEMBLEIA NACIONAL [Artigo 114º]
+CAPÍTULO I – Princípios gerais e comuns [Artigo 95º]
+CAPÍTULO II – Do referendo [Artigo 103º]
+CAPÍTULO III – Do sufrágio
+Secção I – Princípios gerais [Artigo 104º]
+Secção II – Da Eleição do Presidente da República [Artigo 109º]
+Secção III – Da Eleição dos Deputados à Assembleia Nacional [Artigo 115º]
 PARTE V – DA ORGANIZAÇÃO DO PODER POLÍTICO
-TÍTULO I – PRINCÍPIOS GERAIS E COMUNS [Artigo 118º]
+TÍTULO I – PRINCÍPIOS GERAIS E COMUNS [Artigo 119º]
 TÍTULO II – DO PRESIDENTE DA REPÚBLICA
-CAPÍTULO I – DEFINIÇÃO, MANDATO E POSSE [Artigo 124º]
-CAPÍTULO II – ESTATUTO [Artigo 128º]
-CAPÍTULO III – COMPETÊNCIA [Artigo 134º]
+CAPÍTULO I – Definição, mandato e posse [Artigo 125º]
+CAPÍTULO II – Estatuto [Artigo 129º]
+CAPÍTULO III – Competência [Artigo 135º]
 TÍTULO III – DA ASSEMBLEIA NACIONAL
-CAPÍTULO I – DEFINIÇÃO, COMPOSIÇÃO E DISSOLUÇÃO [Artigo 139º]
-CAPÍTULO II – DA ORGANIZAÇÃO [Artigo 144º]
-CAPÍTULO III – DO FUNCIONAMENTO [Artigo 149º]
-CAPÍTULO IV – FORMAÇÃO DOS ACTOS
-SECÇÃO I – DA INICIATIVA DE LEI E DE REFERENDO [Artigo 156º]
-SECÇÃO II – DA DISCUSSÃO E DA VOTAÇÃO [Artigo 159º]
-CAPÍTULO V – DO ESTATUTO DOS DEPUTADOS [Artigo 162º]
-CAPÍTULO VI – DA COMPETÊNCIA DA ASSEMBLEIA NACIONAL
-SECÇÃO I – DA COMPETÊNCIA PARA A PRÁTICA DE ACTOS ORGANIZATÓRIOSE FUNCIONAIS [Artigo 171º]
-SECÇÃO II – COMPETÊNCIA LEGISLATIVA E POLÍTICA [Artigo 174º]
+CAPÍTULO I – Definição, composição e dissolução [Artigo 140º]
+CAPÍTULO II – Da Organização [Artigo 145º]
+CAPÍTULO III – Do funcionamento [Artigo 150º]
+CAPÍTULO IV – Formação dos actos
+Secção I – Da iniciativa de Lei e de Referendo [Artigo 157º]
+Secção II – Da discussão e da votação [Artigo 160º]
+CAPÍTULO V – Do estatuto dos Deputados [Artigo 163º]
+CAPÍTULO VI – Da competência da Assembleia Nacional
+Secção I – Da competência para a prática de actos organizatórios e funcionais [Artigo 172º]
+Secção II – Competência legislativa e política [Artigo 175º]
 TÍTULO IV – DO GOVERNO
-CAPÍTULO I – FUNÇÃO, RESPONSABILIDADE POLÍTICA, COMPOSIÇÃO E ORGANIZAÇÃO
-SECÇÃO I – FUNÇÃO E RESPONSABILIDADE [Artigo 184º]
-SECÇÃO II – Composição e organização [Artigo 186º]
-CAPÍTULO II – INÍCIO E TERMO DAS FUNÇÕES [Artigo 190º]
-CAPÍTULO III – FORMAÇÃO E SUBSISTÊNCIA DO GOVERNO
-SECÇÃO I – FORMAÇÃO [Artigo 193º]
-SECÇÃO II – RESPONSABILIDADE POLÍTICA E CRIMINAL DOSMEMBROS DO GOVERNO [Artigo 197º]
-SECÇÃO III – MOÇÃO DE CONFIANÇA, DE CENSURA E DEMISSÃO DO GOVERNO [Artigo 199º]
-CAPÍTULO IV – DA COMPETÊNCIA DO GOVERNO [Artigo 202º]
+CAPÍTULO I – Função, responsabilidade política, composição e organização
+Secção I – Função e responsabilidade [Artigo 185º]
+Secção II – Composição e organização [Artigo 187º]
+CAPÍTULO II – Início e termo das funções [Artigo 191º]
+CAPÍTULO III – Formação e subsistência do Governo
+Secção I – Formação [Artigo 194º]
+Secção II – Responsabilidade política e criminal dos membros do Governo [Artigo 198º]
+Secção III – Moção de confiança, de censura e demissão do Governo [Artigo 200º]
+CAPÍTULO IV – Da competência do Governo [Artigo 203º]
 TÍTULO V – DO PODER JUDICIAL
-CAPÍTULO I – PRINCÍPIOS GERAIS [Artigo 208º]
-CAPÍTULO II – ORGANIZAÇÃO DOS TRIBUNAIS [Artigo 213º]
-CAPÍTULO III – ESTATUTO DOS JUIZES [Artigo 220º]
-CAPÍTULO IV – DO MINISTÉRIO PÚBLICO [Artigo 222º]
-CAPÍTULO V – DOS ADVOGADOS [Artigo 225º]
-TÍTULO VI – DO PODER LOCAL [Artigo 226º]
-TÍTULO VII – DA ADMINISTRAÇÃO PÚBLICA [Artigo 236º]
-TÍTULO VIII – DA DEFESA NACIONAL [Artigo 242º]
-TÍTULO IX – DOS ÓRGÃOS AUXILIARES DOS ÓRGÃOSDOPODER POLÍTICO
-CAPÍTULO I – DO CONSELHO DA REPÚBLICA [Artigo 249º]
-CAPÍTULO II – DOS OUTROS ÓRGÃOS AUXILIARES [Artigo 253º]
+CAPÍTULO I – Princípios gerais [Artigo 209º]
+CAPÍTULO II – Organização dos tribunais [Artigo 214º]
+CAPÍTULO III – Estatuto dos juizes [Artigo 222º]
+CAPÍTULO IV – Do Ministério Público [Artigo 225º]
+CAPÍTULO V – Dos Advogados [Artigo 229º]
+TÍTULO VI – DO PODER LOCAL [Artigo 230º]
+TÍTULO VII – DA ADMINISTRAÇÃO PÚBLICA [Artigo 240º]
+TÍTULO VIII – DA DEFESA NACIONAL [Artigo 246º]
+TÍTULO IX – DOS ÓRGÃOS AUXILIARES DOS ÓRGÃOS DO PODER POLÍTICO
+CAPÍTULO I – Do Conselho da República [Artigo 253º]
+CAPÍTULO II – Do Conselho Económico, Social e Ambiental [Artigo 257º]
 TÍTULO X – DA FORMA E HIERARQUIA DOS ACTOS
-CAPÍTULO I – DOS ACTOS DO PRESIDENTE DA REPÚBLICA [Artigo 255º]
-CAPÍTULO II – DA FORMA DOS ACTOS LEGISLATIVOS ENORMATIVOS [Artigo 256º]
-CAPÍTULO III – DAS RESOLUÇÕES E DAS MOÇÕES [Artigo 261º]
-CAPÍTULO IV – HIERARQUIA E PUBLICAÇÃO [Artigo 263º]
-PARTE VI – DAS GARANTIAS DE DEFESA E DA REVISÃO DACONSTITUIÇÃO
-TÍTULO I – DO ESTADO DE SÍTIO E DE EMERGÊNCIA [Artigo 265º]
-TÍTULO II – DA FISCALIZAÇÃO DA CONSTITUCIONALIDADE [Artigo 272º]
-TÍTULO III – DA REVISÃO DA CONSTITUIÇÃO [Artigo 281º]
-PARTE VI – DISPOSIÇÕES FINAIS E TRANSITÓRIAS [Artigo 288º]
+CAPÍTULO I – Dos actos do Presidente da República [Artigo 259º]
+CAPÍTULO II – Da forma dos actos legislativos e normativos [Artigo 260º]
+CAPÍTULO III – Das resoluções e das moções [Artigo 266º]
+CAPÍTULO IV – Hierarquia e publicação [Artigo 268º]
+PARTE VI – DAS GARANTIAS DE DEFESA E DA REVISÃO DA CONSTITUIÇÃO
+TÍTULO I – DO ESTADO DE SÍTIO E DE EMERGÊNCIA [Artigo 270º]
+TÍTULO II – DA FISCALIZAÇÃO DA CONSTITUCIONALIDADE [Artigo 277º]
+TÍTULO III – DA REVISÃO DA CONSTITUIÇÃO [Artigo 286º]
+PARTE VII – DISPOSIÇÕES FINAIS E TRANSITÓRIAS [Artigo 293º]
