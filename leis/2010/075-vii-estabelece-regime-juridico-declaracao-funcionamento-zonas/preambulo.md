@@ -1,0 +1,3 @@
+# Preâmbulo
+
+seguinte redação:
