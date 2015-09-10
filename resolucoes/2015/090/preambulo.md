@@ -1,0 +1,7 @@
+# Preâmbulo
+
+verdianos. de 9 de Setembro Esse facto impõe aprovação de estratégias conducentes Cabo Verde é muito mais mar do que terra, um País a assegurar o cumprimento das medidas de gestão dos ecologicamente vulnerável e com parcos recursos naturais, recursos marinhos vivos, tendo como princípio uma ex­ onde a pesca destaca-se, pelo papel indispensável que ploração responsável e durável dos mesmos. vem desempenhando ao longo da nossa história, com re­ flexo muito positivo, na economia, na redução da pobreza, Assim, urge adotar um plano de ação nacional, que na criação de riquezas, e sobre tudo, na segurança ali­ visa a formação, informação e sensibilização de todos os mentar e nutricional dos cabo-verdianos. intervenientes ligados ao setor das pescas, bem como a prevenção e repressão da Pesca Ilegal, Não declarada e Não Regulamentada (Pesca INN), na linha das reco­ mendações da Comissão Internacional para a Conser­ vação dos Tunídeos do Atlântico (ICCAT), da FAO e da União Europeia.
+
+É neste contexto que surge o Plano de Ação Nacional de Luta Contra a Pesca INN (PAN-INN), para preve­ nir, impedir e eliminar a Pesca Ilegal, Não declarada e Não regulamentada no âmbito nacional e internacional, sendo, aliás, uma das medidas previstas na Carta de Politica para o Setor das Pescas.
+
+Assim, Nos termos do n.º 2 do artigo 265.º da Constituição, o Governo aprova a seguinte Resolução:
