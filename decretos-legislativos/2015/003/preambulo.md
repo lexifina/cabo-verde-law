@@ -1,0 +1,47 @@
+# Preâmbulo
+
+de 19 de Outubro A Constituição da República impõe ao Estado, como tarefas fundamentais, a garantia do respeito dos direitos humanos e o pleno gozo dos direitos fundamentais a todos os cidadãos; a promoção do bem-estar e da qualidade de vida do povo cabo-verdiano, designadamente dos mais carenciados e a remoção progressiva dos obstáculos que impedem a real igualdade de oportunidades entre todos os cidadãos, especialmente os fatores de discriminação da mulher na sociedade; a criação progressiva das condições necessárias para a transformação e modernização das estruturas económicas e sociais por forma a tornar efetivos os direitos económicos e sociais dos cidadãos; bem como a proteção da paisagem, dos recursos naturais e do meio ambiente, considerando a água um recurso único, e pertence ao povo, isto é, em termos jurídicos, ao domínio público do Estado, sendo inalienável, imprescritível e impenhorável.
+
+O Conselho de Direitos Humanos das Nações Unidas, através da Resolução A/HRC/15/L.14, de 30 de setembro de 2010, declarou a água e o saneamento como um direito humano fundamental aﬁrmando que “ o direito humano à água potável e ao saneamento é derivado do direito a um padrão de vida adequado e está intimamente relacionado com o direito ao mais elevado nível de saúde física e mental, bem como o direito à vida e à dignidade humana”.
+
+Antes, porém, a comunidade internacional, através da Resolução da Assembleia Geral das Nações Unidas, ocorrida a 28 de julho de 2010, tinha já igualmente reconhecido a água e o saneamento como um direito humano essencial para o pleno gozo da vida e de todos os outros direitos humanos, tendo instado os Estados e organizações internacionais a assegurar recursos ﬁnanceiros, formação e transferência de tecnologias necessários, com vista a melhorar o acesso universal a esses bens, de que milhões de seres humanos se encontram excluídos a nível global.
+
+A Declaração Universal dos Direitos do Homem, de 1948, enfatiza a igualdade e o direito à vida e reaﬁrma que todo o ser humano tem direito a um padrão de vida capaz de assegurar à si e à sua família saúde e bem-estar.
+
+O direito internacional geral ou comum faz parte integrante da ordem jurídica cabo-verdiana e os atos jurídicos emanados dos órgãos competentes das organizações supra nacionais de que Cabo Verde faz parte vigoram diretamente na ordem jurídica interna, nos termos e para os efeitos do artigo 12.º da Constituição.
+
+Nestes termos, o direito de acesso do povo caboverdiano à eletricidade, à água e ao saneamento, enquanto direito humano derivado de outros direitos humanos, com a mesma dignidade, como o direito à DE CABO VERDE — 19 DE OUTUBRO DE 2015 saúde, ao bem-estar e à qualidade de vida, constituí uma tarefa fundamental do Estado garantido pela Constituição e pela ordem jurídica internacional diretamente vigente na ordem interna.
+
+A problemática da gestão sustentada da água é um dos maiores desaﬁos de Cabo Verde e tem constituído uma preocupação permanente dos sucessivos governos, bem como de instituições públicas, privadas e da sociedade em geral.
+
+Cabo Verde é um país situado na zona do Sahel caraterizada pela sua extrema aridez. A precipitação é limitada a uma média de 230mm por ano e ainda assim apenas 13% dessa precipitação contribui para a alimentação das águas subterrâneas, que aliás, vêm diminuindo de ano para ano. Em consequência, a nação cabo-verdiana depende cada vez mais da água dessalinizada para o consumo. O custo elevado da energia e o facto de cerca de 80% da água para o consumo doméstico em Cabo Verde ser dessalinizada conﬁgura a água como um problema de solução extremamente desaﬁante, delicado e urgente.
+
+Não obstante estes desaﬁos, o país tem feito progressos signiﬁcativos na promoção do acesso da população à água potável, tendo antecipadamente atingido em 2007 os objetivos do desenvolvimento do milénio nessa matéria, previstos para 2015.
+
+De acordo com o Censo Nacional de 2010, mais de 92% dos cabo-verdianos tem acesso a água potável.
+
+Contudo, os sucessos alcançados não podem iludir os enormes desaﬁos que a Nação, no seu todo, continua a enfrentar. Ainda existem grandes diferenças no acesso entre as cidades e o campo, o custo tende a ser cada vez mais elevado, as ineﬁciências de gestão, a frequência de cortes e a qualidade e a quantidade do abastecimento deixam ainda muito a desejar, com particular incidência nas populações vulneráveis, do campo e das periferias das cidades.
+
+Com efeito, todos os macro documentos oﬁciais de diagnóstico do setor mostram que o acesso à água e ao saneamento afeta sobretudo as populações periurbanas e rurais, e em particular as mulheres chefes de família, reproduzindo a pobreza e a desigualdade de género, bem como as crianças que são prejudicadas, não apenas na sua saúde, como no aproveitamento escolar, ao perderem imenso tempo a carregar água das fontes ou chafarizes, tempo que poderiam dedicar à escola e ao estudo.
+
+O Programa do Governo para a VIII Legislatura 2011- 2016 declara que um elemento chave da ação do Governo para alargar o acesso da população aos serviços básicos é a reforma do quadro institucional e legal reconhecendo que presentemente, existem demasiadas sobreposições e não há responsabilidades institucionais claras.
+
+Existem demasiados atores sem um líder, coordenador ou gestor comum. Grandes reformas de integração do setor sob uma única organização serão implementadas para facilitar a ligação natural entre a água e águas residuais (saneamento), para assegurar que haverá uma instituição líder para o setor da água e águas residuais, para promover a eﬁcácia, reduzir a duplicação e assegurar uma gestão forte desses setores. O objetivo será a criação de uma única instituição para controlar o setor da água e saneamento, enquanto a regulação dos preços e da eﬁciência será feita pela entidade de regulação económica e a regulação ambiental ﬁcará a cargo do departamento para o ambiente.
+
+Para a materialização do seu Programa, o Governo assume como um dos objetivos primordiais do seu mandato a reforma dos setores da Água e do Saneamento com o objetivo principal de: ● Aumentar ao acesso à água potável e ao saneamento básico; ● Facilitar o planeamento e a gestão integrada dos recursos hídricos e do saneamento básico; ● Implementar uma efetiva regulação técnica e económica; ● Assegurar a sustentabilidade ﬁnanceira do sistema com ênfase na recuperação dos custos; ● Atrair o setor privado; e ● Assegurar a sustentabilidade e a autonomia institucional do setor.
+
+Nesse contexto, o Governo negociou com os Estados Unidos da América o segundo Compacto do Millennium Challenge Account (MCA-II) visando contribuir globalmente para a diminuição da pobreza através da redução dos custos para a economia de Cabo Verde da prestação ineﬁciente de determinados serviços públicos e da remoção das condições institucionais que impedem os investimentos do setor privado.
+
+Integrado no MCA- II encontra-se o Projeto WASH (Water, Sanitation and Hygiene Project), tendo por objetivo especíﬁca a melhoraria dos serviços de abastecimento de água e de saneamento às famílias e empresas cabo-verdianas, através das seguintes ações: ● Reforma das instituições de implementação de política nacional e regulação do setor; ● Transformação dos provedores de serviços de água e saneamento em entidades autónomas operando numa base comercial; ● Melhoria da qualidade e aumento da área de cobertura das infraestruturas de água e saneamento.
+
+A revisão do quadro jurídico e institucional do setor da água e saneamento inscreve-se na primeira ação e visa os seguintes objetivos: ● Revisão e atualização dos anteprojetos de legislação nacional anteriormente elaborados, de modo a reﬂetirem as propostas da reforma institucional em curso; ● Identiﬁcação de normas, standards, códigos e outra legislação relativa à regulação do setor da água e saneamento que careçam de revisão ou redação, a elaborar posteriormente, de acordo com as melhores práticas internacionais; ● Atualização dos anteprojetos de legislação nacional, de modo a sanar os problemas identiﬁcados.
+
+É neste âmbito que se inscreve o presente Código da Água e Saneamento, o qual teve por base o quadro político, institucional e jurídico do setor da água e do saneamento em vigor em Cabo Verde, e foi precedido da elaboração de um Gap analysis com identiﬁcação das principais lacunas, sobreposições e contradições tendo presente as necessidades atuais e futuras do setor e as melhores práticas internacionais neste domínio, bem como o envolvimento e a recolha de opiniões e pareceres dos principais intervenientes do setor, nas diferentes fases da sua elaboração.
+
+O novo Código de Água e Saneamento (CAS) visa criar um regime jurídico disciplinador do setor, coerente e claro, de fácil consulta e aplicação, complementado por um enquadramento institucional com completa separação de funções com a recente criação da Agência Nacional de Água e Saneamento (ANAS) e do Conselho Nacional da Água e Saneamento (CNAS), através da Lei n.º 46/VIII/2013, de 17 de setembro, e Lei n.º 45/ VIII/2013, de 17 de setembro, respetivamente, seguido ainda da empresarialização do setor.
+
+Nestes termos, Ao abrigo da autorização legislativa concedida pela Lei n.º 96/VIII/2015, de 29 de julho;
+
+No uso da faculdade conferida pela alínea b) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
+
+TÍTULO I DISPOSIÇÕES GERAIS CAPÍTULO I Objeto âmbito e deﬁnições
