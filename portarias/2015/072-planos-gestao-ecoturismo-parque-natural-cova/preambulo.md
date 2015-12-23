@@ -1,0 +1,21 @@
+# Preâmbulo
+
+de 22 de dezembro Cabo Verde, enquanto país pequeno, insular e arquipelágico, agravado pelas suas vulnerabilidades económica e ambiental, exige estratégias adequadas de gestão dos seus recursos naturais. É nesta linha de preocupações que Cabo Verde ratiﬁ cou a Convenção sobre a Diversidade Biológica em 1995 e em 1999 elaborou a Estratégia Nacional e Plano de Acção sobre a Biodiversidade.
+
+Em 2003, foi publicado o Decreto-Lei nº 3/2003, de 24 de Fevereiro, sobre o regime jurídico de espaços naturais, que cria 47 áreas protegidas, com 6 categorias: Parque Nacional, Parque Natural, Reservas Naturais, Paisagem Protegida, Monumento Natural e Sítios de Interesse Cientíﬁ co. A criação de uma Rede Nacional de Áreas Protegidas, através do Decreto-Lei nº 3/2003, de 24 de Fevereiro, constituiu o instrumento político fundamental no que respeita à preservação de paisagens naturais, conservação e manutenção de recursos e processos naturais, conservação de espécies e habitats, sendo fonte geradora de desenvolvimento equilibrado, que reduza pobreza e melhore a qualidade de vida das populações residentes, utilizadoras ou adjacentes às Áreas Protegidas.
+
+Com a protecção legal desses espaços naturais, garantida pelo Decreto-Lei nº 3/2003, impõe-se a necessidade de serem elaborados os respectivos instrumentos de gestão, que são fundamentais para uma gestão dos recursos naturais e culturais de acordo com os princípios de desenvolvimento sustentável.
+
+O Decreto-Lei nº 3/2003, determina os diferentes regimes e ﬁ guras de proteção, criando os princípios e os instrumentos de gestão territorial, que deverão conter as medidas necessárias à garantia de conservação da biodiversidade, da geodiversidade e a necessidade de compatibilizar os diferentes interesses em presença com a proteção de valores culturais e estéticos e a satisfação das necessidades e anseios das populações locais e visitantes.
+
+Os Planos de Gestão e de Ecoturismo constituem dois destes instrumentos de gestão territorial. No caso do Plano de Ecoturismo, o mesmo foi concebido para o desenvolvimento da prática do ecoturismo para as Áreas Protegidas, sendo autónomo mas igualmente um complemento ao Plano de Gestão.
+
+As Bases do Ordenamento do Território e Planeamento Urbanístico, aprovados pelo Decreto-Legislativo nº 1/2006, de 13 de Fevereiro, com as alterações que lhe foram introduzidas pelo Decreto-Legislativo n.º 6/2010, qualiﬁ cam por sua vez os planos de ordenamento de áreas protegidas ou outros espaços naturais de valor cultural, histórico ou cientíﬁ co, como planos especiais de ordenamento do território de valor hierárquico superior aos planos municipais de planeamento territorial.
+
+Tendo em conta que a actividade ecoturística é susceptível de causar alterações ao ambiente natural, constituindo, muitas vezes, constrangimentos à gestão sustentável dos recursos naturais, torna-se necessário a elaboração de instrumentos que regulem as diversas atividades que compõem o ecoturismo e que, ao mesmo tempo, possibilitem a monitorização e controlo dos impactos da visitação, por DE CABO VERDE — 22 DE DEZEMBRO DE 2015 parte dos responsáveis pela gestão das Áreas Protegidas, criando deste modo condições favoráveis à consolidação do sistema de Áreas Protegidas de Cabo Verde.
+
+Foram ouvidas todas as organizações públicas e privadas e da sociedade civil sediadas na ilha de Santo Antão e relacionadas com atividades no âmbito da Área Protegida de Cova, Paul e Ribeira da Torre.
+
+Nestes termos, Ao abrigo do disposto no artigo 16º do Decreto-Lei n.º 3/2003, de 24 de Fevereiro, na alínea a) do n.º 2 da Base XII, na alínea b) do n.º 1 e na c) do nº 7, da Base XVI do Decreto Legislativo n.º 1/2006, de 13 de Fevereiro, na nova redação que lhe foi dada pelo Decreto-Legislativo n.º 6/2010, de 21 de Junho e no Artigo 72º do Decreto-Lei nº 43/2010, de 27 de Setembro;
+
+No uso da faculdade conferida pela alínea b) do artigo 205º da Constituição, manda o Governo da República de Cabo Verde, pelos Ministros do Ambiente, Habitação e Ordenamento do Território, do Turismo, Investimentos e Desenvolvimento Empresarial, e do Desenvolvimento Rural, o seguinte:
