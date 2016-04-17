@@ -1,0 +1,25 @@
+# Preâmbulo
+
+de 18 de março Cabo Verde é parte na Convenção sobre Facilitação do Tráfego Marítimo Internacional da Organização Marítima Internacional, designada Convenção FAL OMI, adotada pela Conferência Internacional sobre a Facilitação das Viagens e Transportes Marítimos em 9 de Abril de 1965, incluindo as emendas, que tem como objetivo facilitar o tráfego marítimo pela simpliﬁ cação e redução ao mínimo das formalidades, exigências documentais e procedimentos à chegada, durante a estadia e à partida dos navios envolvidos em viagens internacionais.
+
+A referida Convenção, nas normas adotadas e nas práticas recomendadas, preconiza a redução do número de documentos, a sua simpliﬁ cação e uniformização ou harmonização internacional e a realização de todas as formalidades de chegada e partida dos navios zona de carga e descarga.
+
+As medidas preconizadas pela Convenção FAL OMI inserem-se no esforço que vem sendo desenvolvido pelo Governo, de há um tempo a esta parte, no sentido de simplificar o relacionamento dos particulares com os serviços públicos e de aumentar a eﬁ cácia destes.
+
+Assim, importa agilizar a forma como são efetuados alguns atos, designadamente, em termos de atenuação dos processos administrativos de entrada e saída dos navios, do espaço portuário e da reestruturação do regime jurídico do despacho de saída, promovendo-se melhores condições de exploração e de gestão comercial dos equipamentos portuários e respetivos espaços num quadro de desburocratização progressiva.
+
+O Código Marítimo de Cabo Verde, aprovado pelo Decretolegislativo n.º 14/2010, de 15 de novembro, dedicando alguns artigos, nomeadamente, os artigos 109.º e 136.º, não chega a regular os atos e procedimentos aplicáveis á entrada e saída de navios nos portos cabo-verdianos e nem estabelece as formalidades de declaração harmonizadas a apresentar às autoridades públicas relativamente à escala de navios nos portos nacionais, conforme aprovadas pela Convenção FAL OMI, já que remete para diploma especíﬁ co tal tarefa.
+
+O presente diploma vem colmatar esta lacuna, regulando os atos e procedimentos aplicáveis à entrada e saída de navios de portos nacionais e estabelece as formalidades de declaração harmonizadas a apresentar às autoridades públicas relativamente à escala de navios nos portos nacionais, conforme aprovadas pela Convenção FAL OMI, permitindo-se uma atualização do perﬁ l de intervenção dos serviços territoriais da administração marítima, nomeadamente as capitanias dos portos e as delegações marítimas, em relação aos atos que se desenvolvem no seu quadro de competências, propiciando maior agilidade nos procedimentos de cariz técnico-administrativo, mantendo-se, necessariamente, os mecanismos de controlo público que a Agência Marítima e Portuária exerce perante as atividades comerciais inerentes à atividade marítima e portuária.
+
+O presente diploma estabelece também as regras gerais quanto ao encaminhamento das declarações, que devem estar em consonância com os objetivos da facilitação e com o propósito de que todas operações relativas à chegada e partida dos navios sejam realizadas num mesmo local, sem necessidade de os interessados se dirigirem a qualquer outro local para o efeito.
+
+Preconiza-se no presente diploma, na esteira do que dispõe o Decreto-lei n.º 21/2011, de 7 de março, para o reforço da simpliﬁ cação das formalidades administrativas aplicáveis aos procedimentos administrativos de entrada e saída de navio e para um relacionamento mais transparente, responsável e eﬁ ciente entre as administrações portuária, marítima, aduaneira, de fronteiras e outros serviços públicos do Estado e entre estes e os operadores marítimoportuários o recurso às tecnologias de informação.
+
+Estabelece-se, ainda, a desmaterialização dos procedimentos administrativos relativos ao procedimentos de entrada e saída de navio, com a introdução, progressiva do conceito de “balcão único eletrónico “nos portos comerciais, através do qual os operadores de transporte marítimo, ou os seus representantes legais, inserem toda a informação relativa à chegada e à saída dos navios, ﬁ cando a mesma disponível para todas as autoridades envolvidas, é desde já, uma prioridade quer para a administração marítima quer para a administração portuária.
+
+No pressuposto de existência, médio prazo, de um sistema centralizador de tipo ”janela única portuária”, localizado na administração portuária, mas com ligações funcionais e céleres às outras autoridades com intervenção na matéria, em âmbito portuário. Nesse sentido, prevê-se a criação, por diploma especíﬁ co, da Janela Única Portuária, para funcionar junto da ENAPOR, apoiada em procedimentos eletrónicos, através do qual o operador marítimo-portuário pode, num só ponto, obter informações e realizar os procedimentos necessários á entrada e saída de navios.
+
+Assim, DE CABO VERDE — 18 DE MARÇO DE 2016 Ao abrigo do disposto nos artigos 109.º e 136.º do Decretolegislativo n.º 14/2010, de 15 de novembro; e No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
+
+CAPÍTULO I DISPOSIÇÕES GERAIS
