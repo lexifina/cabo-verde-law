@@ -1,0 +1,17 @@
+# Preâmbulo
+
+de 21 de Abril O Decreto-lei n.º 56/2015, de 17 de outubro, veio estabelecer o novo regime geral aplicável à prevenção, produção e gestão de resíduos, tendo por objetivo “proteger o ambiente e a saúde humana, prevenindo ou reduzindo os impactes adversos decorrentes da geração e gestão de resíduos, diminuindo os impactes gerais da utilização dos recursos e melhorando a eﬁ ciência dessa utilização”.
+
+A gestão sustentável dos resíduos exige assim a formalização de uma estratégia integrada e abrangente que garanta a eﬁ cácia de uma política nacional de resíduos, com uma perspetiva sistémica dos diversos aspetos ligados à gestão dos recursos naturais. Nesta perspetiva, o artigo
+
+20.º do referido Decreto-lei veio impor a obrigação dum planeamento integrado da gestão dos resíduos, através da deﬁ nição de políticas nacionais e municipais, “adaptado às caraterísticas próprias e especiﬁ cidades impostas pela insularidade, dispersão territorial e caraterísticas e custos do sistema de transporte entre ilhas, tendo por objetivo a prossecução da sustentabilidade ambiental” (n.º 1). E, segundo acrescenta aquele diploma (n.º 3), “as orientações fundamentais da política de gestão de resíduos constam do Plano Estratégico de Prevenção e Gestão de Resíduos e dos planos multimunicipais, intermunicipais e municipais de ação em matéria de resíduos”.
+
+Assim, prosseguindo este objetivo, o Plano Estratégico de Prevenção e Gestão de Resíduos (PENGeR), ora aprovado, enquanto instrumento de planeamento macro “estabelece as orientações estratégicas de âmbito da política de gestão de resíduos e as regras orientadoras da disciplina dos fluxos específicos de gestão de resíduos no sentido de garantir a concretização dos princípios para a gestão de resíduos, bem como a constituição de uma rede integrada e adequada de instalações de armazenagem, triagem, tratamento, valorização e eliminação de todo o tipo de resíduos, tendo em conta as melhores técnicas disponíveis com custos economicamente sustentáveis”. Porém, “pode ser desenvolvido mediante a aprovação de planos especíﬁ cos de gestão de resíduos, a aprovar por Portaria conjunta dos membros do Governo responsáveis pela área do Ambiente e pela área geradora do respetivo tipo de resíduos, em função das necessidades de planeamento e regulação de ﬂ uxos especíﬁ cos de resíduos ou, independentemente da tipologia, dos resíduos provenientes de certas atividades ou grupos de atividades”.
+
+O PENGeR, com vigência entre 2015 e 2030, vem preconizar uma mudança do paradigma atual em matéria de resíduos, consubstanciando a prevenção e a gestão de resíduos como uma forma de dar continuidade ao ciclo de vida dos materiais, constituindo um passo essencial para devolver materiais e energia úteis à economia.
+
+O projeto de PENGeR foi sujeito a consulta pública, nos termos do disposto no artigo 27.º do Decreto-lei n.º 56/2015, de 17 de outubro, por iniciativa da entidade responsável pela sua elaboração, a Agência Nacional de Água e Saneamento (ANAS), tendo em vista a recolha de observações e sugestões que foram ponderadas e integradas, na medida do possível.
+
+Foram ouvidos os órgãos da Associação Nacional de Municípios Cabo-Verdianos (ANMCV).
+
+Assim, Ao abrigo do n.º 6 do artigo 22.º do Decreto-lei n.º 56/2015, de 17 de outubro; e No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
