@@ -1,0 +1,33 @@
+# Preâmbulo
+
+de 6 de setembro O presente diploma procede à segunda alteração do Decreto-lei n.º 37/2014, de 22 de julho, alterado pelo Decreto-lei n.º 52/2015, de 24 de setembro, que aprova o regime jurídico especial de execução do cadastro predial nas ilhas do Sal, Boa Vista, São Vicente e Maio.
+
+Esta medida legislativa decorre diretamente da reavaliação do regime especial, imposta pelo seu artigo
+
+38.º, à luz dos ensinamentos emergentes da sua aplicação no Sal, ilha escolhida para a realização da experiência piloto da operação sistemática de execução do cadastro predial em Cabo Verde, ainda em curso, no âmbito do “Projeto de Gestão da Propriedade para a Promoção do Investimento” (LMIP), ﬁ nanciado pelo Governo Americano, através do segundo compacto do Millennium Challenge Corporation (MCC), cuja implementação compete ao Millennium Challenge Account – Cabo Verde II (MCA-CV II), a unidade de gestão criada pelo Governo.
+
+A principal inovação introduzida por este diploma é a alteração do processo de execução do cadastro predial, antecipando a exposição e consulta pública dos resultados da caraterização provisória dos prédios, da responsabilidade da Entidade Executante, para momento anterior à intervenção e validação dos processos por parte da Equipa de Apoio Técnico (EAT). O período de validação é ﬁ xado em 30 dias, contados a partir do ﬁ m do prazo de reclamação.
+
+Face à constatação de divergências de áreas, muito significativas em alguns casos, entre as evidências (descrição registral, descrição matricial, título constitutivo de propriedade e declaração de titularidade) e a realidade física, esta lei vem ﬁ xar como área relevante do prédio (artigo 8.º-E), para efeitos de inscrição cadastral, descrição, atualização ou retiﬁ cação das respetivas descrições registais, aquela que resultar dos levantamentos topográﬁ cos das extremas por parte da Entidade Executante, durante os trabalhos de campo da operação sistemática de execução do cadastro predial, desde que não haja oposição ou reclamação dos conﬁ antes, prevalecendo, para todos os efeitos legais, sobre qualquer outra.
+
+Como se pode ver a seguir, a deﬁ nição da área relevante tem grandes implicações em matéria de registo predial, tendo em conta a necessidade de harmonização de dados.
+
+É melhorado, signiﬁ cativamente, o regime de registo predial obrigatório e oficioso dos prédios cadastrados omissos na Conservatória do Registo Predial ou que estejam descritos, mas sujeitos a atos de retiﬁ cação e atualização, com vista à harmonização com os dados resultantes da inscrição cadastral (artigo 25.º).
+
+Assim, os prédios cadastrados devem ser descritos ou atualizadas as respetivas descrições registrais quanto à área de acordo com a inscrição cadastral, ao abrigo do disposto no artigo 8.º-E. A inexatidão do registo quanto à área de prédios é retificável mediante documento DE CABO VERDE — 6 DE SETEMBRO DE 2016 validado no sistema de informação predial pelo Instituto Nacional de Gestão do Território (INGT) donde conste a identiﬁ cação física do prédio, efetuada no quadro da operação sistemática de execução do cadastro predial.
+
+Em articulação com esta matéria, foi clarificado o tratamento a dar à questão da equidade do género na inscrição cadastral (artigo 36.º), tanto no caso de casamento como da união de fato, bem como a problemática de harmonização de dados, em especial no caso de divergências entre a área constante das evidências e dos levantamentos topográﬁ cos, no âmbito da operação cadastral.
+
+Face à constatação da inação dos titulares cadastrais, especiﬁ camente no que se refere ao cumprimento das suas obrigações, fazendo com que muitos prédios sejam inseridos no cadastro predial sem a prévia declaração de titularidade ou, no caso de prédios rústicos, de demarcação, estabeleceu-se a sujeição desses prédios ao registo provisório por natureza, a favor do respetivo titular, com um prazo de vigência de um ano, findo o qual converte-se automaticamente em deﬁ nitivo, salvo se for objeto de impugnação. Porém, se o sujeito ativo do registo intervir no processo e, mediante declaração dirigida ao Conservador do Registo Predial competente, ratiﬁ car os dados constantes da inscrição cadastral, o registo converte-se em deﬁ nitivo antes daquela data.
+
+Por outro lado, precisou-se o concito de terreno vago e sem dono conhecido (artigo 3.º) que ﬁ ca sujeito a registo provisório por dúvidas, a favor do Estado, convertendo automaticamente em deﬁ nitivo, no prazo de 180 (cento e oitenta) dias, contados a partir da data em que for lavrado, salvo se estiver pendente recurso administrativo ou impugnação judicial do registo ou ação de reivindicação da propriedade, caso em que a conversão só ocorre depois de ser conhecida a decisão final irrecorrível do caso (artigo 21.º).
+
+Relativamente aos incentivos em termos de encargos administrativos, designadamente os emolumentos notariais e registrais, o diploma vem indicar, especiﬁ camente, a que atos se aplica, logo após o início da operação de execução do cadastro, portanto, ainda antes da caraterização provisória do prédio. Este Decreto-lei vem ainda prever a isenção do pagamento de emolumentos relativamente aos atos notariais praticados pelo Património do Estado, enquanto notário privativo, bem como pela Câmara Municipal, no âmbito do exercício das competências do notário privativo, se tal vier a ser reconhecida e aprovada por deliberação do órgão municipal competente, respeitando desta forma o âmbito da autonomia dos Municípios.
+
+Por ﬁ m, mas não menos importante, são as soluções legais encontradas para titulação de duas situações de (i) possuidores atuais de terrenos do domínio privado do Estado, ocupados desde antes da independência nacional ou (ii) parcelas de terrenos cedidos nos últimos anos pelo Governo a agricultores e criadores de gado, sem que a posse fosse acompanhada do competente título translativo da propriedade, com todas as consequências dai advenientes.
+
+Estamos convitos que as inovações agora introduzidas no regime especial podem contribuir para que as operações de execução do cadastro predial, previstas para breve nas ilhas do Maio, São Vicente e Boa Vista, decorram num ambiente mais favorável em termos das soluções legais para os problemas que se colocam neste processo de reforma do setor da gestão da terra, mas também num quadro de perfeita colaboração institucional, indispensável para o seu sucesso.
+
+Foi promovida a audição prévia dos Municípios envolvidos e da Associação Nacional dos Municípios Cabo-Verdianos, nos termos da lei;
+
+Assim, No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
