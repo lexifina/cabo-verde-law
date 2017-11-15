@@ -1,0 +1,15 @@
+# Preâmbulo
+
+de 14 de novembro O Governo de Cabo Verde elegeu a regularização da situação em Chã das Caldeiras como uma das suas grandes prioridades, tendo desde logo deﬁ nido medidas emergenciais concretas, que vêm sendo gradualmente efetivadas. Refere-se, concretamente, à retoma das atividades económicas, ao realojamento das famílias, ao ordenamento urbanístico e à gestão ambiental do Parque Natural do Fogo (PNF).
+
+Para facilitar a execução dessas medidas aprovou-se a Resolução n.º 13/2017, de 24 de fevereiro, que deﬁ ne um conjunto de medidas atinentes ao reforço da organização e à criação das condições logísticas necessárias à atuação das instituições implicadas na gestão do PNF. Tratou-se da ediﬁ cação de uma sede provisória em Chã das Caldeiras e da deﬁ nição de um conjunto de ações a desenvolver de forma articulada e de acordo com as responsabilidades institucionais, visando a sensibilização da população e a sua efetiva participação na harmonização das atividades económicas (agricultura, pecuária, silvicultura, transformação agroalimentar, turismo…) com os objetivos da preservação do ambiente e da proteção civil.
+
+Paralelamente, e com a ajuda dos parceiros de cooperação, encontra-se em elaboração o Plano Detalhado (PD) de Chã das Caldeiras que, entre outros, deﬁ ne as condições e os locais das ediﬁ cações e a tipologia das construções, envolvendo algumas estruturas da administração central, as autarquias, a população e as organizações não-governamentais que atuam no perímetro desta área protegida.
+
+Não obstante o avanço do processo em termos de planeamento e da criação das condições logísticas que permitem a efetivação das medidas preconizadas, veriﬁ case a intensiﬁ cação das construções e a exploração dos recursos naturais (sobretudo inertes e madeira) sem autorização, conﬁ gurando-se, claramente, o desrespeito pelas normas vigentes. É igualmente notória a insuﬁ ciência de capacidade de ﬁ scalização e de contenção das infrações no PNF, especialmente na cratera de Chã das Calceiras.
+
+Esta situação, a manter-se, anula os esforços consentidos e os resultados conseguidos até ao momento, diﬁ culta as medidas de proteção civil e compromete, deﬁ nitivamente, o ordenamento do território de Chã das Caldeiras e outras iniciativas como a atualização e a implementação do Plano de Gestão do parque, a inscrição da localidade no património natural e cultural da UNESCO e a inclusão de toda a ilha na rede das Reservas Mundiais da Biosfera.
+
+Urge, pois, reforçar o sistema de ﬁ scalização e colaboração institucional e pôr cobro a atitudes e práticas desajustadas que se veriﬁ cam no PNF, que impedem o seu ordenamento e gestão e põem em causa as suas potencialidades, desencorajando as iniciativas de investimento e comprometendo o desenvolvimento sustentável preconizado do Fogo, que se alicerça no ecoturismo e turismo rural, na exploração da geo e biodiversidade, na agricultura e nas tradições culturais genuínas.
+
+Assim, Nos termos do n.º 2 do artigo 265.º da Constituição, o Governo aprova a seguinte Resolução:
