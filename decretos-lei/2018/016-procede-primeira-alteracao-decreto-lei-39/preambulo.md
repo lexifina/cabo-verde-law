@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 19 de março Preâmbulo Considerando a forte aposta do Governo da IX Legislatura no setor da Cultura, especialmente na promoção, preservação e salvaguarda do Património Cultural Imaterial nacional, tendo sob sua direção projetos importantes para o país, designadamente a candidatura da Morna a Património Imaterial da Humanidade, Procurando alinhar e potenciar as linhas de atuação comuns da Comissão Nacional da UNESCO (Organização das Nações Unidas para a Educação, Ciência e Cultura) e do departamento responsável pela área da Cultura, de forma a amplificar os procedimentos e resultados pretendidos, assim, No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
