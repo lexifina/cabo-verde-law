@@ -1,0 +1,17 @@
+# Preâmbulo
+
+publicou o Decreto-Lei nº 36/2020, também de 28 de março, contendo as medidas concretas tidas como adequadas pelo executivo, no exercício das suas competências e com respeito dos parâmetros previamente definidos, com o fito de combater a pandemia do COVID-19.
+
+Paralelamente, a Assembleia Nacional e o Governo produziram legislação, prontamente promulgada pelo Presidente da República, destinada a minimizar os colossais impactos da Pandemia a nível económico, em especial nos planos do apoio às famílias mais desfavorecidas, da protecção do emprego, e do auxílio à tesouraria das empresas, num período de queda abrupta e significativa de rendimentos e de receitas.
+
+Sendo de saudar que a grande maioria dos cabo-verdianos tenha aceite, compreendido e respeitado as restrições anormais e temporárias impostas pelo combate à pandemia do COVID-19, é igualmente de registar, com preocupação, a de Cabo Verde — 17 de abril de 2020 existência de alguns segmentos da população que mantêm comportamentos sociais de risco na presente conjuntura sanitária, o que sugere a continuação e a intensificação da campanha de sensibilização, e no limite, sempre que necessário e com observância das regras aplicáveis, justifica as intervenções das autoridades policiais e militares.
+
+Ainda que seja bem evidente que as medidas tomadas reduziram o crescimento das infecções comparativamente ao cenário da manutenção da normalidade da vida social, pública e empresarial, o número de casos confirmados até ao presente não deixa dúvidas quanto ao potencial de expansão da pandemia, em termos que justificam a manutenção do estado de emergência constitucional.
+
+O Presidente da República tem bem a consciência dos danos que decorrem das limitações e das restrições impostas ao abrigo do estado de emergência, a todos os níveis. Com efeito, o isolamento social, a imobilidade pessoal e a paralisia económica dos sectores formal e informal, impostos pela luta à pandemia, a todos atinge, a um nível muito profundo, reflectindo-se com especial intensidade na quebra dos rendimentos das famílias, em dificuldades e até na inviabilização de inúmeras empresas, e no acentuado desequilíbrio das contas públicas que resultará das diferentes intervenções do Estado, e que terá consequências bastante negativas na vida dos cabo-verdianos.
+
+No entanto, neste momento e perante as actuais circunstâncias, ponderados todos os interesses e valores em jogo, não se pode deixar de se pedir à nação caboverdiana o prolongamento dos sacrifícios por mais algum tempo, em nome da defesa da vida e da saúde dos cidadãos em geral, e em especial dos mais idosos e dos grupos de risco, atingidos por doenças que os tornam especialmente vulneráveis aos efeitos da COVID-19.
+
+Em qualquer caso, atendendo aos diferentes níveis de risco que se verificam, entende-se ser adequado estabelecer dois períodos diferentes para o estado de emergência, um de maior duração para as Ilhas em que já se verificam casos confirmados, e outro de menor duração nas restantes Ilhas.
+
+Usando da competência conferida pela alínea h) do número 2 do artigo 135º e pelo número 1 do artigo 272º, ambos da Constituição, e pelo número 1 dos artigos 9º e 15º, ambos da Lei nº 94/III/90, de 27 de outubro, ouvido o Governo e obtida autorização da Assembleia Nacional constante da Resolução nº 162/IX/2020, de 17 de abril, o Presidente da República decreta o seguinte:
