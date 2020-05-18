@@ -1,0 +1,21 @@
+# Preâmbulo
+
+de 19 de março A Constituição da República de Cabo Verde garante a todos os cidadãos o direito a um ambiente sadio e economicamente equilibrado, impondo aos poderes públicos o dever de elaborar e executar políticas de ordenamento do território e de defesa e preservação do ambiente, de aproveitamento racional dos recursos naturais e de salvaguarda da sua capacidade de renovação.
+
+A Lei n.º 86/IV/93, de 29 de julho, que aprova as Bases da Política do Ambiente, estabelece que a política do ambiente tem por fim otimizar e garantir a continuidade de Cabo Verde — 19 de março de 2020 de utilização dos recursos naturais, quantitativa e qualitativamente, como pressuposto básico de um desenvolvimento autossustentado.
+
+Estabelece ainda que os planos, projetos, trabalhos e ações, que possam afetar o ambiente, elaborados a qualquer nível da administração pública, central, regional ou local, devem respeitar as preocupações e normas contidas nas Bases e terão ainda de ser acompanhados de um Estudo de Impacte Ambiental.
+
+O Programa do Governo da IX Legislatura, para além de reconhecer o turismo como o pilar central da economia, atribui um papel fundamental ao ambiente reconhecendo que a “gestão sustentável dos recursos ambientais, a reorganização territorial e o usufruto de uma qualidade ambiental adequada devem constituir a principal linha de orientação estratégica de Cabo Verde”.
+
+Decorridos 12 anos sobre a publicação do Decreto-Lei n.º 29/2006, de 6 de março, que estabeleceu o regime jurídico da avaliação do impacte ambiental (AIA) dos projetos públicos ou privados suscetíveis de produzirem efeitos no ambiente, Cabo Verde adquiriu uma experiência importante na aplicação deste instrumento essencial para a concretização da Lei de Bases da Política do Ambiente.
+
+Com efeito, o balanço da aplicação do regime de AIA, num contexto de maiores exigências decorrentes do atual estádio de desenvolvimento do país, intimamente associado ao turismo é a sustentabilidade ambiental, tendo ainda em conta as melhores práticas internacionais, permite identificar a oportunidade e, nalguns casos, mesmo a necessidade de se introduzirem alterações profundas que permitam, acima de tudo maior transparência, a credibilidade e a perceção de valor útil dos processos de AIA, aos olhos da sociedade em geral.
+
+As alterações introduzidas acabaram por desembocar num novo regime de AIA, em que, para além de um conjunto alargado de clarificações e acertos introduzidos com o objetivo de melhoria geral dos processos de avaliação, designadamente clarifica um conjunto de aspetos relacionados com a nomeação e funcionamento das Comissões de Avaliação, prodece com a categorização dos projetos, introduzindo diferentes tipos de avaliação em função do perfil de risco ambiental dos projetos.
+
+As alterações estabelecidas pelo presente regime no que tange à atuação dos proponentes e das equipas por si contratadas para a elaboração dos EIA deverão ter correspondência na criação de melhores condições para que a Autoridade de AIA possa dar resposta cabal às suas acrescidas e mais exigente atribuições e competências.
+
+No processo de elaboração do presente projeto foram ouvidas as diversas instituições e entidades relacionadas, públicas e privadas, em todo o território nacional, para recolha de subsídios e a socialização da proposta, designadamente, Delegações do Ministério da Agricultura e Ambiente, o Fundo do Turismo, o Instituto Nacional de Gestão de Território, o Instituto Marítimo e Portuário, o Instituto Cabo-verdiano para a Igualdade e Equidade de Género, a Associação Nacional dos Municipios de Cabo Verde, a Direção Geral da Indústria, a Sociedade de Desenvolvimento Turístico das Ilhas de Boavista e Maio, as câmaras municipais, as universidades; a Plataforma das Organizações Não-Governamental, as associações da sociedade civil implicadas em razão da matéria, entre outros, consultores, académicos e individualidades.
+
+Nestes termos, Ao abrigo do n.º 2 do artigo 30º e do artigo 48º da Lei n.º 86/IV/93, de 26 de julho, que define as Bases da Política do Ambiente; e No uso da faculdade conferida pela alínea c) do n.º 2 do artigo 204º da Constituição, o Governo decreta o seguinte: © Todos os CAPÍTULO I DISPOSIÇÕES GERAIS
