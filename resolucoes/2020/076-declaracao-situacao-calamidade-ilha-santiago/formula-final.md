@@ -1,0 +1,31 @@
+# Aprovação, promulgação e assinaturas
+
+Aprovada em Conselho de Ministros aos 29 de maio de 2020.
+
+O Primeiro-Ministro, José Ulisses de Pina Correia e Silva Resolução nº 77/2020 de 29 de maio A situação de saúde pública de âmbito internacional do COVID-19, declarada de emergência a 30 de janeiro pela Organização Mundial da Saúde (OMS), evoluiu de forma negativa passando a ser considerada uma pandemia a partir de 11 de março.
+
+A 18 de março, com a evolução da situação internacional e a declaração de pandemia, o Governo, através do Despacho Conjunto n.º 01/2020, de 18 de março dos membros do Governo responsáveis pelas áreas das Finanças, Administração Interna e Saúde, declarou a situação de contingência, no cumprimento da Lei de Bases da Proteção Civil, a Lei n.º 12/VIII/2012, de 7 de março, tendo na sequência, adotado um conjunto de medidas restritivas e de caráter excecional, visando acionar os mecanismos de intervenção que habilitassem que a abordagem à COVID-19 fosse feita no âmbito do sistema nacional de proteção civil, seguindo uma estratégia coordenada de preparação e resposta à pandemia, permitindo assim ao Serviço Nacional de Saúde focar-se na vigilância sanitária, realização de testes, no tratamento e na recuperação de casos que pudessem surgir.
+
+A um passo, procedeu-se à elevação do estado de prontidão das forças e serviços de segurança e de todos os agentes de proteção civil, para eventuais operações de apoio na área de saúde pública, ativou-se o Fundo Nacional de Emergência, com vista ao financiamento das ações de prevenção e resposta no âmbito da proteção civil e do sistema nacional de saúde, criou-se uma reserva nacional de equipamentos de proteção individual, destinados aos corpos de bombeiros, polícia e forças armadas, reforçou-se a capacidade de receção e despacho da linha n.º 800 11 12, destinada à prestação de informação e assistência aos cidadãos sobre a doença, com a instalação de mais postos de atendimento e, ainda, a afetação de mais profissionais de saúde para o atendimento à população.
+
+Paralelamente, também se avançou para um conjunto de medidas de distanciamento social, designadamente, medidas de restrição de realização de eventos públicos, do funcionamento de estabelecimentos de restauração, de ginásios, academias e similares, dos estabelecimentos de diversão noturna, de visitas a lares e aos centros onde estejam pessoas de terceira idade, crianças e jovens em risco, aos estabelecimentos prisionais, aos hospitais e outros estabelecimentos de saúde e, de limitação de frequência e de reorganização dos serviços de atendimento ao público, no que tange à imposição de distância mínima de segurança. direitos reservados. A cópia ou distribuição não autorizada é proibida.
+
+Cabo Verde — 29 de maio de 2020 1409 Ainda antes do primeiro caso confirmado, na ilha da Boa Vista, o Governo decidira já, a 17 de março, interditar as ligações aéreas e marítimas internacionais, inicialmente com a Itália, e logo depois com os demais países onde já se registavam casos positivos do COVID-19.
+
+Uma vez confirmado o primeiro caso positivo em Cabo Verde, no dia 19 de março, determinaram-se medidas específicas para a ilha da Boa Vista, nomeadamente, a interdição de ligações aéreas e marítimas dentro do território nacional, de e para aquela ilha, medidas essas que foram, entretanto, estendidas a todo o território nacional com a declaração de situação de calamidade, a 26 de março.
+
+No plano operacional, foi destacado um importante contingente, composto por elementos das Forças Armadas, da Polícia Nacional, da Proteção Civil e Bombeiros, para além de pessoal médico, que levaram consigo equipamento hospitalar e de campanha, envolvendo-se nos procedimentos de avaliação médica, segurança das estruturas de saúde e locais de isolamento, levantamento cartográfico e de áreas de risco, além do reforço da segurança urbana e da vigilância costeira.
+
+Após de um aturado processo de ponderação e auscultação de todos os atores relevantes, o Presidente da República viria a decretar o estado de emergência, em todo o território nacional, a 28 de março, através do Decreto Presidencial n.º 06/2020, por se ter considerado necessário reforçar a cobertura constitucional que desse suporte a medidas mais abrangentes e efetivamente mais restritivas e excecionais, para combater uma situação cada vez mais emergencial.
+
+A 17 de abril, na sequência da publicação do Decreto-lei n.º 44/2020, de 17 de abril, que procedeu à regulamentação da declaração do estado de emergência, decorrente da prorrogação decretada pelo Presidente da República, foi estabelecido um conjunto de medidas restritivas que se deveriam manter findo o estado de emergência, constantes do artigo 30º, do citado diploma legal.
+
+Ao longo dos últimos dois meses e meio, graças ao esforço empreendido por diferentes setores da nossa sociedade e num quadro de compromisso alargado entre os diferentes órgãos de soberania, tem sido possível conter a pandemia, evitar a sobrecarga do sistema de saúde e garantir a segurança sanitária no nosso país.
+
+Em seis ilhas não se verificaram casos positivos de coronavírus. Na ilha de São Vicente, onde inicialmente, surgiram casos positivos, verifica-se uma situação particular de evolução muito positiva, tendo-se dado por recuperados todos os três pacientes contaminados até agora nessa ilha.
+
+A ilha da Boa Vista conheceu uma evolução considerável, não se verificando neste momento nenhum doente ativo.
+
+Na ilha de Santiago, a evolução epidemiológica indica uma tendência de estabilização do número de casos positivos, de redução do risco de transmissão e o número de situações que exigem internamento hospitalar é bastante residual.
+
+O país mantém como prioridades a prevenção da pandemia e a mitigação do contágio, e tem estado a reforçar, substancialmente, a sua capacidade de realização de testes, de triagem e de investigação dos casos suspeitos e, paralelamente, nos planos social e económico, foram tomadas um conjunto de decisões e de medidas de proteção social das famílias, de proteção do emprego e do rendimento dos trabalhadores de setores e atividades direta e indiretamente afetados pela pandemia e pelas restrições impostas, nomeadamente, dos que operam no setor do turismo e serviços conexos e no setor informal.
