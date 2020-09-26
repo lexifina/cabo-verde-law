@@ -1,0 +1,13 @@
+# Preâmbulo
+
+de 25 de setembro A Lei n.º 30/VIII/2013, de 13 de maio, que estabelece as normas de segurança sanitária dos animais, de saúde animal, da salubridade do seu meio ambiente, dos produtos de origem animal e da saúde pública veterinária, manda que as normas previstas nos artigos 21º e 22º, sejam reguladas por meio de regulamentos próprios.
+
+Cabo Verde, como membro da Organização Internacional da Saúde Animal (OIE), desde 2007, adotou as principais normas e procedimentos por ela recomendadas, sendo, no entanto, necessário regulamentar os instrumentos jurídicos existentes no País por forma a adequar as normas daquela organização.
+
+A OIE, de entre as varias missões, visa garantir a transparência e aprimorar o conhecimento da situação mundial da saúde animal. Entre as obrigações formais dos países membros da OIE está a apresentação de informações sobre a situação relevante de doenças animais, inclusive sobre zoonoses presentes em seu território da maneira mais oportuna e transparente. Para isso, estabeleceu e disponibilizou uma lista alargada de doenças animais terrestres e aquáticos, criou e gerencia o Sistema Mundial de Informação em Saúde Animal (WAHIS, da designação inglesa de World Animal Health Information System), que fornece informações sobre 117 doenças listadas para 2015 e acesso ao público a todos os dados sobre doenças listadas na OIE, através do sistema, que após serem validados pela OIE, os Países membros informam e fornecem dados sobre as suas situações sanitárias, no caso de doenças.
+
+Assim, visando estabelecer um regime normativo compatível com a OIE, neste domínio, torna-se necessário, a nível nacional, definir a lista de doenças animais altamente contagiosas e outras doenças graves, e estabelecer as medidas de prevenção, controlo e luta contra as mesmas, no sentido de, não só, alinhar as normas aos acordos vinculados, como também o estabelecimento de procedimentos e normas sobre a saúde e bem-estar animal, contribuindo para a segurança sanitária dos alimentos, segurança alimentar, saúde pública veterinária, humana e ambiental e ainda promover o desenvolvimento do sector pecuário.
+
+Nestes termos, o presente diploma pretende definir as normas, os procedimentos e as medidas sanitárias, visando o controlo, a prevenção e luta contra as doenças altamente contagiosas e outras consideradas graves, de Cabo Verde, tendo como referencia as listas disponibilizadas pela OIE.
+
+Assim, Ao abrigo dos artigos 21º e 22º da Lei nº 30/VIII/2013, de 13 de maio; e No uso da faculdade conferida pela alínea b) do artigo 205º e pela alínea a) do n.º 2 do artigo 264º da Constituição, o Governo decreta o seguinte CAPÍTULO I DISPOSIÇÕES GERAIS
