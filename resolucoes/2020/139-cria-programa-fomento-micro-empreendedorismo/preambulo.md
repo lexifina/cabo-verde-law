@@ -1,0 +1,21 @@
+# Preâmbulo
+
+de 16 de outubro O Governo da IX Legislatura, no seu Programa, preconiza, dentre outros objetivos, o aumento do rendimento disponível das famílias e combate à pobreza e o estímulo à criação de emprego, nomeadamente, através da promoção efetiva do empreendedorismo, facilitação de acesso ao financiamento para a criação do autoemprego e emprego digno, com enfoque essencialmente em jovens e mulheres e ainda, o financiamento às micro e pequenas empresas.
+
+Para tanto, o Governo vem desenvolvendo um conjunto de ações que visam materializar estes importantes objetivos, designadamente, através da criação do Programa de Fomento do Micro Empreendedorismo e simultaneamente do refinanciamento às Instituições de Micro Finanças, pelo seu papel cada vez mais dinâmico e que impacta positivamente na redução da pobreza e criação de emprego.
+
+Neste sentido, a Resolução nº 97/2017, de 22 de agosto, alterada pela Resolução nº 32/2020, de 24 de fevereiro, e pela Resolução nº 74/2020, de 26 de maio, que cria o Programa de Fomento do Micro Empreendedorismo, tem como principal objetivo fomentar o micro empresariado visando contribuir para a inclusão económica e social, através de oportunidades de criação de autoemprego e de rendimento pela via empreendedorismo, assentes em serviços específicos de incubação, bem como facilidades na obtenção do crédito e realização de negócios com sustentabilidade económica e financeira.
+
+Ocorre que, em decorrência da grave crise sanitária provocada pela pandemia da COVID-19, que teve um enorme impacto negativo nas mais diversas dimensões da vida económica e social no mundo e de um modo muito particular em Cabo Verde, estas restrições impactaram, significativamente, a economia Cabo-verdiana, fortemente dependente do exterior e com um sector do turismo que contribui diretamente para o PIB com mais de 20%.
+
+No entanto, apesar dos impactos económicos da pandemia serem ainda incalculáveis, é de se esperar no cenário pós-crise a ocorrência de encerramento de empresas e um aumento substancial do desemprego afetando, particularmente, os jovens e as mulheres, o que impacta negativamente o rendimento e a vida das famílias.
+
+Destarte, reconhecendo a importância que o micro crédito vem desempenhando na inclusão económica e social dos Cabo-verdianos, sobretudo dos jovens e das mulheres, através da criação de novas unidades empresariais e por essa via a promoção do autoemprego e o acesso ao rendimento, importa alargar e reforçar os instrumentos que facilitem a concessão deste tipo de crédito, dotando de recursos financeiras as instituições que o praticam, nomeadamente através do refinanciamento das Instituições de Micro Finanças (IMF) em condições favoráveis junto à Banca, de modo a que possam também conceder créditos em condições mais acessíveis e a custos mais baixos, aos promotores de projetos e de iniciativas empresariais ligadas ao micro empreendedorismo.
+
+Nesta senda, no atual contexto da pandemia, importa revisitar a mencionada Resolução de modo a que a este programa de promoção do empreendedorismo dirigido, prioritariamente, aos jovens e às mulheres, possa melhor contribuir para que uma micro e pequena empresa ou uma entidade de economia social e solidária como cooperativas, grupos de interesse económico e associação de produtores, consigam dispor, não só de um maior leque de instituições financiadoras, mas também de um acesso mais facilitado a créditos, bem como à qualificação técnica e profissional e de capacidades organizativas através de serviços de incubação.
+
+Por uma questão de legística e para facilitar a compreensão do diploma por parte do seu destinatário, atendendo as de Cabo Verde — 16 de outubro de 2020 sucessivas alterações operadas, optou-se por aprovar uma Resolução “limpa” que “cria” o Programa de Fomento do Micro Empreendedorismo com as inovações acima mencionadas.
+
+Simultaneamente, são revogadas a Resolução nº 97/2017, de 22 de agosto, bem como as respetivas alterações feitas pelas Resoluções nºs 32/2020, de 24 de fevereiro, e 74/2020, de 26 de maio, mas sem perigar, entretanto, os atos então praticados à luz da primeira Resolução que continuam naturalmente válidos.
+
+Assim, Nos termos do nº 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
