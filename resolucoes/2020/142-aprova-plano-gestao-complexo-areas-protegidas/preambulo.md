@@ -1,0 +1,17 @@
+# Preâmbulo
+
+de 19 de outubro Cabo Verde, enquanto país pequeno, insular e arquipelágico, agravado pelas suas vulnerabilidades económica e ambiental, exige estratégias adequadas de gestão dos seus recursos naturais.
+
+É nesta linha de preocupações que Cabo Verde ratificou a Convenção sobre a Diversidade Biológica em 1995 e em 1999 elaborou a Estratégia Nacional e Plano de Acão sobre a Biodiversidade.
+
+Em 2003, foi publicado o Decreto-lei nº 3/2003, de 24 de fevereiro, alterado pelo Decreto-lei nº 44/2006, de 28 de agosto, sobre o regime jurídico de espaços naturais, que cria 47 áreas protegidas, com 6 categorias: Parque Nacional, Parque Natural, Reservas Naturais, Paisagem Protegida, Monumento Natural e Sítios de Interesse Científico. A criação de uma Rede Nacional de Áreas Protegidas criadas pelos diplomas acima referidas, constituiu um instrumento político fundamental no que respeita à preservação de paisagens naturais, conservação e manutenção de recursos e processos naturais, conservação de espécies e habitats, sendo fonte geradora de desenvolvimento equilibrado, que reduza pobreza e melhore a qualidade de vida das populações residentes, utilizadoras ou adjacentes às Áreas Protegidas.
+
+Com a proteção legal desses espaços naturais, garantida pelo Decreto-lei nº 3/2003, de 24 de fevereiro, alterado pelo Decreto-lei nº 44/2006, de 28 de agosto, impõe-se a necessidade de serem elaborados os respetivos instrumentos de gestão, que são fundamentais para uma gestão dos recursos naturais e culturais de acordo com os princípios de desenvolvimento sustentável.
+
+O mencionado diploma legal determina os diferentes regimes e figuras de proteção, criando os princípios e os instrumentos de gestão territorial, que deverão conter as medidas necessárias à garantia de conservação da biodiversidade, da geodiversidade e a necessidade de compatibilizar os diferentes interesses em presença com a proteção de valores culturais e estéticos e a satisfação das necessidades e anseios das populações locais e visitantes.
+
+A lei de Bases da Política de Ordenamento do Território e Planeamento Urbanístico aprovados pelo Decreto-Legislativo nº 1/2006, de 13 de fevereiro, com as alterações que lhe foram introduzidas pelo Decreto-Legislativo nº 6/2010, de 21 de junho, e Decreto-Legislativo nº 4/2018, de 6 de junho, qualificam por sua vez os planos de ordenamento de áreas protegidas ou outros espaços naturais de valor cultural, histórico ou científico, como planos especiais de ordenamento do território de valor hierárquico superior aos planos municipais de planeamento territorial.
+
+Foram ouvidas todas as organizações públicas e privadas e da sociedade civil sediadas na ilha do Maio e relacionadas com atividades no âmbito do Complexo de Áreas Protegidas da ilha do Maio, abrangendo a Reserva Natural das Casas Velhas, a Reserva Natural da Lagoa Cimidor, a Reserva Natural da Praia do Morro, a Paisagem Protegida de Monte Penoso e Monte Branco e a Paisagem Protegida das Salinas do Porto Inglês.
+
+Assim, Ao abrigo do disposto no artigo 16º do Decreto-lei nº 3/2003, de 24 de fevereiro, alínea c) do nº 1 da Base XVI de Cabo Verde — 19 de outubro de 2020 do Decreto-Legislativo nº 1/2006, de 13 de fevereiro, na nova redação que lhe foi dada pelo Decreto-Legislativo nº 6/2010, de 21 de junho, e Decreto-Legislativo nº 4/2018, de 6 de julho, e no artigo 72º do Decreto-lei nº 43/2010, de 27 de setembro; e Nos termos do nº 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
