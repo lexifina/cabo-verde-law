@@ -1,0 +1,15 @@
+# Preâmbulo
+
+de 11 de janeiro Nota Justificativa O Decreto-Regulamentar n.º 13/2009 de 20 de julho que aprovou os Estatutos do Instituto Nacional de Meteorologia Geofísica (INMG) determina na alínea i) do nº 1 do artigo 16º que compete ao Conselho de Administração aprovar a estrutura orgânica dos serviços centrais nucleares e de base territorial bem como o respetivo quadro de pessoal, e submeter entidade de superintendência para publicação por meio de portaria.
+
+Com a consolidação das novas linhas de planeamento institucional e diversificação estratégica, o Instituto Nacional de Meteorologia e Geofísica (INMG), enquanto autoridade nacional nos domínios da meteorologia, climatologia, geofísica, geomagnetismo e da sismologia, necessita de uma estrutura organizacional que se adapta às novas exigências nacionais e internacionais na prestação de serviços e dar resposta aos desafios e responsabilidades que ora se impõe no contexto atual das Mudanças Climáticas.
+
+Assim, a presente Portaria além de cumprir o estipulado do nº 1 do artigo 16º do Decreto-Regulamentar n.º 13/2009 de 20 de julho, que aprovou os Estatutos do Instituto Nacional de Meteorologia Geofísica (INMG), pretende dotar o Instituto de um novo dinamismo organizacional, capaz de assegurar as estratégias e políticas institucionais, contribuindo para a elevação das competências e motivação dos recursos humanos.
+
+Preâmbulo O Decreto-Regulamentar n.º 13/2009 de 20 de julho que aprovou os Estatutos do Instituto Nacional de Meteorologia Geofísica (NMG) determina na alínea i) do nº 1 do artigo 16º que compete ao Conselho de Administração aprovar a estrutura orgânica dos serviços centrais nucleares e de base territorial bem como o respetivo quadro de pessoal, e submeter à entidade de superintendência para publicação por meio de portaria.
+
+Com a consolidação das novas linhas de planeamento institucional e diversificação estratégica, o Instituto Nacional de Meteorologia e Geofísica (INMG), enquanto autoridade nacional nos domínios da meteorologia, climatologia, geofísica, geomagnetismo e da sismologia, necessita de uma estrutura organizacional que se adapta às novas exigências nacionais e internacionais na prestação de serviços e dar resposta aos desafios e responsabilidades que ora se impõe no contexto atual das Mudanças Climáticas.
+
+Assim, a presente Portaria além de cumprir o estipulado do nº 1 do artigo 16º do Decreto-Regulamentar n.º 13/2009 de 20 de julho, que aprovou os Estatutos do Instituto Nacional de Meteorologia Geofísica (INMG), pretende dotar o Instituto de um novo dinamismo organizacional, capaz de assegurar as estratégias e políticas institucionais, contribuindo para a elevação das competências e motivação dos recursos humanos.
+
+Nestes termos e no uso da faculdade conferida pela alínea b) do artigo 205º e pelo nº 3 do artigo 264º da Constituição; e Ao abrigo do disposto no artigo 27.º do Estatuto do INMG, aprovado pelo Decreto-Regulamentar n.º 13/2009, manda o Governo de Cabo Verde, pelo Ministro da Agricultura e Ambiente o seguinte: direitos reservados. A cópia ou distribuição não autorizada é proibida. de Cabo Verde — 11 de janeiro de 2020
