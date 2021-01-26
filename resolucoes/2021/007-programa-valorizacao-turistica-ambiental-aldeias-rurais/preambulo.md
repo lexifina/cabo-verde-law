@@ -1,0 +1,15 @@
+# Preâmbulo
+
+de 25 de janeiro A aposta no turismo como um dos principais pilares de desenvolvimento económico de Cabo Verde e os consequentes investimentos realizados proporcionaram a este setor um crescimento muito expressivo: 820 mil turistas e cerca de 25% do PIB em 2019, conforme dados do INE.
+
+O turismo balnear (de “sol e praia”) é, indubitavelmente, o mais emblemático e as ilhas rasas do Sal e da Boavista os principais destinatários de investimentos neste domínio. O país oferece, também, boas condições para o desenvolvimento de outros segmentos turísticos, dos quais destacam-se o ecoturismo e o turismo rural, especialmente nas ilhas de maior relevo, que conferem grande diversidade de ecossistemas e de paisagens e que apresentam um nível de ruralismo muito mais acentuado, com vivências culturais e formas de uso dos recursos naturais dignos de maior valorização.
+
+Considerando este potencial e visando um desenvolvimento económico inclusivo e sustentável, orientado para a redução das assimetrias regionais e do êxodo rural, o Governo vem apostando, fortemente, na diversificação das ofertas turísticas no país. Até o início deste ano, a dinâmica dos investimentos e o crescimento do setor eram bastante expressivos, sendo que a meta traçada e a atingir durante a presente legislatura era de 1 milhão de turistas por ano. Porém, a pandemia da COVID-19 em 2020 provocou, praticamente, a paralisação do turismo, a estratégia do Governo para o setor ficou condicionada e Cabo Verde passou a integrar o grupo dos países economicamente mais impactados pela crise sanitária mundial.
+
+Com a descoberta das vacinas, prevê-se o recuo da pandemia em 2021 e a recuperação da normalidade, retomando-se o crescimento da economia, mormente no que tange ao turismo. Nesta perspetiva, torna-se muito pertinente acelerar a diversificação dos segmentos turísticos, conforme acima referido, criando mais oportunidades no meio rural.
+
+No que ao Ambiente se refere, é de realçar a necessidade de integrar melhor a conservação da biodiversidade no turismo para atender às vulnerabilidades dos ecossistemas existentes e, ao mesmo tempo, assegurar a beneficiação ambiental das zonas rurais, tornando-as mais qualificadas e atrativas para a atividade do turismo. É justamente neste contexto que o Governo optou pela implementação de um programa de valorização turística e ambiental das aldeias rurais, visando maior rendimento para as famílias, maior resiliência das comunidades um desenvolvimento mais inclusivo e sustentável.
+
+O programa será implementado em aldeias rurais com caraterísticas privilegiadas em termos de valores naturais (bio e geodiversidade, paisagens), socioculturais, históricos e outros. Incluirá medidas de fomento empresarial que propiciem mais e melhores alojamentos, produção agrícola, gastronomia, artesanato local e eventos culturais. Para a sua implementação serão alocados sobretudo recursos inscritos nos fundos do turismo e do ambiente, sujeitos aos mecanismos de alavancagem.
+
+Assim, Nos termos do n.º 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução: de Cabo Verde — 25 de janeiro de 2020
