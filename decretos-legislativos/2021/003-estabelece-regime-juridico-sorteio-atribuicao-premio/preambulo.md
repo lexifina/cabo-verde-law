@@ -1,0 +1,15 @@
+# Preâmbulo
+
+de 30 de abril Com a aprovação do Código do Imposto sobre o Valor Acrescentado (IVA), surge a obrigação de os sujeitos passivos emitirem faturas por cada transmissão de bens ou prestação de serviços efetuada, ainda que esta não seja solicitada pelo adquirente dos bens e / ou serviços.
+
+Simultaneamente, introduziu-se um quadro sancionatório para a violação do dever de emitir e exigir faturas ou recibos, previsto no artigo 107.º do Regime Jurídico das Infrações Tributárias não Aduaneiras.
+
+Adicionalmente, por via da aprovação do Código do IVA, surge a obrigação de comunicação à Direção Nacional das Receitas do Estado (DNRE) dos elementos das transações efetuadas pelo sujeito passivo, através do preenchimento da declaração periódica de IVA (Modelo 106), a ser entregue obrigatoriamente por via eletrónica. Pretendeu-se, assim, introduzir instrumentos eficazes para combater a economia paralela, e alargar a base tributável, promovendo-se a exigência de fatura por cada transação e reduzindo-se as situações de evasão fiscal associadas à omissão do dever de emitir o documento comprovativo de uma transação.
+
+Foi, ainda, aprovado o regime jurídico que institui a fatura eletrónica e os documentos fiscalmente relevantes eletrónicos, pelo Decreto-Lei n.º 79/2020, de 12 de novembro, que instituiu a comunicação à DNRE, em tempo real, dos elementos das faturas emitidas por meios informáticos e documentos fiscalmente relevantes eletrónicos, com os requisitos e nos termos do Código do IVA e demais legislação fiscal. Neste contexto, pretende-se implementar um conjunto de novas medidas que estimulem o cumprimento da obrigação de emissão de fatura em todas as operações económicas, sustentadas num dever de cidadania em matéria fiscal que sobre toda a população impende, visando o reforço do combate à economia paralela.
+
+Neste sentido, é criado um sorteio, ao qual ficam imediatamente habilitados a participar todos os consumidores finais, relativamente a todas as faturas, faturas-recibo e talões de venda emitidas e comunicadas à DNRE num determinado período temporal, que contenham o número de identificação fiscal dos adquirentes. Adicionalmente, as pessoas singulares que sejam arrendatários de imóveis para fins habitacionais, portadores de recibos de renda devidamente emitidos pelo respetivo senhorio, e nos quais se encontre inserido o número de identificação fiscal do arrendatário, ficam habilitados a participar no sorteio.
+
+Da conjugação destas medidas pretende-se que resulte um aumento importante da receita fiscal, com forte impacto positivo na redução do défice e no reforço do combate à economia paralela e à evasão fiscal, e alargando a base tributável, de forma a criar as condições necessárias para um futuro desagravamento da fiscalidade.
+
+Assim, Ao abrigo da autorização legislativa concedida pelo artigo 54º da Lei n.º 109/IX/2020, de 31 de dezembro; e No uso da faculdade conferida pela alínea b) do n.º 2 do artigo 204º da Constituição, o Governo decreta o seguinte:
