@@ -1,0 +1,21 @@
+# Preâmbulo
+
+de 5 de abril A pandemia de Covid-19 pôs em evidência a grande ancoragem de Cabo Verde no setor do turismo, tendo, por isso, devido à sua transversalidade, provocado um impacto muito forte em todos os setores de atividade económica no país. O resultado foi uma quebra de 14,8% no PIB e uma perda temporária de cerca de 20 mil postos de trabalho, em 2020. Devido ao bloqueio mundial nas viagens e consequentemente no turismo, Cabo Verde sofreu um decréscimo em cerca de 75% na entrada de hospedes, sobretudo do mercado europeu, o principal mercado emissor, face aos valores comparativos de 2019.
+
+O desempenho das inanças públicas foi amplamente afetado, em 2020, interrompendo a tendência de redução do déice e da dívida pública. O déice público agravouse para 9,1% do Produto Interno Bruto (PIB),(mais 6,7 pontos percentuais, face a 2019, por causa das medidas e ações para aliviar os efeitos socioeconómicos da pandemia e pela redução das receitas totais em mais de 25%. Em 2021, o nível de atividade económica permaneceu abaixo de 2019, afetando a arrecadação das receitas iscais e não iscais, aliada ao aumento das despesas decorrentes da necessidade de intervenção do Estado no âmbito das medidas de reforço ao sistema sanitário e medidas socioeconómicas.
+
+Este abrupto decréscimo afetou a economia em grande parte e fez soar o alarme da excessiva dependência do país em relação ao turismo que representa cerca de 25% do Produto Interno Bruto. Tomando em consideração esses factos, concluiu-se que é necessária uma diversiicação programada da atividade económica, e do próprio turismo per si, de modo a mitigar os efeitos que uma outra eventual crise futura possa vir provocar, de forma inesperada e profunda, o desenvolvimento económico do País.
+
+Para além disso, é necessário, por um lado, debelar os principais desafios do turismo elencados no Plano Estratégico para o Desenvolvimento Sustentável (PEDS I) e esmiuçados nas Grandes Opções do Plano Estratégico de Desenvolvimento Sustentável do Turismo, abreviadamente designado por GOPEDS -Turismo, nomeadamente o desaio da concentração, da competitividade, da sustentabilidade e da maximização dos impactos positivos do turismo nas famílias e nas empresas cabo-verdianas e, por outro, dar resposta à problemática central do turismo que tem a ver com a Qualiicação da Oferta e a diversiicação do Produto Turístico de Cabo Verde e promoção do destino Cabo Verde.
+
+Nesse sentido, surgiu a necessidade de se elaborar um documento operativo que reunisse as preocupações, os desaios, os problemas do turismo, de forma transversal e em articulação com os demais setores da atividade económica, centrado nas orientações do GOPEDS-Turismo, levando em consideração a maioria das recomendações prevista s nos Master Plans de Turismo elaborados por cada ilha, que viesse ao encontro da visão do governo sobre o setor, com soluções claras para o turismo nacional, visando sobretudo a sustentabilidade no seu conceito global.
+
+A visão do Governo sobre o turismo é clara: preconiza o desenvolvimento do setor de forma sustentável, que tenha como propósito último valorizar os recursos naturais e humanos do País e contribuir para o bem-estar dos caboverdianos, individual e coletivamente, em todas as ilhas e municípios do País, em benefício das gerações presentes e futuras, ao mesmo tempo que propicia experiências positivas para os visitantes que nos procuram.
+
+É nesse contexto que nasce o Programa Operacional do Turismo - (POT) com uma vigência temporal de 5 anos (2022-2026).
+
+Cabo Verde — 5 de abril de 2022 O POT contempla, no essencial, o problema central do turismo já identiicado e a resposta para a resolução desse problema traduzida em projetos concretos que versam a qualiicação da oferta, a melhoria da promoção, a qualiicação dos recursos humanos, a governança e a sustentabilidade do crescimento do setor. Passa a ser o documento orientador para a implementação da visão do Governo para este setor, tendo como metas inais a criação de empregos, o aumento de rendimento das famílias, a redução da pobreza absoluta bem como a eliminação da pobreza extrema, rumo ao cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS) e da Agenda 2030.
+
+Foi ouvido o Conselho Nacional do Turismo.
+
+Assim, Nos termos do n.º 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
