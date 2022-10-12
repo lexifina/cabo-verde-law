@@ -1,0 +1,19 @@
+# Preâmbulo
+
+de 3 de outubro No quadro do Programa do Governo a coesão territorial será promovida através da coordenação e a operacionalização das políticas transversais que reduzam as assimetrias regionais em termos de oferta de serviços públicos (administração, educação, saúde e outros), de redução de índices de pobreza, de criação de oportunidades económicas e sociais, que promovam a convergência de todos os municípios e de todas as ilhas para os Objetivos do Desenvolvimento Sustentável.
+
+Neste contexto foi aprovado a Politica Nacional de Coesão Territorial, sendo a elaboração da Estratégia Nacional de Desenvolvimento Regional e Local um dos eixos principais de atuação para materialização da Politica Nacional de Coesão Territorial.
+
+Assim, considerando que o conceito de desenvolvimento regional, requer uma análise de fatores sociais e econômicos no interior de uma região, que permitem a deinição de políticas e estratégias, de âmbito nacional e regional, que possam reduzir as desigualdades regionais, a deinição de uma Estratégia Nacional de Desenvolvimento Regional e Local para Cabo Verde, acarreta primeiramente compreender as transformações ocorridas na estrutura económica das várias ilhas de modo a harmonizar a estratégia de desenvolvimento adotada, às dinâmicas evidenciadas por cada região do país.
+
+Para alcançar tal objetivo, o Governo estabelece a Estratégia Nacional de Desenvolvimento Regional e Local, visando transformar os sistemas produtivos regionais e locais, fomentar a produção regional e local, promover as atividades empresariais a nível regional e local, qualiicar a mão-de-obra regional e local, estimular a inovação tecnológica regional e local e desenvolver as infraestruturas regionais e locais.
+
+Aliado ao desenvolvimento das potencialidades econômicas de cada região, a deinição e implementação da Estratégia Nacional de Desenvolvimento Regional e Local, vem deste modo contribuir, para a igualdade no desenvolvimento e acesso às oportunidades de todos os © Todos os territórios e contribuir para o aumento da qualidade e condições de vida da população.
+
+Assim, com o objetivo primordial de combater as disparidades económicas inter e intrarregionais e tendo em conta os compromissos assumidos pelo Governo para elaboração e implementação da Estratégia Nacional de Desenvolvimento Regional e local em consonância, com outros instrumentos de politicas em curso, pretende o Governo aprovar a um conjunto de medidas integradas de promoção do desenvolvimento regional e local orientadas para o crescimento, diversiicação e reconversão económica regional e local, que irão contribuir para combater as assimetrias económicas.
+
+As medidas da Estratégia Nacional de Desenvolvimento Económico regional assentam na reconversão, orientada sobretudo para as regiões que possuem um crescimento económico abaixo da média nacional, na diversiicação que visa a obtenção de uma estrutura económica regional mais heterogénea e estável, na integração territorial, que por sua vez almeja sobretudo aumentar as vantagens competitivas das regiões com vista a torna-las mais atrativas para a ixação e desenvolvimento de atividades económicas e empresariais, e por fim nas medidas de estabilização que estão orientadas essencialmente para as regiões de crescimento lento, com estruturas produtivas pouco diversiicadas, e cuja base económica possui um forte pendor agrícola.
+
+Desde logo, a implementação da Estratégia Nacional de Desenvolvimento Regional e Local, passa pela execução de um conjunto de diretrizes, instrumentos e princípios, e a sua materialização comporta um conjunto de atividades de coordenação, cooperação, execução, seguimento e avaliação de resultados. Importa assim, aprovar a Estratégia concebida e concretizar as medidas nela previstas.
+
+Assim, Nos termos do n.º 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
