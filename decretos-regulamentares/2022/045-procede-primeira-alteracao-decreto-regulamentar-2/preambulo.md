@@ -1,0 +1,11 @@
+# Preâmbulo
+
+de 14 de outubro Pelo Decreto-Regulamentar n.º 2/2021, de 25 de março, regulamentou-se a pesca de mergulho comercial, observando disposto nos n.ºs 1 e 13 do artigo 74º do Decreto-Legislativo n.º 2/2020, de 19 de março, que prevê a pesca de mergulho comercial como uma modalidade reservada a nacionais cabo-verdianos, cujos termos e condições para a sua licença devem ser previstas em diploma próprio.
+
+Da vigência do referido Decreto-Regulamentar sentiu-se necessidade de poder dar alguma coniança aos promotores, que izeram investimentos avultados para se iniciarem a pesca do pepino-do-mar com escafandro autônomo e num regime comercial (pessoa coletiva), para um período de tempo relativo curto, de apenas três meses.
+
+No essencial, pretende-se com a presente alteração: (i) aumentar o período de duração das licenças de pesca - de três meses para doze meses -; (ii) readequar o valor da taxa e ser pago para cada licença; (iii) clariicar o regulamento na matéria de embarcações de auxilio; (iv) adequar os requisitos de licenciamento de modo a torná-los menos onerosos para os pescadores mergulhadores; (v) atribuir competências ao Instituto Marítimo Portuário (IMP) na emissão de emissão do comprovativo de certiicação dos equipamentos; (vi) estabelecer ainda restrições ao mergulho comercial; e, por último, (vii) estabelecer um prazo de seis meses para os pescadores mergulhadores, ainda sem o curso de mergulhador, que se encontram no ativo à data da entrada em vigor da presente alteração possam regularizar a sua situação e adequarem-se aos novos requisitos de licenciamento ora previstos no presente diploma.
+
+Nestes termos, ouvido as entidades competentes e tendo em devida conta a sustentabilidade da biodiversidade marinha e a exploração sustentável do mesmo, entendeu-se alterar o período de vigência, de três meses para um ano à semelhança dos licenciamentos para outras pescarias no regime jurídico das pescas em Cabo Verde.
+
+Assim, Ao abrigo do disposto nos n.ºs 1 e 13 do artigo 74º do Decreto-Legislativo n.º 2/2020, de 19 de março; e No uso das faculdades conferidas pela alínea b) do artigo 205º e pela alínea a) do n.º 2 do artigo 264º da Constituição, o Governo decreta o seguinte:
