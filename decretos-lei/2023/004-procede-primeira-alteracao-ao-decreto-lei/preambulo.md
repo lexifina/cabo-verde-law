@@ -1,0 +1,17 @@
+# Preâmbulo
+
+de 12 janeiro O Decreto-lei n.º 5/2016, de 16 de janeiro, estabeleceu o regime geral da produção, certificação, comercialização, importação, exportação e fiscalização de sementes e mudas no território nacional. Por via deste Decretolei foi, também, instituído o Sistema Nacional de Sementes e Mudas, criando entre os organismos que o compõem, o Serviço Nacional de Sementes e Mudas (SENASEM), enquanto autoridade nacional responsável pela coordenação das atividades ligadas à produção, certificação, comercialização e fiscalização desses produtos e remetendo para diploma próprio o estabelecimento da composição, competências e funcionamento desse serviço.
+
+O supracitado diploma determina ainda que devem integrar esse Sistema, o Comitê Nacional de Sementes e Mudas (CNSM) e o Fundo de Apoio de Sementes e Mudas (FASS), a ser regulamentado em diploma próprio, estes decorrentes do disposto no n.º 3 do Regulamento da Comunidade Económica dos Estados da África Ocidental (CEDEAO) C/REG.4/05/2008, de 18 de maio, aprovado pelo Decreto n.º 6/2018, de 12 de março.
+
+Decorridos mais de sete anos da entrada em vigor do presente diploma observe-se que o diploma trouxe inovações, mas que, na prática, não operacionalizou.
+
+É que o SENASEM, enquanto autoridade nacional responsável pela coordenação das atividades ligadas à produção, certificação, comercialização e fiscalização de sementes e mudas, vem sendo assegurado pela Direção- Geral da Agricultura Silvicultura e Pecuária, através do Direção da Agricultura e Proteção Vegetal, enquanto que os demais organismos continuaram por regulamentar.
+
+A atividade de produção e comercialização de sementes e matérias vegetais tem crescido nos últimos tempos, e o Governo, reconhecendo que a qualidade dos produtos obtidos na agricultura depende, em larga medida, da utilização de variedades vegetais adequadas e cujo material de propagação seja produzido e comercializado de acordo com um sistema de certificação rigoroso e uniformizado, e em atenção aos riscos associados do crescimento dessa atividade sem , pretende-se alterar o refiro diploma para que haja um melhor controlo nesse sector e prevenindo os riscos associados.
+
+Assim, ao Instituto Nacional de Investigação e Desenvolvimento Agrário (INIDA), enquanto serviço de operacionalização e que detém o capital genético, são atribuídos o banco de germoplasma e produção de mudas, e passa a ser a autoridade responsável para a coordenação das atividades ligadas a produção, certificação e comercialização de Sementes e Mudas, e o Departamento Responsável pela Agricultura passa a ser responsável pela Fiscalização e Inspeção do sector de semente e mudas.
+
+Procede-se à eliminação da obrigatoriedade da criação do Fundo de Apoio de Sementes e Mudas (FASS), com personalidade jurídica e órgãos próprios, tendo em conta a conjuntura atual e a pequenez do mercado de Cabo Verde, em comparação com os demais mercados de sementes da CEDEAO, não se justifica a criação desse órgão, apenas as receitas arrecadas desse sector é canalizado para um centro de custo. Aproveita-se ainda para alterar a composição do Comité Nacional de Sementes e Mudas que passa a ser presidido pelo Diretor Geral da Agricultura Silvicultura e Pecuária e a integrar outras entidades relevantes que atualmente não fazem parte desse órgão.
+
+Assim, No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204º da Constituição, o Governo decreta o seguinte:
