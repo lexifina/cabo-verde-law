@@ -1,0 +1,17 @@
+# Preâmbulo
+
+de 12 janeiro Pelo Decreto-lei n.º 37/2015, de 29 de julho, instituise o regime jurídico das atividades de recreio e turismo náutico e da sua exploração económica, que regula toda a matéria relacionada com embarcações de recreio, náutica de recreio, pesca amadora e desportiva, atividades marítimo turísticas, sem deixar ainda de prever um regime jurídico de responsabilidade civil e seguros obrigatórios, além de um regime contraordenacional.
+
+O diploma que ora se pretende alterar, prevê no regime das embarcações de recreio (ER), no Titulo II, Cabo Verde — 12 de janeiro de 2023 uma classificação das embarcações quanto à zona de navegação, no artigo 6º, para apenas três tipos, sendo um tipo (A) para navegação oceânica sem limite de área e sem restrições, outro (tipo B) para navegação costeira ate 25 (vinte e cinco) milhas da costa e, por último, um tipo (C) de embarcação para navegar em águas abrigadas.
+
+Assiste-se, hoje, que a referida classificação não satisfaz as atividades de recreio, pesca amadora e desportiva e marítimo-turísticas com fortes implicações económicas. Senão vejamos, a classificação do Tipo A, para navegação oceânica e sem restrições ou limites área de navegação, de certa maneira satisfaz, pois enquadrase perfeitamente na realidade nacional e constitui uma boa prática internacional. No entanto, a tipificação pertencente ao Tipo B, ou seja, limitada à navegação até 25 milhas da costa é impeditiva às operações comerciais quando enquadradas na geografia do arquipélago. Por exemplo, tendo em conta a distribuição geográfica das ilhas, o navio ou embarcação do Tipo B já não poderia viajar entre as ilhas de São Nicolau e Sal, na medida em que, a distância entre os dois portos das respetivas ilhas é de 88 (oitenta e oito) milhas e os pontos de linhas de costas mais próximos são maiores do que 50 (cinquenta) milhas (25 x 2) impedindo, consequentemente, o uso desse navio ou embarcação de fazer a viagem entre as duas referidas ilhas e outras combinações que não obedeçam à referida tipificação deixando a única possibilidade o uso de uma embarcação ou navio do Tipo A.
+
+Assim, com vista adequar uma classificação que seja consentânea com as características geográficas do país propõe-se conceber uma classificação que reflita essa realidade e permita realizar viagens entre as várias combinações possíveis, obviamente, com ganhos económicos capazes de catalisar o setor do turismo e converter a discursada potencialidade em ação.
+
+Nesse sentido, a classificação para o Tipo B passaria a incluir uma zona de navegação até 200 milhas da costa coerente com os limites da nossa zona económica exclusiva. Subsequentemente, propõe-se criar outras classes, tais como do Tipo C, D e E para absorver outros cenários, tais como navegação costeira até 60 milhas de um porto de abrigo e 25 milhas da costa, navegação costeira restrita a 12 milhas da costa e, por ultimo, navegação em águas interiores/abrigadas, sempre tendo em mente a nossa realidade geográfica.
+
+Nestes termos, ouvido as entidades competentes e tendo em devida conta a importância das atividades de recreio e turismo náutico e da sua exploração económica, entende-se proceder à alteração parcial do regime das embarcações e náutica de recreio de modo a adequa-lo à realidade nacional.
+
+Assim, No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204º da Constituição, o Governo decreta o seguinte:
+
+CAPÍTULO I DISPOSIÇÕES GERAIS
