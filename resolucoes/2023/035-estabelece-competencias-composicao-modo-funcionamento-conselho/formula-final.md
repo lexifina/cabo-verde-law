@@ -1,0 +1,17 @@
+# Aprovação, promulgação e assinaturas
+
+Aprovada em Conselho de Ministros, aos 25 de abril de 2023.
+
+O Primeiro-Ministro, José Ulisses de Pina Correia e Silva Resolução n.º 36/2023 de 8 de maio de 2023 Na prossecução da política ambiental, as áreas protegidas constituem a infraestrutura indispensável para a concretização dos propósitos da conservação da natureza, tendo o Governo, através do departamento governamental responsável pela área do Ambiente, a missão de assegurar o cumprimento das obrigações internacionais e nacionais neste domínio, a salvaguarda da Rede Nacional de Áreas Protegidas, através do seu planeamento integrado e articulado, assim como a conservação ativa e monitorização das espécies da fauna e flora, e respetivos habitats.
+
+A natureza insular de Cabo Verde, aliada às ações nefastas de fatores climáticos e antrópicos, têm contribuído ao longo dos tempos para a degradação dos seus recursos naturais. Esta situação exigiu dos poderes públicos implementação de medidas legais que garantissem uma gestão sustentável dos recursos naturais através da adoção de mecanismo de proteção, conservação e gestão de áreas com alto valor ambiental e paisagístico bem como de espécies consideradas ameaçadas.
+
+É neste quadro que foi publicado o Decreto-Regulamentar n.º 7/2002, de 30 de dezembro, (revogado pelo Decreto-lei n.º 8/2022 de 6 de abril), que aprovou a lista exaustiva de medidas de conservação e proteção das espécies da fauna e flora ameaçadas de extinção, enquanto componentes da biodiversidade e parte integrante do património natural de Cabo Verde, e o Decreto-lei n.º 3/2003, de 24 de fevereiro, alterado pelo Decreto-lei n.º 44/2006, de 28 de agosto, que criou a Rede Nacional das Áreas Protegidas bem como o regime jurídico dessas áreas. Este diploma, prevê-se a possibilidade de estabelecimento de convénios de gestão concertada pelo departamento governamental responsável pela área do Ambiente com entidades locais, associações comunitárias, organizações não-governamentais interessadas em matéria do ambiente, entidades internacionais ou programas de cooperação bilateral ou multissetorial.
+
+Em Cabo Verde as Organizações da Sociedade Civil (associações comunitárias e organizações não governamentais), estão ativas em todo os sectores de atividades, nomeadamente, ensino e educação, emprego e formação profissional, proteção e defesa do meio ambiente e entre outras áreas.
+
+A intervenção é numa perspetiva de complementaridade dos esforços dos cidadãos e do Governo, porquanto procuram dar respostas as varias situações concretas para as camadas menos favorecidas ou em situação de risco, que o Governo não consegue dar vazão por insuficiência de recursos humanos ou financeiros.
+
+O Governo de Cabo Verde reconhece o papel que as Organizações da Sociedade Civil (OSC) têm despenhado, principalmente na área do ambiente, no que concerne a conservação da natureza, tanto nas áreas protegidas, como também na proteção das espécies endémicas ou espécies protegidas pela legislação nacional ou por convenções, protocolos e acordos internacionais que Cabo Verde ratificou. Graças a essas parcerias, o país tem cumprido, em grande parte, os objetivos propostos para a conservação dos recursos naturais, habitats e os ecossistemas.
+
+Contudo essas parcerias, na prática, são feitas na base de informalidades, por ausência de normas que regulam as relações de parceria das OSC com o Governo, o que implica também a ausência de um modelo que define
