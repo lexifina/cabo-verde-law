@@ -1,0 +1,23 @@
+# Preâmbulo
+
+de 18 de dezembro Nota Justificativa A elaboração do Plano de Ordenamento da Orla Costeira e do Mar Adjacente, mais adiante designado de POOC_M, da Ilha do Maio, foi determinada ao abrigo do disposto na Portaria n.º 37/2020 de 13 de agosto, dos Membros do Governo responsáveis pelas áreas do Turismo e Transportes, Economia Marítima, Agricultura e Ambiente e das Infraestruturas, do Ordenamento do Território e Habitação, suportado pelo Decreto-lei n.º 14/2016 de 1 de março, que regula o processo de elaboração e implementação dos Planos de Ordenamento da Orla Costeira e do Mar Adjacente, e pela Lei de Bases do Ordenamento do Território e Planeamento Urbanístico e o Regulamento Nacional do Ordenamento do Território e Planeamento Urbanístico.
+
+Ademais dos princípios legais no contexto de um país insular, cujo território é maioritariamente oceânico, e cuja maior parte da sua atividade socioeconómica é desenvolvida na faixa da orla costeira e do mar, a imposição e a necessidade de elaboração de instrumentos de gestão territoriais desta natureza tornam-se imperativas para se assegurar a sustentabilidade do modelo de desenvolvimento territorial das sociedades, em particular, na manutenção dos níveis de qualidade de vida das populações abrangidas.
+
+Se por um lado existe essa necessidade de utilização e maximização dos recursos endógenos para garantir um desenvolvimento socioeconómico sustentável, dinâmico, competitivo e inovador, por outro lado (sai) existe a necessidade imperativa de se fazer um planeamento e gestão adequada, exequível e responsável dessa faixa do território, por forma a garantir um equilíbrio entre a exploração dos recursos, sua preservação e conservação de todo o ecossistema que nele coabite.
+
+A garantia desse equilíbrio, na dicotomia entre exploração versus conservação e manutenção, também exige que se tenha uma visão clara e adequada do modelo de desenvolvimento económico e territorial que se pretende implementar.
+
+O Governo de Cabo Verde, na certeza de que o território é o seu maior ativo, enquadrado na sua política de um desenvolvimento socioeconómico baseado no mar e no turismo, não pode deixar de considerar e impulsionar o planeamento da orla costeira e do mar e uma gestão integrada dos seus recursos, usos, ocupação, utilizações e transformação por ser um espaço de articulação e de junção da interface mar-terra-ar, frágil e rico, com especificidades ecológicas muito vincadas, e muito diversificado quanto aos setores de atividades que o utilizam.
+
+A Ilha do Maio em específico, apresenta um alto valor de recursos naturais em bom estado de conservação, cuja riqueza ao nível ambiental e cultural constitui um importante pilar para impulsionar o tão esperado desenvolvimento da Ilha, que deverá ter em conta a sua sustentabilidade, a preservação e a valorização da sua identidade, de forma a dar uma resposta equilibrada e adaptada à realidade local.
+
+Atualmente a Ilha está em processo de transformação, o de Cabo Verde — 18 de dezembro de 2023 que torna pertinente a escolha acertada de estratégias que combinem os atrativos ambientais com as necessidades do desenvolvimento turístico e económico da Ilha. Instrumentos de ordenamento do território são decisivos para que haja uma evolução sustentável e positiva para o futuro, com um planeamento adequado e que deverá promover, potencializar e capacitar a economia e a população local.
+
+No desiderato de garantir o equilíbrio dos ecossistemas e da biodiversidade, que até agora se encontram bem preservados na Ilha perante a carga antrópica e a transformação do território que se avizinham, o POOC_M vai permitir um planeamento efetivo e uma gestão correta da faixa da orla costeira e do mar adjacente, determinando as áreas de vulnerabilidades e de riscos, e regulamentando os critérios de ocupação e implantação de infraestruturas, salvaguardando e protegendo os recursos e valores territoriais, ambientais e patrimoniais, além de quantificar as praias, baías, arribas, enseadas, de entre outros elementos sócio-físico-morfológicos considerados de importância estratégica por razões económicas, ambientais ou turísticas, e ainda, orientar o aproveitamento dos recursos marinhos identificados.
+
+Assim;
+
+Ao abrigo do disposto no artigo 72.º do Decreto-lei n.º 61/2018, de 10 dezembro, que procede à primeira alteração do Decreto-lei n.º 43/2010, de 27 de setembro, conjugado com o artigo 28.º do Decreto-lei n.º 14/2016 de 1 de março; e No uso da faculdade conferida pela alínea b) do artigo
+
+205.º e pelo n.º 3 do artigo 264.º da Constituição da República, Manda o Governo, pelos membros do Governo competentes em razão da matéria, o seguinte:
