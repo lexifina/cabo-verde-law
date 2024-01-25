@@ -1,0 +1,13 @@
+# Preâmbulo
+
+de 24 de janeiro Os acordos bilaterais de promoção e proteção recíproca de investimentos são os principais instrumentos de regulamentação internacional dos investimentos estrangeiros que contêm medidas vinculativas, destinadas a criar condições mais favoráveis para a realização de investimentos por parte de investidores de um dos Estados signatários, no território do outro, assegurando, em regime de reciprocidade, o tratamento mais favorável dos investidores e a garantia de proteção e segurança plena dos investimentos realizados.
+
+Ressalta-se que os acordos para a promoção e proteção de investimentos contra riscos não-comerciais constituem hoje relevante fator de atração do capital estrangeiro. A assinatura desta modalidade de acordo faz parte, portanto, de um esforço empreendido pelo Governo de Cabo Verde para fomentar a atração do capital estrangeiro no território nacional através da afirmação de princípios que garantam segurança jurídica a esse tipo de investimento.
+
+É neste contexto que o Governo da República de Cabo Verde e o Governo do Reino de Marrocos, animados pelo desejo de aprofundar as relações entre os dois países e de criar condições favoráveis à maior cooperação económica, em particular no tocante à realização de investimentos de investidores de um país no território do outro, assim como contribuir para estimular as iniciativas empresariais que favoreçam a prosperidade de ambos os países, assinaram, em Rabat, no dia 9 de maio de 2023, um Acordo sobre a Promoção e Proteção Recíproca de Investimentos.
+
+O Acordo inclui disposições que asseguram a promoção e a proteção dos investimentos dos investidores de ambas as Partes nos respetivos territórios de modo recíproco, incluindo disposições relativas, nomeadamente, à livre transferência de capitais, indemnização em caso de expropriação ou compensação por danos, assegurando que a resolução de litígios entre investidores e os Estados recetores dos investimentos possam ser dirimidos em instâncias arbitrais internacionais, pretendendo desta forma assegurar uma maior proteção aos investimentos de ambas as Partes no território da contraparte.
+
+O acordo em referência cria um quadro jurídico que propicia a realização de investimentos pelos cidadãos e/ ou empresas de uma das partes contratantes no território da outra parte contratante, permitindo, por esta via, a consolidação da cooperação económica, sem deixar, no entanto, de estipular um catálogo de obrigações e compromissos às partes e aos investidores, que ficam sujeitos a cumprirem os termos do acordo e a legislação vigente no país de acolhimento.
+
+Assim, No uso da faculdade conferida pela alínea d) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
