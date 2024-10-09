@@ -1,0 +1,17 @@
+# Preâmbulo
+
+de 8 de outubro O crescente interesse nas tartarugas marinhas por parte dos operadores turísticos e do público em geral tem levado a uma maior consciência sobre a necessidade de proteger estas espécies, mas também tem apresentado novos desafios para a sua conservação e bem-estar. As atividades de observação desses animais no seu habitat têm sido impulsionadas por este interesse. Apesar do grande potencial económico e educacional dessas atividades, é necessário regulamentá-las adequadamente para evitar ameaças ao bem-estar das tartarugas e, em alguns casos, à sobrevivência da espécie. Comportamentos inadequados podem perturbar estes répteis marinhos e levar a comportamentos anormais. O estresse causado por essas atividades, especialmente o comportamento humano, pode dificultar ou até mesmo impedir comportamentos naturais das tartarugas, como reprodução, descanso, busca por alimentos ou orientação para o mar quando estão nas praias. O impacto cumulativo dessas perturbações pode levar ao abandono de áreas importantes de nidificação.
+
+O Decreto-Legislativo n.º 1/2018, de 21 de maio, que estabelece o regime jurídico especial de proteção e conservação das tartarugas marinhas em Cabo Verde, proíbe perturbar ou molestar as tartarugas marinhas, especialmente durante o período de reprodução e desova.
+
+Consequentemente, este diploma regula as regras e os princípios gerais da atividade organizada de observação de tartarugas marinhas no meio natural. A observação de tartarugas marinhas no meio natural, seja ela comercial, recreativa, educacional ou outras, está sujeita à autorização administrativa prévia da Autoridade Ambiental, e remete a regulamentação da matéria para diploma próprio.
+
+A regulamentação da observação de tartarugas marinhas em Cabo Verde é crucial para a preservação desses animais, garantindo seu bem-estar e minimizando o impacto humano. Além disso, promove um turismo sustentável, educação ambiental e desenvolvimento econômico justo para as comunidades locais, preservando o patrimônio natural para futuras gerações.
+
+Neste sentido, é necessário, a aprovação de um regime que estabeleça os padrões para uma conduta responsável e boas práticas na atividade de observação de tartarugas marinhas por parte dos operadores turísticos e do público em geral, compatibilizando os interesses turísticos com a política de salvaguarda ambiental e o bem-estar dos animais, acautelando uma adequada conservação e proteção dos mesmos.
+
+O presente diploma enquadra-se no cumprimento dos compromissos assumidos no âmbito de Convenções Internacionais que proíbem a perturbação das tartarugas marinhas. No que respeita, em particular, às atividades de operação turística, a definição desse regime articula-se com o regime de licenciamento do acesso e exercício da atividade dos prestadores de serviços de animação turística e das operadoras marítimo-turísticas em vigor no país.
+
+Foram ouvidos o Instituto do Turismo de Cabo Verde (ITCV), o Instituto Marítimo e Portuário (IMP), a Câmara de Turismo de Cabo Verde, a Rede Nacional de Proteção das Tartarugas Marinhas de Cabo Verde (TAOLA+), a Direção Nacional das Pescas e Aquacultura, a Polícia Nacional/ Polícia Marítima, o Instituto do Mar, a Universidade de Cabo Verde e a Universidade Técnica do Atlântico.
+
+Assim, No uso da faculdade conferida pela alínea a) do n.º 2 do artigo 204º da Constituição, o Governo decreta o seguinte:
