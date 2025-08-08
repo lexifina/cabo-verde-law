@@ -1,0 +1,17 @@
+# Preâmbulo
+
+Cria a Comissão Interministerial para a atualização da Contribuição I Série Número 72 OFICIAL Nacionalmente Determinada de Cabo Verde, no âmbito do Acordo de Paris da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas. 2 I Série | nº 72 07 de agosto de 2025 | Pág. 2 CONSELHO DE MINISTROS Resolução n.º 75/2025 Sumário: Cria a Comissão Interministerial para a atualização da Contribuição Nacionalmente Determinada de Cabo Verde, no âmbito do Acordo de Paris da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas.
+
+O Acordo de Paris da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (UNFCCC), aprovado em 2015 e ratificado por Cabo Verde, em 2017, através da Resolução n.º 35/IX/2017, de 12 de maio, instituiu um compromisso progressivo que exige a cada Parte apresentar e atualizar periodicamente a sua Contribuição Nacionalmente Determinada (NDC).
+
+Desde então, o país submeteu a primeira NDC em 2017 e a versão revista em 2021, estabelecendo metas de mitigação e adaptação coerentes com as suas circunstâncias de pequena nação insular em desenvolvimento. Em 2025 cumpre-se o ciclo de cinco anos previsto no acordo, o que impõe a preparação da terceira ronda de contribuições, conhecida como NDC 3.0, com horizonte até 2035.
+
+A atualização não se resume a um dever internacional. Trata-se de reforçar a trajetória de desenvolvimento sustentável, alinhada ao Plano Estratégico de Desenvolvimento Sustentável, ao Objetivo de Desenvolvimento Sustentável treze e às recomendações do primeiro Balanço Global concluído em 2023, que mostrou a necessidade de acelerar a ação climática. Uma NDC ambiciosa e tecnicamente robusta permitirá orientar investimentos em energias renováveis, mobilidade limpa, gestão eficiente da água, agricultura resiliente e proteção dos ecossistemas marinhos e terrestres que sustentam a economia nacional. Ao mesmo tempo, criará condições para captar financiamento climático, promover empregos verdes para jovens e mulheres, reduzir custos energéticos e aumentar a segurança alimentar.
+
+A elaboração da NDC 3.0 exige coordenação estreita entre ministérios setoriais, institutos públicos, municípios, organizações da sociedade civil, universidades, setor privado e parceiros internacionais. O processo envolve a compilação de inventários de emissões, a projetação de cenários compatíveis com a trajetória de 1,5º C (um vírgula cinco grau Celcius), a identificação de lacunas de financiamento e tecnologia, a definição de indicadores de inclusão social e a garantia de coerência metodológica com o Quadro Reforçado de Transparência do Acordo de Paris.
+
+Para assegurar um processo eficiente, transparente e participativo, é fundamental a criação de uma Comissão Interministerial que reúne competências técnicas, promova o diálogo institucional e conduza as consultas públicas necessárias para legitimar as novas metas.
+
+I Série | nº 72 07 de agosto de 2025 | Pág. 3 A criação da referida Comissão assegura que Cabo Verde cumpra o calendário internacional, fortaleça a sua credibilidade nos fóruns climáticos e, sobretudo, utilize a NDC 3.0 como instrumento estratégico para transformar desafios climáticos em oportunidades de desenvolvimento, equidade e resiliência para todas as cabo-verdianas e cabo-verdianos.
+
+Assim, Ao abrigo do artigo 28º do Decreto-Lei n.º 9/2009, de 30 de março, e Nos termos do disposto no n.º 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
