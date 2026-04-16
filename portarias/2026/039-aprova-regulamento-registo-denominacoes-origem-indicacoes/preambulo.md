@@ -1,0 +1,21 @@
+# Preâmbulo
+
+A Presente portaria procede aprovação do Regulamento de registo das denominações de origem e Indicações Geográficas. 52 I Série | nº 44 15 de abril de 2026 | Pág. 52 MINISTÉRIO DA INDÚSTRIA, COMÉRCIO E ENERGIA Portaria n.º 39/2026 de 15 de abril Sumário: A Presente portaria procede aprovação do Regulamento de registo das denominações de origem e Indicações Geográficas.
+
+A diversidade qualitativa dos produtos e serviços em Cabo Verde é um dos pontos fortes da sua economia, conferindo-lhe uma vantagem competitiva no mercado e contribuindo para a preservação do património cultural, tendo os agentes económicos sabido conservar e adaptar à evolução científica e tecnológica e os saberes tradicionais de Cabo Verde.
+
+Os cidadãos e os consumidores são cada vez mais exigentes quanto a produtos ou serviços de qualidade, caracterizados pela sua tipicidade e unicidade, respeitando a tradição. A procura de produtos ou serviços com esta qualificação tem incrementado, em especial quando estão associados a uma determinada origem geográfica e são certificados por organismos independentes.
+
+A diferenciação dos produtos ou serviços no mercado pela qualidade e pela origem geográfica exige que se adotem sinais distintivos no comércio para assegurar a sua identificação e permitir recompensar justamente aqueles que, com o seu esforço, quantas vezes transgeracional, colocam esses produtos ou serviços no mercado. As denominações de origem e as indicações geográficas são direitos subjetivos de propriedade industrial que permitem a identificação e a diferenciação qualitativa e geográfica de produtos e serviços, permitindo a lealdade na concorrência e protegendo o consumidor.
+
+As denominações de origem e as indicações geográficas, além das funções jurídicas, de qualidade e de origem geográfica, cumprem outras funções acessórias particularmente relevantes, como sejam, o desenvolvimento rural, a manutenção da população rural, o desenvolvimento do turismo, a atração dos jovens para a agricultura, a pesca, o artesanato, etc., além de contribuírem para a manutenção e proteção da paisagem, do saber-fazer e da cultura de um povo. As zonas desfavorecidas, as zonas de montanha, as zonas ultraperiféricas, entre outras, beneficiam da proteção dos seus produtos e serviços diferenciados por denominações de origem e indicações geográficas. Assim, tais direitos de propriedade industrial contribuem para a sustentabilidade económica, social e ambiental.
+
+Sem prejuízo do disposto no Código da Propriedade Industrial, exige-se, ainda, nos termos do artigo 393º do mesmo Código, que o organismo responsável pela Propriedade Industrial adote uma regulamentação específica para as denominações de origem e indicações geográficas em que se especifique os detalhes, designadamente, sobre os agrupamentos de produtores ou prestadores de serviços, os cadernos de especificações, os organismos de controlo, os símbolos a utilizar na identificação dos produtos ou serviços com direito a denominação de origem ou a I Série | nº 44 15 de abril de 2026 | Pág. 53 indicação geográfica. Por outro lado, respeita-se a autonomia que deve ser concedida a cada região demarcada, aos seus agentes económicos, na construção de um modelo organizacional para os seus produtos ou serviços com direito a denominação de origem ou indicação geográfica.
+
+Estabelece-se um conjunto mínimo de regras sobre a constituição, composição, representatividade, funcionamento e competências dos agrupamentos, bem como sobre os cadernos de especificações, sempre no respeito pela noção e funções das denominações de origem e indicações geográficas. Quanto aos organismos de controlo prevê-se que os mesmos, públicos ou privados, estejam dotados de meios materiais e humanos suficientes de modo a assegurarem o controlo e verificação eficaz dos cadernos de especificações, além de obedecerem aos princípios da independência e da objetividade.
+
+Assim:
+
+Ao abrigo do artigo 393º e do n.º 1 do artigo 478.º do Código da Propriedade Industrial aprovado pelo Decreto-Legislativo n.º 2/2025, de 2 de dezembro, e No uso da faculdade conferida pela alínea b) do artigo 205º e pelo nº 3 do artigo 264º da Constituição da República de Cabo Verde;
+
+Manda o Governo, pelo Ministro da Industria, Comercio e Energia, o seguinte:
