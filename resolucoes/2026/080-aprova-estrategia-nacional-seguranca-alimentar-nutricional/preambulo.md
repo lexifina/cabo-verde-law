@@ -1,0 +1,19 @@
+# Preâmbulo
+
+de 12 de maio Sumário: Aprova a Estratégia Nacional de Segurança Alimentar e Nutricional e Sistemas Alimentares Sustentáveis de Cabo Verde-2035 (ENSANS-2035).
+
+A Estratégia Nacional de Segurança Alimentar e Nutricional e Sistemas Alimentares Sustentáveis de Cabo Verde (ENSANS) constitui o principal instrumento de orientação política e programática do Governo de Cabo Verde para assegurar o Direito Humano à Alimentação Adequada (DHAA) e promover a transformação sustentável e territorialmente equilibrada dos sistemas agroalimentares do país. Tem por finalidade o reforço da Segurança Alimentar e Nutricional, mediante o desenvolvimento de sistemas alimentares sustentáveis, resilientes e inclusivos, em articulação com as políticas de proteção social e de saúde, contribuindo para o desenvolvimento sustentável.
+
+A Lei n.º 37/IX/2018, de 16 de agosto que estabelece os princípios, normas e procedimentos que garantem o reconhecimento e o exercício efetivo do Direito Humano à Alimentação Adequada, atribui ao Estado a competência para a ordenação, planificação e regulação do setor, através da aprovação de instrumentos estratégicos, com a participação dos diversos intervenientes.
+
+Cabo Verde tem vindo a adotar instrumentos estratégicos no domínio da segurança alimentar e nutricional, designadamente a Estratégia Nacional de Segurança Alimentar e Nutricional (ENSANS) para o período 2002–2015 e a sua atualização para 2015–2020, aprovada pela Resolução n.º 69/2015, de 27 de julho, os quais contribuíram para a consolidação das políticas públicas neste setor, culminando na aprovação da Lei n.º 37/IX/2018, de 16 de agosto.
+
+Todavia, face às novas realidades nacionais e internacionais, marcadas por crescentes vulnerabilidades, designadamente de natureza climática, económica e sanitária, e pela persistente dependência alimentar externa, torna-se necessário atualizar o quadro estratégico existente, assegurando o seu alinhamento com os Objetivos de Desenvolvimento Sustentável e a Agenda 2063 da União Africana.
+
+Neste contexto, a Estratégia Nacional de Segurança Alimentar e Nutricional e Sistemas Alimentares Sustentáveis (ENSANS 2035) constitui o referencial cimeiro do planeamento estratégico de Cabo Verde para a segurança alimentar e nutricional e a transformação sustentável e territorialmente equilibrada dos sistemas agroalimentares, a partir de uma abordagem multinível, que articula os níveis nacional, insular e municipal, e preconiza planos de intervenção territorializados, orientados para a inclusão produtiva, a inovação social e a gestão participativa dos sistemas alimentares locais. Num mundo marcado por incertezas e vulnerabilidades, desde crises climáticas e pandémicas a tensões geopolíticas que expõem a nossa dependência externa, a ENSANS 2035 surge não apenas como um plano de resposta, mas como um compromisso de Estado com a soberania, a resiliência e a dignidade humana.
+
+I Série | nº 57 12 de maio de 2026 | Pág. 64 A ENSANS 2035 encontra-se fundamentada na Lei n.º 37/IX/2018, de 16 de agosto, encontrando-se igualmente articulada com os principais instrumentos de política pública nacional, designadamente o Plano Estratégico de Desenvolvimento Sustentável (PEDS II), o Plano Nacional de Alimentação e Nutrição (PNAN 2021-2025) e a Estratégia Nacional de Erradicação da Pobreza Extrema (ENEPE), bem como com os compromissos internacionais assumidos pelo Estado de Cabo Verde, constituindo-se como o referencial superior de planeamento neste domínio.
+
+É neste sentido que presente o diploma visa aprovar a ENSANS -2035, reafirmando o compromisso do país com a efetivação do Direito Humano à Alimentação Adequada e com a construção de sistemas alimentares sustentáveis, resilientes e inclusivos.
+
+Assim, Nos termos do n.º 2 do artigo 265º da Constituição, o Governo aprova a seguinte Resolução:
