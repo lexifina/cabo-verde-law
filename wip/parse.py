@@ -70,7 +70,7 @@ def norm(line: str) -> str:
     line = re.sub(r'(\d)\s+º', r'\1º', line)                          # "110 º" -> "110º"
     line = re.sub(r' - ', ' – ', line)
     line = re.sub(r'\.{3,}', '...', line)
-    line = re.sub(r'^\.(?=(PARTE|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O)b)', '', line)   # ".TÍTULO X"
+    line = re.sub(r'^\.(?=(PARTE|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O)\b)', '', line)   # ".TÍTULO X"
     m = re.match(r'^(PARTE|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O|Sec[çc][ãa]o|LIVRO)\s+([IVXLCl]+)$', line)
     if m:                                                              # "SECÇÃO Ill" -> "SECÇÃO III"
         line = f'{m.group(1)} {m.group(2).replace("l", "I")}'
