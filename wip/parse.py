@@ -211,14 +211,16 @@ def rectify_2000(units: dict) -> tuple[dict, list[str]]:
     rect = '\n'.join(clean_lines(pdf_text(URL['rect-2000'])))
     fixes = [
         ('art-065', 'a) Na definição da política de instituições', 'b) Na definição da política de instituições'),
-        ('art-153', 'nos termos da alínea p) do número 3 do artigo 134º', 'nos termos da alínea o) do número 3 do artigo 134º'),
-        ('art-260', '177 a) e c), 178º, 179º f), 180º números 2 e 4 e 182º',
-         '177º a) e c), 178º, 179º f), 180º número 1 e 182º'),
+        # the rectification quotes the printed n. 2 inexactly ("alínea p) do número 3"; printed: "alínea p) do
+        # número 1 e do número 3"): its "Deve ler-se" wording replaces the whole paragraph
+        ('art-153', 'nos termos da alínea p) do número 1 e do número 3 do artigo 134º',
+         'nos termos da alínea o) do número 3 do artigo 134º'),
+        ('art-260', '180º números 2 e 4 e 182º', '180º número 1 e 182º'),
     ]
     out = dict(units)
     changed = []
     for key, old, new in fixes:
-        assert old.split(' ')[0] in rect and new.split(',')[0][:12] in rect, (key, 'not in rectification')
+        assert new in rect, (key, 'correction not in the rectification text')
         t = out[key]['text']
         assert t.count(old) == 1, (key, old)
         out[key] = dict(out[key], text=t.replace(old, new))
