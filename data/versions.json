@@ -1,0 +1,31 @@
+{
+ "country": "CV",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CRCV",
+   "title": "Constituição da República de Cabo Verde",
+   "url": "https://www.tribunalconstitucional.cv/index.php/leis-constitucionais/",
+   "versions": [
+    {
+     "from": "1999-11-23",
+     "units": 297,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3370",
+     "sha256": "3ef6a1eeb91afedcb16b568a95d205def19c58297576c878f90f7f91af9298c6"
+    },
+    {
+     "from": "2000-02-14",
+     "units": 297,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3367",
+     "sha256": "06706e961fe423a0332177c7146916d4e1037467f98b5116e26059d3dcd78b5e"
+    },
+    {
+     "from": "2010-05-03",
+     "units": 299,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3369",
+     "sha256": "2063be36c951bbff634893afa29665a774e3f9483d7907846e0234e202f2b2b2"
+    }
+   ]
+  }
+ ]
+}
