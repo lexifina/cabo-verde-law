@@ -30,6 +30,32 @@ def state(act, upto=None):
     return units
 
 
+LETTERS = 'abcdefghijklmnopqrstuvwxyz'
+
+
+def sequence_breaks(text: str) -> list[str]:
+    """Inside one article, the numbers ("1.", "2.") and the alíneas ("a)", "b)") that open its lines must run in
+    order, alíneas restarting under each number. A break is how a reading-order fault shows up (an alínea of one
+    article landing in another). Letters follow the Portuguese alphabet with k, w, y (a, b, ..., j, k, l)."""
+    out = []
+    num, let = 0, -1
+    for l in text.splitlines()[1:]:
+        m = re.match(r'^(\d+)\. ', l)
+        if m:
+            n = int(m.group(1))
+            if n != num + 1:
+                out.append(f'number {n} after {num or "none"}')
+            num, let = n, -1
+            continue
+        m = re.match(r'^([a-z])\) ', l)
+        if m:
+            i = LETTERS.index(m.group(1))
+            if i != let + 1:
+                out.append(f'alínea {m.group(1)}) after {LETTERS[let] + ")" if let >= 0 else "none"} (under {num or "-"})')
+            let = i
+    return out
+
+
 def main():
     corpus = json.loads((HERE / 'corpus.json').read_text(encoding='utf-8'))
     report = {}
@@ -37,14 +63,20 @@ def main():
         for v in act['versions']:
             st = state(act, v['from'])
             odd = []
+            seq = {}
             for k, u in st.items():
                 for i, l in enumerate(u['text'].splitlines()[1:], 2):
                     if u['kind'] == 'art' and not re.search(r'[.;:!?)"…]$', l):
                         odd.append(f'{k}:{i}: {l[-60:]}')
-            report[f"{act['slug']}@{v['from']}"] = odd
-            print(act['slug'], v['from'], len(st), 'units;', len(odd), 'lines without final punctuation')
+                if u['kind'] == 'art' and sequence_breaks(u['text']):
+                    seq[k] = sequence_breaks(u['text'])
+            report[f"{act['slug']}@{v['from']}"] = {'no_final_punctuation': odd, 'sequence_breaks': seq}
+            print(act['slug'], v['from'], len(st), 'units;', len(odd), 'lines without final punctuation;',
+                  len(seq), 'articles whose numbers/alíneas break sequence')
             for o in odd[:12]:
                 print('   ', o)
+            for k, s in seq.items():
+                print('    seq', k, s)
     json.dump(report, open(HERE / '.tmp' / 'verify-lines.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 
@@ -54,7 +86,7 @@ if __name__ == '__main__':
 
 def an_edition_articles():
     """Articles of the Assembleia Nacional's 4th edition (2010) as word lists."""
-    lines = parse.clean_lines(parse.pdf_text(parse.URL['an-2010']))
+    lines = parse.clean_lines(parse.pdf_text(parse.URL['an-2010'], columns=False))
     lines = [l for l in lines if not re.match(r'^(2010 )?CONSTITUIÇÃO DA REPÚBLICA DE CABO VERDE( 2010)?$', l)]
     s = next(i for i, l in enumerate(lines) if l.startswith('A proclamação da Independência'))
     e = max(i for i, l in enumerate(lines) if l.startswith('ANEXOS'))

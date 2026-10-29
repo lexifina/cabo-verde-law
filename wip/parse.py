@@ -3,7 +3,8 @@
     python -X utf8 scripts/cabo-verde-law/parse.py            # writes corpus.json atomically
     python -X utf8 scripts/cabo-verde-law/parse.py --dump DIR # also writes each version's units as text, for checking
 
-Text comes from the PDFs' own text layers through poppler's pdftotext (-enc UTF-8, reading order). No OCR, no
+Text comes from the PDFs' own text layers: the two-column Boletim Oficial through PyMuPDF, read column by column
+(pdf_text); the single-column Assembleia Nacional edition (cross-check only) through poppler's pdftotext. No OCR, no
 network, no model. Everything that is decided by hand is in DECISIONS and printed in REPRODUCE.md by the builder.
 """
 from __future__ import annotations
@@ -49,9 +50,114 @@ def sha(url: str) -> str:
     return hashlib.sha256(cache_path(url).read_bytes()).hexdigest()
 
 
-def pdf_text(url: str) -> str:
-    out = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(cache_path(url)), '-'], capture_output=True, check=True)
-    return out.stdout.decode('utf-8')
+def pdf_text(url: str, columns: bool = True) -> str:
+    """The PDF's text layer, page by page ('\\f' between pages).
+
+    columns=True (the Boletim Oficial, set in two columns): PyMuPDF text blocks in reading order, column by column.
+    pdftotext's own reading order interleaves the columns on some pages of the 2010 republication (text of art. 78º
+    landed in arts. 79º/80º). A block wider than 60% of the page is full-width (titles, the act's heading); full-width
+    blocks cut the page into bands, and each band is read left column top to bottom, then right column.
+    Inside a block, PyMuPDF lines on one baseline (it splits a justified line at wide word gaps) are first merged
+    into one visual line. A visual line is then joined to the one before it when:
+    - the one before is only an item label ("a)", "1."), set apart from its text by a hanging indent; or
+    - both are capitals (a heading set over several lines), unless the one before is a bare "TÍTULO II" etc.; or
+    - the one before runs to the block's right edge (a justified line that wrapped), the new line starts no further
+      right than the one before (a paragraph's first line is indented), or, after an item's first line, no further
+      right than a hanging indent; and the new line does not start an item, article or epígrafe after a line that
+      ends a clause (".", ";", ":", ")"): "alíneas m) e" / "n) do número 1" is a wrapped cross-reference.
+    At such a wrap after a hyphen: a repeated hyphen ("cabo-" / "-verdiano", the Portuguese rule for a compound broken
+    at its hyphen) and a hyphen before a capital ("Vice-" / "Presidente") are one hyphenated word; before a small
+    letter the line break is kept for clean_lines' hyphen rule. PyMuPDF breaks words at a ligature glyph
+    ("quali\\ufb01 car", "con\\ufb01 -"), so the space after a ligature is removed.
+    columns=False: poppler pdftotext's reading order (the single-column Assembleia Nacional edition)."""
+    if not columns:
+        out = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(cache_path(url)), '-'], capture_output=True, check=True)
+        return out.stdout.decode('utf-8')
+    import fitz  # PyMuPDF  # noqa: PLC0415
+    edge, indent, hanging = 8.0, 2.0, 40.0  # points
+    label = re.compile(r'^\s*(\d+\s*\.|[a-z]\s*\))\s*$')
+    starts = re.compile(r'^\s*(\d+\s*\.\s*\S|[a-z]\s*\)|Artigo\s+\d|\()')
+    bare_head = re.compile(r'^\s*(PARTE|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O|LIVRO)\s+[IVXLCl]+\s*$')
+
+    def caps(s: str) -> bool:
+        return bool(re.search(r'[A-ZÀ-Ú]', s)) and not re.search(r'[a-zà-ú]', s)
+
+    def visual_lines(b: dict) -> list[dict]:
+        rows: list[dict] = []
+        for ln in b['lines']:
+            t = ''.join(s['text'] for s in ln['spans'])
+            if not t.strip():
+                continue
+            y = (ln['bbox'][1] + ln['bbox'][3]) / 2
+            if rows and abs(rows[-1]['y'] - y) < 2.5 and ln['bbox'][0] >= rows[-1]['bbox'][2] - 1:
+                r = rows[-1]
+                r['text'] = r['text'].rstrip() + ' ' + t.lstrip()
+                r['bbox'] = (r['bbox'][0], min(r['bbox'][1], ln['bbox'][1]), ln['bbox'][2], max(r['bbox'][3], ln['bbox'][3]))
+            else:
+                rows.append({'text': t, 'bbox': tuple(ln['bbox']), 'y': y})
+        return rows
+
+    def block_text(b: dict) -> str:
+        x1 = b['bbox'][2]
+        out: list[str] = []
+        prev = None
+        first = False  # is `prev` the first line of an item (label, then text)?
+        for ln in visual_lines(b):
+            t = re.sub(r'([ﬀ-ﬄ]) (?=[a-zà-ú-])', r'\1', ln['text'])
+            reach = ln['bbox'][0] <= prev['bbox'][0] + (hanging if first else indent) if prev else False
+            if prev is not None and label.match(out[-1]):
+                out[-1] = out[-1].strip() + ' ' + t.lstrip()
+                prev, first = ln, True
+                continue
+            if prev is not None and caps(out[-1]) and caps(t) and not bare_head.match(out[-1]):
+                out[-1] = out[-1].rstrip() + ' ' + t.lstrip()
+            elif (prev is not None and prev['bbox'][2] >= x1 - edge and reach
+                    and (not starts.match(t) or not re.search(r'[.;:)]\s*$', out[-1]))):
+                p, n = out[-1].rstrip(), t.lstrip()
+                if p.endswith('-') and n.startswith('-'):
+                    out[-1] = p + n[1:]
+                elif p.endswith('-') and n[:1].isupper():
+                    out[-1] = p + n
+                elif p.endswith('-'):
+                    out.append(t)
+                else:
+                    out[-1] = p + ' ' + n
+                first = False
+            else:
+                out.append(t)
+                first = bool(starts.match(t))
+            prev = ln
+        return '\n'.join(out)
+
+    pages = []
+    with fitz.open(cache_path(url)) as doc:
+        for page in doc:
+            w = page.rect.width
+            blocks = [b for b in page.get_text('dict', sort=False)['blocks']
+                      if b['type'] == 0 and any(s['text'].strip() for ln in b['lines'] for s in ln['spans'])]
+            mid = w / 2
+            wide = lambda b: (b['bbox'][2] - b['bbox'][0] > w * 0.6  # noqa: E731
+                              or (b['bbox'][0] < mid - 10 and b['bbox'][2] > mid + 10))  # centred across the gutter
+            full = sorted((b for b in blocks if wide(b)), key=lambda b: (b['bbox'][1], b['bbox'][0]))
+            cols = [b for b in blocks if not wide(b)]
+            cuts = [b['bbox'][1] for b in full] + [float('inf')]
+            out: list = []
+            for i, top in enumerate([float('-inf')] + [b['bbox'][1] for b in full]):
+                if i:
+                    out.append(full[i - 1])
+                band = [b for b in cols if top <= (b['bbox'][1] + b['bbox'][3]) / 2 < cuts[i]]
+                left = sorted((b for b in band if (b['bbox'][0] + b['bbox'][2]) / 2 < mid), key=lambda b: b['bbox'][1])
+                right = sorted((b for b in band if (b['bbox'][0] + b['bbox'][2]) / 2 >= mid), key=lambda b: b['bbox'][1])
+                # Before a full-width block, a left-column block lying wholly below the right column's last block
+                # opens the single-column part above it (a heading), so it is read after the right column.
+                after = []
+                if right and cuts[i] != float('inf'):
+                    floor = max(b['bbox'][3] for b in right)
+                    while left and left[-1]['bbox'][1] > floor + 5:
+                        after.insert(0, left.pop())
+                out += left + right + after
+            pages.append('\n'.join(block_text(b) for b in out))
+    return '\f'.join(pages)
 
 
 # ---------------------------------------------------------------- typesetting normalisation
@@ -314,9 +420,15 @@ def main(argv: list[str]) -> int:
     log = [json.loads(l) for l in (CACHE / 'requests.jsonl').read_text(encoding='utf-8').splitlines() if l.strip()]
     corpus['sources'][0]['requests'] = sum(1 for r in log if 'tribunalconstitucional.cv' in r.get('url', ''))
     DECISIONS.extend([
-        'Text is read from each PDF\'s own text layer with poppler pdftotext -enc UTF-8; page headers, page numbers '
-        'and print furniture are dropped, and paragraphs split by a page or column break are joined (a line-end hyphen '
-        'is kept only where the hyphenated word occurs elsewhere in the same document).',
+        'Text is read from each Boletim Oficial PDF\'s own text layer with PyMuPDF, column by column: blocks wider than '
+        '60% of the page or centred across the gutter cut the page into bands, and each band is read left column, then '
+        'right column (pdftotext\'s own order interleaved the columns on some 2010 pages, moving text of art. 78º into '
+        'arts. 79º and 80º). Inside a block, lines are joined into paragraphs by their position (a justified line '
+        'running to the right edge continues; an indented line starts a paragraph). Page headers, page numbers and '
+        'print furniture are dropped, and paragraphs split by a page or column break are joined.',
+        'Hyphens at a line break: a repeated hyphen ("cabo-" / "-verdiano", the Portuguese rule for a compound broken '
+        'at its hyphen) and a hyphen before a capital ("Procurador-" / "Geral") are kept as one hyphenated word; before '
+        'a small letter the hyphen is kept only where the hyphenated word occurs elsewhere in the same document.',
         'Typesetting is normalised once: ligatures, non-breaking spaces, curly quotes to straight, em/en dashes to "–", '
         '"1.Texto" to "1. Texto", "c )" to "c)", spaces before ; : , removed, "110 º" to "110º".',
         'One file per article (art-NNN, art-NNN-a for "Artigo Nº-A"); the article number and epígrafe are the first '
