@@ -66,11 +66,22 @@ def an_edition_articles():
             arts[cur] = [m.group(3) or '']
         elif cur and not parse.HEAD.match(l):
             arts[cur].append(l)
-    return {k: ' '.join(v).split() for k, v in arts.items()}
+    out = {}
+    for k, v in arts.items():
+        t = ' '.join(v)
+        t = re.sub(r'(2010 )?CONSTITUIÇÃO DA REPÚBLICA DE CABO VERDE( 2010)?', ' ', t)
+        t = re.sub(r'(\w)- (\w)', r'', t)
+        out[k] = fold(t)
+    return out
+
+
+def fold(t):
+    t = t.lower().replace('-', '')
+    return re.sub(r'[^\w\s]', ' ', t).split()
 
 
 def words(text):
-    return ' '.join(text.splitlines()[0].split(' ', 2)[2:] + text.splitlines()[1:]).split()
+    return fold(' '.join(text.splitlines()[0].split(' ', 3)[3:] + text.splitlines()[1:]))
 
 
 def compare_an(corpus):
