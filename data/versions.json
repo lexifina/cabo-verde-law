@@ -1,0 +1,73 @@
+{
+ "country": "CV",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CRCV",
+   "title": "Constituição da República de Cabo Verde",
+   "url": "https://www.tribunalconstitucional.cv/index.php/leis-constitucionais/",
+   "versions": [
+    {
+     "from": "1999-11-23",
+     "units": 297,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3370",
+     "sha256": "3ef6a1eeb91afedcb16b568a95d205def19c58297576c878f90f7f91af9298c6"
+    },
+    {
+     "from": "2000-02-14",
+     "units": 297,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3367",
+     "sha256": "06706e961fe423a0332177c7146916d4e1037467f98b5116e26059d3dcd78b5e"
+    },
+    {
+     "from": "2010-05-03",
+     "units": 299,
+     "source_url": "https://www.tribunalconstitucional.cv/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=199&wpfd_file_id=3369",
+     "sha256": "2063be36c951bbff634893afa29665a774e3f9483d7907846e0234e202f2b2b2"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-laboral",
+   "short": "CL",
+   "title": "Código Laboral Cabo-Verdiano (Decreto-Legislativo n.º 5/2007, de 16 de Outubro)",
+   "url": "https://faolex.fao.org/docs/pdf/cvi221870original.pdf",
+   "versions": [
+    {
+     "from": "2008-04-13",
+     "units": 433,
+     "source_url": "https://faolex.fao.org/docs/pdf/cvi221870original.pdf",
+     "sha256": "659581a8a88ff3b17f484ee17e66fe26ef9e5ac663790f352934bf585ad3fd5d"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "CP",
+   "title": "Código Penal (Decreto-Legislativo n.º 4/2003, de 18 de Novembro)",
+   "url": "https://sherloc.unodc.org/cld/uploads/res/document/cpv/2003/codigo_penal_html/Codigo_Penal_Cabo_Verde.pdf",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 392,
+     "source_url": "https://sherloc.unodc.org/cld/uploads/res/document/cpv/2003/codigo_penal_html/Codigo_Penal_Cabo_Verde.pdf",
+     "sha256": "f0c357c17e3f8667ce4d4ec9178df4d79da33ccb80e221a5afaf15e3fdbfb9e7"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-processo-penal",
+   "short": "CPP",
+   "title": "Código de Processo Penal (Decreto-Legislativo n.º 2/2005, de 7 de Fevereiro)",
+   "url": "https://sherloc.unodc.org/cld/uploads/res/document/cdigo-de-processo-penal-de-cabo-verde_html/Cabo_Verde_Code_of_Criminal_Procedure_in_Portuguese.pdf",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 494,
+     "source_url": "https://sherloc.unodc.org/cld/uploads/res/document/cdigo-de-processo-penal-de-cabo-verde_html/Cabo_Verde_Code_of_Criminal_Procedure_in_Portuguese.pdf",
+     "sha256": "620d4054001a4bed694a82b4d3def2f0f000e287bee613884aaedee8f3e73e1e"
+    }
+   ]
+  }
+ ]
+}

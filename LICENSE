@@ -1,0 +1,38 @@
+The legal texts come from the Boletim Oficial da República de Cabo Verde (Imprensa Nacional de Cabo Verde), as
+published by the Tribunal Constitucional de Cabo Verde (https://www.tribunalconstitucional.cv, "Leis
+Constitucionais"):
+
+  Lei Constitucional nº 1/V/99 and the republished Constitution, Suplemento ao Boletim Oficial, I Série, nº 43,
+  23 November 1999;
+  the rectification of Lei Constitucional nº 1/V/99, Boletim Oficial, I Série, nº 3, 14 February 2000;
+  Lei Constitucional nº 1/VII/2010 and the republished Constitution, Boletim Oficial, I Série, nº 17, 3 May 2010;
+  retrieved 28 October 2026.
+
+The Código Laboral comes from the Suplemento ao Boletim Oficial, I Série, nº 37, 16 October 2007
+(Decreto-Legislativo nº 5/2007), copy held by FAOLEX (FAO), https://faolex.fao.org/docs/pdf/cvi221870original.pdf,
+retrieved 30 October 2026.
+
+The Código de Processo Penal comes from the Ministério da Justiça's official edition, Código de Processo Penal de Cabo
+Verde (Praia, June 2005), copy held by UNODC SHERLOC,
+https://sherloc.unodc.org/cld/uploads/res/document/cdigo-de-processo-penal-de-cabo-verde_html/Cabo_Verde_Code_of_Criminal_Procedure_in_Portuguese.pdf,
+retrieved 30 October 2026.
+
+The Código Penal comes from the Ministério da Justiça's official edition, Código Penal de Cabo Verde (Praia, May
+2004), copy held by UNODC SHERLOC,
+https://sherloc.unodc.org/cld/uploads/res/document/cpv/2003/codigo_penal_html/Codigo_Penal_Cabo_Verde.pdf,
+retrieved 30 October 2026.
+
+They are official legislative texts. The Tribunal Constitucional's site states "Todos os direitos reservados" for
+the site and no licence for the texts; their copyright status is not confirmed here, and they are reproduced with
+the attribution above.
+
+Changes made by Lexifina: each version was converted to one Markdown file per article, one paragraph per line;
+spacing, quotes, dashes and ligatures were normalised; page headers, page numbers and the gazette's other contents
+were left out; part, title, chapter and section headings were gathered in one structure file; and the versions were
+arranged as git commits credited to the laws that made each change. The wording of the law was not changed.
+Neither the Imprensa Nacional, the Tribunal Constitucional, the Assembleia Nacional, the Ministério da Justiça,
+FAO nor UNODC endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

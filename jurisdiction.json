@@ -1,0 +1,10 @@
+{
+  "path": "cv",
+  "code": "CV",
+  "name": "Cabo Verde",
+  "level": "country",
+  "repo": "https://github.com/lexifina/cabo-verde-law",
+  "build": "built: Constituição da República de Cabo Verde (3 versions, 1999-11-23 to 2010-05-03, from the Boletim Oficial republications and the 2000 rectification); the 1992 and 1995 texts (scans) and the 2010 rectification (not found) are missing; Código Penal (Decreto-Legislativo 4/2003, as enacted, in force 2004-07-01; later amendments not applied); Código de Processo Penal (Decreto-Legislativo 2/2005, as enacted, in force 2005-10-01; later amendments not applied); Código Laboral (Decreto-Legislativo 5/2007, as enacted, in force 2008-04-13; later amendments not applied)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
