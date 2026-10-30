@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "30-codigo-laboral.json": {
+   "acts": [
+    "codigo-laboral"
+   ],
+   "sha256": "9b7e9a624014e467b7189c06b659eef107291a0ae3caf143e22e688aa8635715"
+  },
+  "40-codigo-penal.json": {
+   "acts": [
+    "codigo-penal"
+   ],
+   "sha256": "7055fd5b249068b0696128c739d0bff1da47e392be5256c7accfacdde4e00cf7"
+  },
+  "50-codigo-processo-penal.json": {
+   "acts": [
+    "codigo-processo-penal"
+   ],
+   "sha256": "f6127a9449a205f0dd73b7296f3021467cbcbfaa6a656b6eebcb789ca5d4038b"
+  }
+ },
+ "schema": 1
+}
