@@ -1,35 +1,41 @@
-# Cabo Verde: law history in git
+# Cabo Verde: a história do direito em git
 
+**Português** · [English](README.en.md)
 
-The law of Cabo Verde as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/pt/effort-dark.svg">
+<img alt="O direito cabo-verdiano neste repositório: o que contém, as alterações por ano de entrada em vigor, a completude face às fontes oficiais e a exatidão do conteúdo" src="data/pt/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Cabo Verde's national law, which global-law reads at `cabo-verde/national/acts/`.
+O direito de Cabo Verde como uma história git: um ficheiro por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o ato que fez cada alteração. `git blame` indica o ato por detrás de cada parágrafo; `git log` lista todas as alterações a um artigo; escolhendo uma data, obtém-se o texto em vigor nesse dia.
 
-**What is in it now:** the Constitution (Constituição da República de Cabo Verde) in three versions, of 1999, 2000 and 2010, with its preamble, its 295 articles, the closing signature and the annex (the national anthem); and three codes, each in one version, as enacted, with the decree that approved it: the Código Penal (2003, 380 articles), the Código de Processo Penal (2005, 487 articles) and the Código Laboral (2007, 416 articles). Each act's folder has a `README.md` listing its provisions, and [`data/laws.csv`](data/laws.csv) lists the laws the record names, with their dates.
+Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), uma única história git do direito de todos os países: este é o direito nacional de Cabo Verde, que o global-law lê em `cabo-verde/national/acts/`.
 
-Each act is a folder, one file per article: `codigo-laboral/art-052.md` is Article 52 (Período de férias) of the Código Laboral, and the approving decree's own articles are `dl-art-NNN.md`. The Constitution's headings (partes, títulos, capítulos, secções) are gathered in [`constituicao/estrutura.md`](constituicao/estrutura.md). The 2010 revision renumbered the Constitution, so after 3 May 2010 a file holds the article that now bears its number.
+**O que contém por agora:** a Constituição (Constituição da República de Cabo Verde) em três versões, de 1999, 2000 e 2010, com o preâmbulo, os 295 artigos, a assinatura final e o anexo (o hino nacional); e três códigos, cada um numa só versão, tal como aprovado, com o decreto que o aprovou: o Código Penal (2003, 380 artigos), o Código de Processo Penal (2005, 487 artigos) e o Código Laboral (2007, 416 artigos). A pasta de cada ato tem um `README.md` que lista as suas disposições, e [`data/laws.csv`](data/laws.csv) lista as leis que o registo menciona, com as respetivas datas.
 
-The text is in Portuguese, as the Boletim Oficial and the Ministério da Justiça's editions print it. An English translation is not part of this record.
+Cada ato é uma pasta, com um ficheiro por artigo: `codigo-laboral/art-052.md` é o artigo 52 (Período de férias) do Código Laboral, e os artigos do próprio decreto de aprovação são `dl-art-NNN.md`. As divisões da Constituição (partes, títulos, capítulos, secções) estão reunidas em [`constituicao/estrutura.md`](constituicao/estrutura.md). A revisão de 2010 renumerou a Constituição, pelo que, a partir de 3 de maio de 2010, cada ficheiro contém o artigo que passou a ter esse número.
 
-## Questions as git commands
+O texto está em português, tal como o Boletim Oficial e as edições do Ministério da Justiça o publicam. Não faz parte deste registo nenhuma tradução inglesa.
 
-| Question | Command |
+## Perguntas como comandos git
+
+| Pergunta | Comando |
 | --- | --- |
-| Every change to Article 52 of the Código Laboral (annual leave) | `git log -p --word-diff -- codigo-laboral/art-052.md` |
-| Which act wrote each paragraph of Article 52? | `git blame codigo-laboral/art-052.md` |
-| Every version of Article 52, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigo-laboral/art-052.md` |
-| Article 52 as in force on 1 January 2009 | `python tools/vigente_em.py 2009-01-01 codigo-laboral 52` |
+| Todas as alterações ao artigo 52 do Código Laboral (férias) | `git log -p --word-diff -- codigo-laboral/art-052.md` |
+| Que ato escreveu cada parágrafo do artigo 52? | `git blame codigo-laboral/art-052.md` |
+| Todas as versões do artigo 52, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigo-laboral/art-052.md` |
+| O artigo 52 em vigor em 1 de janeiro de 2009 | `python tools/vigente_em.py 2009-01-01 codigo-laboral 52` |
 
-**Outside git**, we also host this record publicly, for free:
+**Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
 
-- **[Ask Claude about Cabo Verdean law](https://global-law.lexifina.com/v1/try_claude?country=cabo-verde)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=cabo-verde)**: the same question in ChatGPT.
-- **[Search Cabo Verdean law on our site](https://lexifina.com/law?country=cabo-verde&q=f%C3%A9rias)**: a search for "férias" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=cabo-verde)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Perguntar ao Claude sobre o direito cabo-verdiano](https://global-law.lexifina.com/v1/try_claude?country=cabo-verde)**: abre o Claude com uma primeira pergunta já preparada.
+- **[Perguntar ao ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=cabo-verde)**: a mesma pergunta no ChatGPT.
+- **[Pesquisar o direito cabo-verdiano no nosso sítio](https://lexifina.com/law?country=cabo-verde&q=f%C3%A9rias)**: uma pesquisa por "férias", com o texto de cada disposição e as suas versões, sem necessidade de conta.
+- **[API REST para programadores](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=cabo-verde)**: a mesma pesquisa em JSON, sem chave. Veja a [documentação aqui](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Portuguese or in English.
+Ambos os assistentes leem o registo através do conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); da primeira vez, a conversa dá-lhe a ligação que o adiciona. Pergunte em português ou em inglês.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Aloje-o facilmente por conta própria.** Basta ter git e Python, e as ferramentas correm na sua máquina:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,59 +43,57 @@ python3 tools/countries.py add cabo-verde/national/acts
 python3 tools/law.py show 2009-01-01 cabo-verde/national/acts/codigo-laboral/art-052.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Datas
 
-Each commit is dated at noon, Atlantic/Cape_Verde, on the day the version took effect, and carries it in its `In-force:` trailer:
+Cada commit tem a data do meio-dia, hora de Atlantic/Cape_Verde, do dia em que a versão entrou em vigor, e indica-a no seu trailer `In-force:`:
 
-- the day comes from the in-force clause of the act that made the version: the Constitution on the day of its republication (Lei Constitucional nº 1/V/99, art. 185, "immediately": 23 November 1999; Lei Constitucional nº 1/VII/2010, art. 6, on publication: 3 May 2010), the Código Penal on 1 July 2004 and the Código de Processo Penal on 1 October 2005 (their decrees' arts. 10 and 5), and the Código Laboral 180 days after its publication on 16 October 2007, counted from the next day: 13 April 2008;
-- the rectification of 14 February 2000 is dated on its publication, though a rectification is read as the text of the original publication;
-- `tools/vigente_em.py` picks the version by that trailer, not by the commit date.
+- o dia resulta da norma de entrada em vigor do ato que fez a versão: a Constituição no dia da sua republicação (Lei Constitucional nº 1/V/99, art. 185, "imediatamente": 23 de novembro de 1999; Lei Constitucional nº 1/VII/2010, art. 6, na data da publicação: 3 de maio de 2010), o Código Penal em 1 de julho de 2004 e o Código de Processo Penal em 1 de outubro de 2005 (arts. 10 e 5 dos respetivos decretos), e o Código Laboral 180 dias após a sua publicação em 16 de outubro de 2007, contados a partir do dia seguinte: 13 de abril de 2008;
+- a retificação de 14 de fevereiro de 2000 tem a data da sua publicação, embora uma retificação se leia como texto da publicação original;
+- `tools/vigente_em.py` escolhe a versão por esse trailer, e não pela data do commit.
 
-The first version of the Constitution is credited to the publisher, the Imprensa Nacional de Cabo Verde, as the oldest version available, and its commit names the laws that produced the text; each later change is credited to the law that made it, and Lei Constitucional nº 1/VII/2010 to every article that differs in 2010, renumbering included. Each code is credited whole to the decree that approved it. The committer is always Lexifina.
+A primeira versão da Constituição é atribuída ao editor, a Imprensa Nacional de Cabo Verde, como a versão mais antiga disponível, e o seu commit indica as leis que produziram o texto; cada alteração posterior é atribuída à lei que a fez, e a Lei Constitucional nº 1/VII/2010 a todos os artigos que diferem em 2010, incluindo a renumeração. Cada código é atribuído por inteiro ao decreto que o aprovou. O committer é sempre a Lexifina.
 
-## How it is checked
+## Como é verificado
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus: 6 versions of 4 acts, 0 mismatches. A second build from the same corpus gave identical hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- The texts are read from the PDFs' own text layers, not scans. Every article of the 1999 and 2010 Constitution was compared, character for character, with a second, independent extraction of the same PDFs, and every paragraph of the three codes was found, in order, in one; each of the three corrections of 2000 must be found in the rectification's own text.
-- The 2010 text was compared word for word with the Assembleia Nacional's 4th edition of the Constitution (see below).
-- History is append-only: no merge commits, no commit dated in the future, and every commit's trailers parse.
+- `tools/check_repo.py` relê a partir do git cada versão no dia em que entrou em vigor e no dia anterior, e ambas têm de coincidir com o corpus: 6 versões de 4 atos, 0 divergências. Uma segunda construção a partir do mesmo corpus deu hashes idênticos. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md).
+- Os textos são lidos das próprias camadas de texto dos PDF, não de digitalizações. Cada artigo da Constituição de 1999 e de 2010 foi comparado, carácter a carácter, com uma segunda extração independente dos mesmos PDF, e cada parágrafo dos três códigos foi encontrado, pela ordem, numa delas; cada uma das três correções de 2000 tem de constar do próprio texto da retificação.
+- O texto de 2010 foi comparado palavra a palavra com a 4.ª edição da Constituição da Assembleia Nacional (ver abaixo).
+- A história só cresce por acréscimo: sem commits de fusão (merge), sem nenhum commit com data futura, e os trailers de todos os commits são legíveis.
 
-## What it does not show
+## O que não mostra
 
-- **Today's text of the codes.** Each is the text as enacted. Not applied: Decreto-Legislativo nº 5/2010, Decreto-Legislativo nº 1/2016 and Lei nº 32/X/2023 (Código Laboral); Decreto-Legislativo nº 4/2015, Lei nº 117/IX/2021, Lei nº 18/X/2023 and others (Código Penal); Decreto-Legislativo nº 5/2015, which revised and republished the Código de Processo Penal, and later laws.
-- **The Constitution before 1999.** The texts of 1992 (Lei Constitucional nº 1/IV/92) and 1995 (nº 1/IV/95) are published only as scanned images, which this record does not transcribe.
-- **The rectification of 26 July 2010** (Boletim Oficial, I Série, nº 28), not found. Six articles of the Assembleia Nacional's edition, which says it includes it, read differently (arts. 88, 91, 168, 181, 203 and 226); the record keeps the Boletim's wording.
-- **Other acts**, such as the Código Civil, the Código das Empresas Comerciais and the data protection law; and no case law or local acts.
-- **Headings, printing errors, the anthem's score.** Headings are not in the article files (the codes have no structure file); printing errors are kept as printed; the score, an image, is left out.
+- **O texto atual dos códigos.** Cada um é o texto tal como aprovado. Não estão aplicados: o Decreto-Legislativo nº 5/2010, o Decreto-Legislativo nº 1/2016 e a Lei nº 32/X/2023 (Código Laboral); o Decreto-Legislativo nº 4/2015, a Lei nº 117/IX/2021, a Lei nº 18/X/2023 e outros (Código Penal); o Decreto-Legislativo nº 5/2015, que reviu e republicou o Código de Processo Penal, e leis posteriores.
+- **A Constituição anterior a 1999.** Os textos de 1992 (Lei Constitucional nº 1/IV/92) e de 1995 (nº 1/IV/95) só estão publicados como imagens digitalizadas, que este registo não transcreve.
+- **A retificação de 26 de julho de 2010** (Boletim Oficial, I Série, nº 28), que não foi encontrada. Seis artigos da edição da Assembleia Nacional, que diz incluí-la, têm redação diferente (arts. 88, 91, 168, 181, 203 e 226); o registo mantém a redação do Boletim.
+- **Outros atos**, como o Código Civil, o Código das Empresas Comerciais e a lei de proteção de dados; e nenhuma jurisprudência nem atos locais.
+- **Epígrafes, gralhas de impressão, a partitura do hino.** As epígrafes não estão nos ficheiros dos artigos (os códigos não têm ficheiro de estrutura); as gralhas de impressão mantêm-se tal como impressas; a partitura, uma imagem, fica de fora.
 
-## Sources
+## Fontes
 
-| Source | Kind | Past versions | Notes |
+| Fonte | Tipo | Versões anteriores | Notas |
 | --- | --- | --- | --- |
-| [Tribunal Constitucional](https://www.tribunalconstitucional.cv/index.php/leis-constitucionais/): Leis Constitucionais | Official journal: Boletim Oficial PDFs (Imprensa Nacional de Cabo Verde) | yes, each constitutional law as published | The 1999, 2000 and 2010 texts; those of 1992 and 1995 are scans |
-| Suplemento ao Boletim Oficial, I Série, nº 37, 16 October 2007, copy held by [FAOLEX](https://faolex.fao.org/docs/pdf/cvi221870original.pdf) | Official journal | no, as enacted | Decreto-Legislativo nº 5/2007 and the Código Laboral |
-| Ministério da Justiça, official editions of the [Código Penal](https://sherloc.unodc.org/cld/uploads/res/document/cpv/2003/codigo_penal_html/Codigo_Penal_Cabo_Verde.pdf) (2004) and the [Código de Processo Penal](https://sherloc.unodc.org/cld/uploads/res/document/cdigo-de-processo-penal-de-cabo-verde_html/Cabo_Verde_Code_of_Criminal_Procedure_in_Portuguese.pdf) (2005), copies held by UNODC SHERLOC | Official editions | no, as enacted | Decretos-Legislativos nº 4/2003 and nº 2/2005 and the codes they approve |
-| Assembleia Nacional: Constituição da República, 4th edition (2010), published by the [Comissão Nacional de Protecção de Dados](https://www.cnpd.cv/legislacao/) | Official edition | no | A word-for-word cross-check only |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.cv/index.php/leis-constitucionais/): Leis Constitucionais | Jornal oficial: PDF do Boletim Oficial (Imprensa Nacional de Cabo Verde) | sim, cada lei constitucional tal como publicada | Os textos de 1999, 2000 e 2010; os de 1992 e 1995 são digitalizações |
+| Suplemento ao Boletim Oficial, I Série, nº 37, de 16 de outubro de 2007, cópia conservada pela [FAOLEX](https://faolex.fao.org/docs/pdf/cvi221870original.pdf) | Jornal oficial | não, tal como aprovado | O Decreto-Legislativo nº 5/2007 e o Código Laboral |
+| Ministério da Justiça, edições oficiais do [Código Penal](https://sherloc.unodc.org/cld/uploads/res/document/cpv/2003/codigo_penal_html/Codigo_Penal_Cabo_Verde.pdf) (2004) e do [Código de Processo Penal](https://sherloc.unodc.org/cld/uploads/res/document/cdigo-de-processo-penal-de-cabo-verde_html/Cabo_Verde_Code_of_Criminal_Procedure_in_Portuguese.pdf) (2005), cópias conservadas pelo UNODC SHERLOC | Edições oficiais | não, tal como aprovado | Os Decretos-Legislativos nº 4/2003 e nº 2/2005 e os códigos que aprovam |
+| Assembleia Nacional: Constituição da República, 4.ª edição (2010), publicada pela [Comissão Nacional de Protecção de Dados](https://www.cnpd.cv/legislacao/) | Edição oficial | não | Apenas uma verificação cruzada palavra a palavra |
 
-## Licence
+## Licença
 
-See [`LICENSE`](LICENSE). The texts are official legislative texts of Cabo Verde, reproduced with attribution to the Boletim Oficial (Imprensa Nacional de Cabo Verde), the Ministério da Justiça and the sites holding the copies; the Tribunal Constitucional's site publishes no licence for them, and their copyright status is not confirmed. The history, commit messages, tables and tools are CC0 1.0.
+Veja [`LICENSE`](LICENSE). Os textos são textos legislativos oficiais de Cabo Verde, reproduzidos com atribuição ao Boletim Oficial (Imprensa Nacional de Cabo Verde), ao Ministério da Justiça e aos sítios que conservam as cópias; o sítio do Tribunal Constitucional não publica nenhuma licença para eles, e o seu estatuto quanto ao direito de autor não está confirmado. A história, as mensagens de commit, as tabelas e as ferramentas estão sob CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Nenhum modelo de IA escreveu, traduziu ou corrigiu texto jurídico, e nenhum é executado quando a história é construída; os scripts foram escritos por um modelo de IA (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
-## Em português
+Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
 
-Este repositório guarda a história do direito cabo-verdiano em git: um ficheiro por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o acto que fez cada alteração. Contém a Constituição da República de Cabo Verde em três versões (1999, 2000 e 2010) e o Código Penal, o Código de Processo Penal e o Código Laboral no texto original, sem as alterações posteriores; os textos de 1992 e 1995 só existem digitalizados e não são transcritos. `python tools/vigente_em.py 2009-01-01 codigo-laboral 52` mostra o artigo 52 do Código Laboral em vigor nessa data, e `git blame codigo-laboral/art-052.md` indica o acto de cada parágrafo.
+## Mais informação
 
-## More
+Do repositório [lexifina/global-law](https://github.com/lexifina/global-law) (páginas em inglês):
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas as funcionalidades e o que cada corpus tem de suportar (`git blame`, `law.py`, ferramentas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): perguntas e respostas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): propor alterações · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): como foi construído · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): quão atualizado está cada corpus · [Monitorização](https://github.com/lexifina/global-law/tree/main/monitoring): se as atualizações estão a funcionar · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): como cada fonte oficial é vigiada para detetar alterações
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): a rapidez das ferramentas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos e ligações através do direito de todo o mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erros nos diplomas tal como foram publicados
