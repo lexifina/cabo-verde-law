@@ -61,6 +61,7 @@ The first version of the Constitution is credited to the publisher, the Imprensa
 - The texts are read from the PDFs' own text layers, not scans. Every article of the 1999 and 2010 Constitution was compared, character for character, with a second, independent extraction of the same PDFs, and every paragraph of the three codes was found, in order, in one; each of the three corrections of 2000 must be found in the rectification's own text.
 - The 2010 text was compared word for word with the Assembleia Nacional's 4th edition of the Constitution (see below).
 - History is append-only: no merge commits, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ The first version of the Constitution is credited to the publisher, the Imprensa
 See [`LICENSE`](LICENSE). The texts are official legislative texts of Cabo Verde, reproduced with attribution to the Boletim Oficial (Imprensa Nacional de Cabo Verde), the Ministério da Justiça and the sites holding the copies; the Tribunal Constitucional's site publishes no licence for them, and their copyright status is not confirmed. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

@@ -61,6 +61,7 @@ A primeira versão da Constituição é atribuída ao editor, a Imprensa Naciona
 - Os textos são lidos das próprias camadas de texto dos PDF, não de digitalizações. Cada artigo da Constituição de 1999 e de 2010 foi comparado, carácter a carácter, com uma segunda extração independente dos mesmos PDF, e cada parágrafo dos três códigos foi encontrado, pela ordem, numa delas; cada uma das três correções de 2000 tem de constar do próprio texto da retificação.
 - O texto de 2010 foi comparado palavra a palavra com a 4.ª edição da Constituição da Assembleia Nacional (ver abaixo).
 - A história só cresce por acréscimo: sem commits de fusão (merge), sem nenhum commit com data futura, e os trailers de todos os commits são legíveis.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
 
 ## O que não mostra
 
@@ -86,6 +87,10 @@ Veja [`LICENSE`](LICENSE). Os textos são textos legislativos oficiais de Cabo V
 Nenhum modelo de IA escreveu, traduziu ou corrigiu texto jurídico, e nenhum é executado quando a história é construída; os scripts foram escritos por um modelo de IA (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
+
+## Visualizações
+
+- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
 
 ## Mais informação
 
