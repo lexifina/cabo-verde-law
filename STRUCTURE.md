@@ -33,4 +33,4 @@ Boletim Oficial site is not used (its terms require prior authorisation to copy)
 
 ## Agora / Now
 
-311 acts from the runner: 289 secondary copies, 98 with the publisher's own OCR layer.
+792 acts from the runner: 769 secondary copies, 144 with the publisher's own OCR layer.
