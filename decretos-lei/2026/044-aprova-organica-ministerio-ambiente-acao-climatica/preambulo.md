@@ -1,6 +1,6 @@
 # Preâmbulo
 
-de 08 de outubro Sumário: Aprova a orgânica do Ministério do Ambiente, Ação Climática e Energia.
+Aprova a orgânica do Ministério do Ambiente, Ação Climática e Energia. 34 I Série | nº 109 08 de outubro de 2026 | Pág. 34 CONSELHO DE MINISTROS Decreto-Lei n.º 44/2026 de 08 de outubro Sumário: Aprova a orgânica do Ministério do Ambiente, Ação Climática e Energia.
 
 Na sequência da tomada de posse do XI Governo Constitucional, em 19 de junho de 2026, o Decreto -Lei n.º 38/2026, de 29 de julho, que aprovou a Orgânica do Governo, integrou o Ministro do Ambiente, Ação Climática e Energia na composição do Governo e instituiu o respetivo departamento governamental, doravante designado por MAACE, reunindo sob uma única tutela ministerial as políticas do ambiente, da ação climática e da energia, até então repartidas por diferentes departamentos governamentais.
 

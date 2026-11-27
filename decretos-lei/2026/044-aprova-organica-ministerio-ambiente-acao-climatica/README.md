@@ -1,10 +1,8 @@
-# Decreto-Lei n.º 44/2026 — Aprova a orgânica do Ministério do Ambiente, Ação Climática e Energia
+# Decreto-Lei n.º 44/2026 — Aprova a orgânica do Ministério do Ambiente, Ação Climática e Energia. 34
 
-Título no FAOLEX (inglês): Decree-Law No. 44/2026 approving the organisational structure of the Ministry of the Environment, Climate Action and Energy.
-
-- Publicação: Boletim Oficial n.º 109 de 2026-10-08
+- Publicação: Boletim Oficial de 2026-10-08
 - Entrada em vigor (data dos commits): 2026-10-09 (its own clause: "entra em vigor no dia seguinte ao da sua publicação."; published 2026-10-08)
-- Fonte: <https://faolex.fao.org/docs/pdf/cvi248340.pdf> (FAOLEX; cópia secundária; texto: publisher PDF text layer)
+- Fonte: <https://faolex.fao.org/docs/pdf/cvi248340.pdf> (FAOLEX, whole Boletim Oficial issue; cópia secundária; texto: publisher PDF text layer)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC248340/decree-law-no-44-2026-approving-the-organisational-structure-cpv-2026>
 
 | Ficheiro | Disposição |
