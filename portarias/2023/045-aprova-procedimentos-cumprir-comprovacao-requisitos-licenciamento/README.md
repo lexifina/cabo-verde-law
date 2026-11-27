@@ -1,11 +1,8 @@
 # Portaria n.º 45/2023 — Aprova os procedimentos a cumprir para comprovação dos requisitos de licenciamento e registo das pessoas singulares e coletivas que exercem atividades relacionas com a produção, controlo de qualidade e comercialização de sementes e mudas
 
-Título no FAOLEX (inglês): Order No. 45/2023 approving the procedures for the licensing and registration requirements of natural and legal persons carrying out activities related to the production, quality control and marketing of seeds and seedlings.
-
 - Publicação: Boletim Oficial n.º 106 de 2023-10-12
 - Entrada em vigor (data dos commits): 2023-10-13 (its own clause: "entra em vigor no dia seguinte ao da sua publicação."; published 2023-10-12)
-- Fonte: <https://faolex.fao.org/docs/pdf/cvi221376.pdf> (FAOLEX; cópia secundária; texto: publisher PDF text layer)
-- Registo: <https://faolex.fao.org/en/documents/LEX-FAOC221376/order-no-45-2023-approving-the-procedures-for-the-licensing-cpv-2023>
+- Fonte: <https://www.imp.cv/wp-content/uploads/2025/05/Portaria-n.o-42_2023_Aprova-o-Regulamento-da-Nautica-de-Recreio.-bo_12-10.pdf> (Instituto Marítimo e Portuário, copy of the Boletim Oficial; cópia secundária; texto: publisher PDF text layer)
 
 | Ficheiro | Disposição |
 | --- | --- |
