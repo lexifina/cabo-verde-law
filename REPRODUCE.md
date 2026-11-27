@@ -18,9 +18,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `constituicao` | Constituição da República de Cabo Verde | 3 | 1999-11-23 to 2010-05-03 |
-| `codigo-laboral` | Código Laboral Cabo-Verdiano (Decreto-Legislativo n.º 5/2007, de 16 de Outubro) | 1 | 2008-04-13 to 2008-04-13 |
-| `codigo-penal` | Código Penal (Decreto-Legislativo n.º 4/2003, de 18 de Novembro) | 1 | 2004-07-01 to 2004-07-01 |
-| `codigo-processo-penal` | Código de Processo Penal (Decreto-Legislativo n.º 2/2005, de 7 de Fevereiro) | 1 | 2005-10-01 to 2005-10-01 |
+| `codigos/codigo-laboral` | Código Laboral Cabo-Verdiano (Decreto-Legislativo n.º 5/2007, de 16 de Outubro) | 1 | 2008-04-13 to 2008-04-13 |
+| `codigos/codigo-penal` | Código Penal (Decreto-Legislativo n.º 4/2003, de 18 de Novembro) | 1 | 2004-07-01 to 2004-07-01 |
+| `codigos/codigo-processo-penal` | Código de Processo Penal (Decreto-Legislativo n.º 2/2005, de 7 de Fevereiro) | 1 | 2005-10-01 to 2005-10-01 |
 
 The build made 6 commits:
 
@@ -67,7 +67,7 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Constitution: the rectification in BO I Série nº 3 of 14 Feb 2000 corrects three printing errors in the 1999 republication (arts. 65, 153 and 260). It is dated on its publication, 14 Feb 2000, although a rectification is read as the text from the original publication.
 - Constitution: LC 1/VII/2010 art. 6 puts it in force on publication, 3 May 2010 (BO I Série nº 17). It renumbered the articles, so after 2010 an article file holds the article now bearing that number; git does not follow an article across the renumbering.
 - Checked against an independent extraction of each republication (pdftotext): art. 254 of the 1999 text ends with a full stop that the page sets apart before the next title, and it is restored; the hymn in the annex is one verse per line as printed (the 1999 reading had taken the run-on lyrics under the score, and the 2010 reading had run three pairs of verses together). No word changed.
-- Constitution: the Assembleia Nacional's 4th edition (2010) states that the 2010 text was rectified in BO I Série nº 28 of 26 Jul 2010. That rectification was not found, so it is not applied; six articles of the AN edition differ in wording from the BO republication (arts. 88, 91, 168, 181, 203, 226 of the 2010 numbering), and the record keeps the BO wording.
+- Constitution: the rectification in BO I Série nº 28 of 26 Jul 2010 (Assembleia Nacional, <https://www.parlamento.cv/arquivo/legislacao/CR-2010.pdf>, retrieved 2026-11-27) is applied as its "Deve-se ler" gives, dated on its publication: arts. 88, 91, 181, 203, 226 and 278 and the anthem's words; its entry for art. 295 changes only a line-end hyphen. Art. 168 of the Assembleia Nacional's 4th edition (2010) still differs from the BO republication and is not in the rectification; the record keeps the BO wording.
 - Código Laboral: one version, Decreto-Legislativo n.º 5/2007 and the Code it approves as published (BO I Série n.º 37, suplemento, 16 Oct 2007), credited to the decree and dated 2008-04-13: its art. 16 puts it in force "no prazo de 180 dias a contar da sua publicação", and the 180th day counted from the day after publication (Código Civil art. 279) is 13 Apr 2008. The later amendments (Decreto-Legislativo n.º 5/2010, Decreto-Legislativo n.º 1/2016, Lei n.º 32/X/2023) are not applied: the record holds the text as enacted.
 - Código Laboral: the decree's preamble and articles (dl-art-NNN) and one file per article of the Code (art-NNN); title, chapter and section headings and the approval, promulgation and signature formulas are not units. The typeset ligatures "fi" and "fl", printed with a following space ("qualiﬁ cação"), are closed up.
 - Código Penal: one version, Decreto-Legislativo n.º 4/2003 with the Code as enacted, read from the Ministério da Justiça's official edition of May 2004 (the Boletim Oficial of 18 Nov 2003 was not found with a text layer), credited to the decree and dated 2004-07-01 (decree art. 10). The later amendments (Decreto-Legislativo n.º 4/2015, Lei n.º 117/IX/2021, Lei n.º 18/X/2023 and others) are not applied: the record holds the text as enacted.
@@ -85,3 +85,19 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources; no model wrote, read or corrected any legal text, and no model runs at build time.
+
+## Laws, decrees and other acts (runner, from 2026-11-27)
+
+Built by `scripts/cabo-verde-law/runner/` (cv_fetch.py, cv_text.py, cv_build.py, cv_docs.py):
+
+1. `cv_fetch.py` reads FAOLEX's public sitemaps for Cabo Verdean records and their PDFs, and the Boletim Oficial
+   PDFs on the Assembleia Nacional's Legislação page, one request in flight per host about a second apart.
+2. `cv_build.py` reads each PDF's own text layer (no OCR), finds the act by its heading in the Boletim Oficial issue
+   (type, number, legislature and year), splits it into articles, and dates it from the act's own entry-into-force
+   clause ("no dia seguinte ao da sua publicação", "30 dias após a data da sua publicação", ...) counted from the
+   issue's date. An act with no such clause, no issue date, or no text layer is held, not guessed. FAOLEX English
+   translations are not used.
+3. Each act is one commit, as published, dated noon Atlantic/Cape_Verde on its in-force day (pre-1970 days are
+   stamped 1970-01-01 with the real day in the subject and In-force), with In-force, In-force-basis, Published,
+   Gazette, Source, Source-status and Text-source trailers. Commits are appended; corrections are later
+   `Kind: correction` commits.

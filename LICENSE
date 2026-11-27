@@ -36,3 +36,15 @@ FAO nor UNODC endorses this repository.
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+From 27 November 2026 the repository also holds acts read from these copies of the Boletim Oficial
+(each commit names its source in a Source: trailer, and Source-status: says whether the copy is official or secondary):
+
+  FAOLEX database (Food and Agriculture Organization of the United Nations), https://faolex.fao.org: PDF copies of
+  the Boletim Oficial. FAO's terms allow reproduction for non-commercial purposes with acknowledgement of FAO as the
+  source (https://www.fao.org/contact-us/terms/en/); the legal texts themselves are official texts.
+  Assembleia Nacional (https://www.parlamento.cv, Legislação): Boletim Oficial issues it publishes; no licence stated.
+
+The Boletim Oficial's own site (Imprensa Nacional de Cabo Verde) is not used: its terms forbid copying without the
+INCV's prior authorisation. Text taken from a PDF's own OCR layer (scans) is marked "Text-source: publisher OCR";
+Lexifina did no OCR. None of these publishers endorses this repository.

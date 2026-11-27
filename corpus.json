@@ -1,0 +1,23 @@
+{
+  "corpus": "cv/national/acts",
+  "label": "Cabo Verde",
+  "language": "pt",
+  "name": "Cabo Verde: the Constitution, codes, laws, decrees and other acts as published in the Boletim Oficial",
+  "dates": {
+    "commit": "in-force",
+    "time": "12:00 Atlantic/Cape_Verde (UTC-1)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the act itself (e.g. \"Lei n.º 71/VI/2005\"); maintenance commits are Lexifina",
+  "citation": {
+    "file": "((?:[a-z-]+/[0-9]{4}/[^/]+)|(?:codigos/[^/]+)|constituicao)/(?:[^/]+/)?art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(artigo|art\\.?) ?{n}\\.?º?\\b"
+  },
+  "sources": [
+    "https://www.tribunalconstitucional.cv",
+    "https://www.parlamento.cv",
+    "https://faolex.fao.org",
+    "https://sherloc.unodc.org"
+  ]
+}

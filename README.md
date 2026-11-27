@@ -11,9 +11,9 @@ O direito de Cabo Verde como uma história git: um ficheiro por artigo, um commi
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), uma única história git do direito de todos os países: este é o direito nacional de Cabo Verde, que o global-law lê em `cabo-verde/national/acts/`.
 
-**O que contém por agora:** a Constituição (Constituição da República de Cabo Verde) em três versões, de 1999, 2000 e 2010, com o preâmbulo, os 295 artigos, a assinatura final e o anexo (o hino nacional); e três códigos, cada um numa só versão, tal como aprovado, com o decreto que o aprovou: o Código Penal (2003, 380 artigos), o Código de Processo Penal (2005, 487 artigos) e o Código Laboral (2007, 416 artigos). A pasta de cada ato tem um `README.md` que lista as suas disposições, e [`data/laws.csv`](data/laws.csv) lista as leis que o registo menciona, com as respetivas datas.
+**O que contém por agora:** a Constituição (Constituição da República de Cabo Verde) em três versões, de 1999, 2000 e 2010, com o preâmbulo, os 295 artigos, a assinatura final e o anexo (o hino nacional); três códigos, cada um numa só versão, tal como aprovado, com o decreto que o aprovou: o Código Penal (2003, 380 artigos), o Código de Processo Penal (2005, 487 artigos) e o Código Laboral (2007, 416 artigos), em `codigos/` (e ainda `codigos/codigo-maritimo/`). E, tal como publicados no Boletim Oficial (1990–2025), 50 decretos-leis, 33 resoluções, 26 portarias, 22 decretos-regulamentares, 9 decretos, 9 leis, 2 acordos internacionais e 2 decretos-legislativos, cada um em `<tipo>/<ano>/<número>-<objecto>/`. A pasta de cada ato tem um `README.md` que lista as suas disposições; a organização está em [STRUCTURE.md](STRUCTURE.md).
 
-Cada ato é uma pasta, com um ficheiro por artigo: `codigo-laboral/art-052.md` é o artigo 52 (Período de férias) do Código Laboral, e os artigos do próprio decreto de aprovação são `dl-art-NNN.md`. As divisões da Constituição (partes, títulos, capítulos, secções) estão reunidas em [`constituicao/estrutura.md`](constituicao/estrutura.md). A revisão de 2010 renumerou a Constituição, pelo que, a partir de 3 de maio de 2010, cada ficheiro contém o artigo que passou a ter esse número.
+Cada ato é uma pasta, com um ficheiro por artigo: `codigos/codigo-laboral/art-052.md` é o artigo 52 (Período de férias) do Código Laboral, e os artigos do próprio decreto de aprovação são `dl-art-NNN.md`. As divisões da Constituição (partes, títulos, capítulos, secções) estão reunidas em [`constituicao/estrutura.md`](constituicao/estrutura.md). A revisão de 2010 renumerou a Constituição, pelo que, a partir de 3 de maio de 2010, cada ficheiro contém o artigo que passou a ter esse número.
 
 O texto está em português, tal como o Boletim Oficial e as edições do Ministério da Justiça o publicam. Não faz parte deste registo nenhuma tradução inglesa.
 
@@ -21,10 +21,10 @@ O texto está em português, tal como o Boletim Oficial e as edições do Minist
 
 | Pergunta | Comando |
 | --- | --- |
-| Todas as alterações ao artigo 52 do Código Laboral (férias) | `git log -p --word-diff -- codigo-laboral/art-052.md` |
-| Que ato escreveu cada parágrafo do artigo 52? | `git blame codigo-laboral/art-052.md` |
-| Todas as versões do artigo 52, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigo-laboral/art-052.md` |
-| O artigo 52 em vigor em 1 de janeiro de 2009 | `python tools/vigente_em.py 2009-01-01 codigo-laboral 52` |
+| Todas as alterações ao artigo 52 do Código Laboral (férias) | `git log -p --word-diff -- codigos/codigo-laboral/art-052.md` |
+| Que ato escreveu cada parágrafo do artigo 52? | `git blame codigos/codigo-laboral/art-052.md` |
+| Todas as versões do artigo 52, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigos/codigo-laboral/art-052.md` |
+| O artigo 52 em vigor em 1 de janeiro de 2009 | `python tools/vigente_em.py 2009-01-01 codigos/codigo-laboral 52` |
 
 **Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
 
@@ -40,7 +40,7 @@ Ambos os assistentes leem o registo através do conector gratuito Global law (MC
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add cabo-verde/national/acts
-python3 tools/law.py show 2009-01-01 cabo-verde/national/acts/codigo-laboral/art-052.md
+python3 tools/law.py show 2009-01-01 cabo-verde/national/acts/codigos/codigo-laboral/art-052.md
 ```
 
 Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -50,7 +50,7 @@ Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também
 Cada commit tem a data do meio-dia, hora de Atlantic/Cape_Verde, do dia em que a versão entrou em vigor, e indica-a no seu trailer `In-force:`:
 
 - o dia resulta da norma de entrada em vigor do ato que fez a versão: a Constituição no dia da sua republicação (Lei Constitucional nº 1/V/99, art. 185, "imediatamente": 23 de novembro de 1999; Lei Constitucional nº 1/VII/2010, art. 6, na data da publicação: 3 de maio de 2010), o Código Penal em 1 de julho de 2004 e o Código de Processo Penal em 1 de outubro de 2005 (arts. 10 e 5 dos respetivos decretos), e o Código Laboral 180 dias após a sua publicação em 16 de outubro de 2007, contados a partir do dia seguinte: 13 de abril de 2008;
-- a retificação de 14 de fevereiro de 2000 tem a data da sua publicação, embora uma retificação se leia como texto da publicação original;
+- as retificações de 14 de fevereiro de 2000 e de 26 de julho de 2010 têm a data da sua publicação, embora uma retificação se leia como texto da publicação original;
 - `tools/vigente_em.py` escolhe a versão por esse trailer, e não pela data do commit.
 
 A primeira versão da Constituição é atribuída ao editor, a Imprensa Nacional de Cabo Verde, como a versão mais antiga disponível, e o seu commit indica as leis que produziram o texto; cada alteração posterior é atribuída à lei que a fez, e a Lei Constitucional nº 1/VII/2010 a todos os artigos que diferem em 2010, incluindo a renumeração. Cada código é atribuído por inteiro ao decreto que o aprovou. O committer é sempre a Lexifina.
@@ -67,7 +67,7 @@ A primeira versão da Constituição é atribuída ao editor, a Imprensa Naciona
 
 - **O texto atual dos códigos.** Cada um é o texto tal como aprovado. Não estão aplicados: o Decreto-Legislativo nº 5/2010, o Decreto-Legislativo nº 1/2016 e a Lei nº 32/X/2023 (Código Laboral); o Decreto-Legislativo nº 4/2015, a Lei nº 117/IX/2021, a Lei nº 18/X/2023 e outros (Código Penal); o Decreto-Legislativo nº 5/2015, que reviu e republicou o Código de Processo Penal, e leis posteriores.
 - **A Constituição anterior a 1999.** Os textos de 1992 (Lei Constitucional nº 1/IV/92) e de 1995 (nº 1/IV/95) só estão publicados como imagens digitalizadas, que este registo não transcreve.
-- **A retificação de 26 de julho de 2010** (Boletim Oficial, I Série, nº 28), que não foi encontrada. Seis artigos da edição da Assembleia Nacional, que diz incluí-la, têm redação diferente (arts. 88, 91, 168, 181, 203 e 226); o registo mantém a redação do Boletim.
+- **A redação do art. 168 da edição da Assembleia Nacional.** A retificação de 26 de julho de 2010 (Boletim Oficial, I Série, nº 28, na página Legislação da Assembleia Nacional) está aplicada desde esse dia (arts. 88, 91, 181, 203, 226 e 278 e a letra do hino); o art. 168 tem ainda outra redação na edição da Assembleia Nacional, que nenhuma retificação publicada explica, e o registo mantém a redação do Boletim.
 - **Outros atos**, como o Código Civil, o Código das Empresas Comerciais e a lei de proteção de dados; e nenhuma jurisprudência nem atos locais.
 - **Epígrafes, gralhas de impressão, a partitura do hino.** As epígrafes não estão nos ficheiros dos artigos (os códigos não têm ficheiro de estrutura); as gralhas de impressão mantêm-se tal como impressas; a partitura, uma imagem, fica de fora.
 

@@ -11,9 +11,9 @@ The law of Cabo Verde as a git history: one file per article, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Cabo Verde's national law, which global-law reads at `cabo-verde/national/acts/`.
 
-**What is in it now:** the Constitution (Constituição da República de Cabo Verde) in three versions, of 1999, 2000 and 2010, with its preamble, its 295 articles, the closing signature and the annex (the national anthem); and three codes, each in one version, as enacted, with the decree that approved it: the Código Penal (2003, 380 articles), the Código de Processo Penal (2005, 487 articles) and the Código Laboral (2007, 416 articles). Each act's folder has a `README.md` listing its provisions, and [`data/laws.csv`](data/laws.csv) lists the laws the record names, with their dates.
+**What is in it now:** the Constitution (Constituição da República de Cabo Verde) in three versions, of 1999, 2000 and 2010, with its preamble, its 295 articles, the closing signature and the annex (the national anthem); three codes, each in one version, as enacted, with the decree that approved it: the Código Penal (2003, 380 articles), the Código de Processo Penal (2005, 487 articles) and the Código Laboral (2007, 416 articles), in `codigos/` (also `codigos/codigo-maritimo/`). And, as published in the Boletim Oficial (1990–2025), 50 decree-laws, 33 resolutions, 26 portarias, 22 regulatory decrees, 9 decrees, 9 laws, 2 international agreements and 2 legislative decrees, each in `<type>/<year>/<number>-<subject>/`. Each act's folder has a `README.md` listing its provisions; the layout is in [STRUCTURE.md](STRUCTURE.md).
 
-Each act is a folder, one file per article: `codigo-laboral/art-052.md` is Article 52 (Período de férias) of the Código Laboral, and the approving decree's own articles are `dl-art-NNN.md`. The Constitution's headings (partes, títulos, capítulos, secções) are gathered in [`constituicao/estrutura.md`](constituicao/estrutura.md). The 2010 revision renumbered the Constitution, so after 3 May 2010 a file holds the article that now bears its number.
+Each act is a folder, one file per article: `codigos/codigo-laboral/art-052.md` is Article 52 (Período de férias) of the Código Laboral, and the approving decree's own articles are `dl-art-NNN.md`. The Constitution's headings (partes, títulos, capítulos, secções) are gathered in [`constituicao/estrutura.md`](constituicao/estrutura.md). The 2010 revision renumbered the Constitution, so after 3 May 2010 a file holds the article that now bears its number.
 
 The text is in Portuguese, as the Boletim Oficial and the Ministério da Justiça's editions print it. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in Portuguese, as the Boletim Oficial and the Ministério da Justiç
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 52 of the Código Laboral (annual leave) | `git log -p --word-diff -- codigo-laboral/art-052.md` |
-| Which act wrote each paragraph of Article 52? | `git blame codigo-laboral/art-052.md` |
-| Every version of Article 52, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigo-laboral/art-052.md` |
-| Article 52 as in force on 1 January 2009 | `python tools/vigente_em.py 2009-01-01 codigo-laboral 52` |
+| Every change to Article 52 of the Código Laboral (annual leave) | `git log -p --word-diff -- codigos/codigo-laboral/art-052.md` |
+| Which act wrote each paragraph of Article 52? | `git blame codigos/codigo-laboral/art-052.md` |
+| Every version of Article 52, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigos/codigo-laboral/art-052.md` |
+| Article 52 as in force on 1 January 2009 | `python tools/vigente_em.py 2009-01-01 codigos/codigo-laboral 52` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add cabo-verde/national/acts
-python3 tools/law.py show 2009-01-01 cabo-verde/national/acts/codigo-laboral/art-052.md
+python3 tools/law.py show 2009-01-01 cabo-verde/national/acts/codigos/codigo-laboral/art-052.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -50,7 +50,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 Each commit is dated at noon, Atlantic/Cape_Verde, on the day the version took effect, and carries it in its `In-force:` trailer:
 
 - the day comes from the in-force clause of the act that made the version: the Constitution on the day of its republication (Lei Constitucional nº 1/V/99, art. 185, "immediately": 23 November 1999; Lei Constitucional nº 1/VII/2010, art. 6, on publication: 3 May 2010), the Código Penal on 1 July 2004 and the Código de Processo Penal on 1 October 2005 (their decrees' arts. 10 and 5), and the Código Laboral 180 days after its publication on 16 October 2007, counted from the next day: 13 April 2008;
-- the rectification of 14 February 2000 is dated on its publication, though a rectification is read as the text of the original publication;
+- the rectifications of 14 February 2000 and 26 July 2010 are dated on their publication, though a rectification is read as the text of the original publication;
 - `tools/vigente_em.py` picks the version by that trailer, not by the commit date.
 
 The first version of the Constitution is credited to the publisher, the Imprensa Nacional de Cabo Verde, as the oldest version available, and its commit names the laws that produced the text; each later change is credited to the law that made it, and Lei Constitucional nº 1/VII/2010 to every article that differs in 2010, renumbering included. Each code is credited whole to the decree that approved it. The committer is always Lexifina.
@@ -67,7 +67,7 @@ The first version of the Constitution is credited to the publisher, the Imprensa
 
 - **Today's text of the codes.** Each is the text as enacted. Not applied: Decreto-Legislativo nº 5/2010, Decreto-Legislativo nº 1/2016 and Lei nº 32/X/2023 (Código Laboral); Decreto-Legislativo nº 4/2015, Lei nº 117/IX/2021, Lei nº 18/X/2023 and others (Código Penal); Decreto-Legislativo nº 5/2015, which revised and republished the Código de Processo Penal, and later laws.
 - **The Constitution before 1999.** The texts of 1992 (Lei Constitucional nº 1/IV/92) and 1995 (nº 1/IV/95) are published only as scanned images, which this record does not transcribe.
-- **The rectification of 26 July 2010** (Boletim Oficial, I Série, nº 28), not found. Six articles of the Assembleia Nacional's edition, which says it includes it, read differently (arts. 88, 91, 168, 181, 203 and 226); the record keeps the Boletim's wording.
+- **The Assembleia Nacional edition's wording of art. 168.** The rectification of 26 July 2010 (Boletim Oficial, I Série, nº 28, on the Assembleia Nacional's Legislação page) is applied from that day (arts. 88, 91, 181, 203, 226 and 278 and the words of the anthem); art. 168 still reads differently in the Assembleia Nacional's edition, which no published rectification explains, and the record keeps the Boletim's wording.
 - **Other acts**, such as the Código Civil, the Código das Empresas Comerciais and the data protection law; and no case law or local acts.
 - **Headings, printing errors, the anthem's score.** Headings are not in the article files (the codes have no structure file); printing errors are kept as printed; the score, an image, is left out.
 
